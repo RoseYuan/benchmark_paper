@@ -1,0 +1,176 @@
+---
+title: "PBMC10X RNA Exploration"
+author: "Siyuan Luo"
+date: "2022-10-15"
+output:
+  html_document:
+    df_print: paged
+    toc: TRUE
+    toc_float: TRUE
+    theme: default
+# editor_options:
+#   chunk_output_type: console
+editor_options: 
+  chunk_output_type: inline
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Prerequisite
+```{r,eval=FALSE}
+# install
+setRepositories(ind=1:3) # needed to automatically install Bioconductor dependencies
+install.packages("Signac")
+BiocManager::install(c('BSgenome.Hsapiens.UCSC.hg19', 'EnsDb.Hsapiens.v75'))
+BiocManager::install(c('BSgenome.Hsapiens.UCSC.hg38', 'EnsDb.Hsapiens.v86'))
+BiocManager::install(c('BSgenome.Mmusculus.UCSC.mm10', 'EnsDb.Mmusculus.v79'))
+```
+
+```{r,message=FALSE}
+library(Seurat)
+library(GenomeInfoDb)
+library(EnsDb.Hsapiens.v86)
+library(BSgenome.Hsapiens.UCSC.hg38)
+library(ggplot2)
+library(patchwork)
+library(Matrix)
+library(dplyr)
+library(scDblFinder)
+library(BiocSingular)
+library(scater)
+
+# dyn.load('/usr/local/hdf5/lib/libhdf5.so.200')
+library(hdf5r)
+set.seed(1234)
+
+```
+
+```{r}
+# computer specific settings
+proj_dir <- "/home/siluo/nme_public/SiyuanLuo/projects/sc_chromatin_benchmark/"
+software_dir <- "/home/siluo/Software/"
+setwd(paste0(proj_dir, "PBMC_multi-omics_10X/rna"))
+```
+
+```{r, eval=FALSE, include=FALSE}
+proj_dir <- "/home/siluo/public/SiyuanLuo/projects/sc_chromatin_benchmark/"
+software_dir <- "/home/siluo/softwares/"
+setwd(paste0(proj_dir, "PBMC_multi-omics_10X/rna"))
+```
+
+# Exploration
+## Choose resolution for clustering
+
+```{r,message=FALSE, warning = FALSE}
+pbmc_rna <- readRDS(paste0(proj_dir,"PBMC_multi-omics_10X/rna/pbmc_rna3_with_curated_annotation.rds"))
+
+pbmc_rna <- FindNeighbors(pbmc_rna, dims = 1:13)
+
+for (r in c(0.4, 0.6, 0.8, 1, 1.2, 1.4, 1.6, 1.8, 2)) {
+  pbmc_rna <- FindClusters(pbmc_rna, resolution = r)
+  pbmc_rna[[paste0("rna_clusters_r",r)]] <- pbmc_rna$seurat_clusters
+  pbmc_rna <- FindClusters(pbmc_rna, resolution = r, algorithm=4)
+  pbmc_rna[[paste0("rna_clusters_leiden_r",r)]] <- pbmc_rna$seurat_clusters
+}
+```
+
+```{r,fig.keep='all'}
+silhouette_coefficient <- data.frame()
+pca <- Embeddings(Reductions(pbmc_rna,"pca"))
+dist.matrix <- dist(x = pca[, 1:13])
+
+for (r in c(0.4, 0.6, 0.8, 1, 1.2, 1.4, 1.6, 1.8, 2)) {
+  clustering.use <- paste0("rna_clusters_r",r)
+  clusters <- pbmc_rna[[clustering.use]][[1]]
+  sil <- cluster::silhouette(x = as.numeric(x = as.factor(x = clusters)), dist = dist.matrix)
+  res <- data.frame(
+    "silhouette" = mean(sil[, 3]),
+    "method" = "Louvin",
+    "resolution" = r)
+  silhouette_coefficient <- rbind(silhouette_coefficient, res)
+  
+  clustering.use <- paste0("rna_clusters_leiden_r",r)
+  clusters <- pbmc_rna[[clustering.use]][[1]]
+  sil <- cluster::silhouette(x = as.numeric(x = as.factor(x = clusters)), dist = dist.matrix)
+  res <- data.frame(
+    "silhouette" = mean(sil[, 3]),
+    "method" = "Leiden",
+    "resolution" = r)
+  silhouette_coefficient <- rbind(silhouette_coefficient, res)
+}
+
+plot12 <- ggplot(silhouette_coefficient, aes(x = resolution, y = silhouette, color = method)) + geom_line(size=1) +
+  geom_point(size=2) +
+  xlab("Resolution for clustering") +
+  ylab("Mean Silhouette") +
+  theme_bw() +
+  ylim(0, 0.5) +
+  guides(color = guide_legend(title = "Clustering algorithm"))
+
+plot13 <- ggplot(silhouette_coefficient, aes(x = resolution, y = silhouette, color = method)) + geom_line(size=1) +
+  geom_point(size=2) +
+  xlab("Resolution for clustering") +
+  ylab("Mean Silhouette") +
+  theme_bw() +
+  ylim(0.1, 0.3) +
+  guides(color = guide_legend(title = "Clustering algorithm"))
+plot12
+plot13
+```
+
+```{r, fig.width=8,fig.height=8,fig.keep='all'}
+library(clustree)
+pbmc_rna <- BuildClusterTree(object = pbmc_rna)
+pbmc_rna$rna_clusters_r0.8_old <- NULL
+plot10 <- clustree(pbmc_rna, prefix = "rna_clusters_r")
+plot11 <- clustree(pbmc_rna,prefix = "rna_clusters_leiden_r")
+plot10
+plot11 
+```
+
+Choose: Louvin algorithm, resolution=0.8
+
+## Prediction score, mapping score
+```{r,fig.width=8}
+pbmc_rna <- readRDS(paste0(proj_dir,"PBMC_multi-omics_10X/rna/pbmc_rna1_after_reference_mapping.rds"))
+plot14 <- ggplot(pbmc_rna[["prediction.score.max"]], aes(x=prediction.score.max)) +
+  geom_histogram(binwidth=0.02, fill="#69b3a2", color="#e9ecef", alpha=0.9) +
+  geom_vline(aes(xintercept=0.6, color="red"),
+             linetype="dashed") + 
+  theme(legend.position="none") +
+  annotate("text", x = 0.67, y = 2600, label = "cutoff=0.6") +
+  labs(title="Maximum cell-type prediction score histogram", x="Maximum prediction score", y = "Count")
+
+plot15 <- ggplot(pbmc_rna[["mapping.score"]], aes(x=mapping.score)) +
+  geom_histogram(binwidth=0.02, fill="#E69F00", color="#e9ecef", alpha=0.9) +
+  geom_vline(aes(xintercept=0.6, color="red"), linetype="dashed") +
+  theme(legend.position="none") +
+  annotate("text", x = 0.67, y = 1500, label = "cutoff=0.6") +
+  labs(title="Mapping score histogram", x="Mapping score", y = "Count")
+
+plot14+plot15
+```
+
+```{r,eval=FALSE, include=FALSE}
+pdf(file = paste0(proj_dir,"PBMC_multi-omics_10X/rna/clustree.pdf"), width = 8, height = 10)
+plot10
+plot11
+dev.off()
+
+pdf(file = paste0(proj_dir,"PBMC_multi-omics_10X/rna/resolution_for_rna_clustering.pdf"), width = 6, height = 4)
+plot12
+plot13
+dev.off()
+
+pdf(file = paste0(proj_dir,"PBMC_multi-omics_10X/rna/reference_mapping_evaluation.pdf"), width = 6, height = 4)
+plot14
+plot15
+dev.off()
+```
+
+```{r,message=FALSE}
+pbmc_rna[[c("nCount_RNA","gex_barcode")]]
+```
+

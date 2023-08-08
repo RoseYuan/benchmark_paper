@@ -1,0 +1,2231 @@
+"cell_type"	"negative_fraction"	"long_method"	"dataset"	"dataset2"	"ndim"
+"293T"	0	"Signac_by_cluster_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"GM12878"	0.16342082980525	"Signac_by_cluster_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"HT1080"	0.00453001132502831	"Signac_by_cluster_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"HeLa"	0.00132333480370534	"Signac_by_cluster_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"Jurkat"	0.00176289114147201	"Signac_by_cluster_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"K562"	0.0488573680063042	"Signac_by_cluster_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"MCF10A"	0.0117647058823529	"Signac_by_cluster_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"MCF7"	0.0183673469387755	"Signac_by_cluster_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"T24"	0	"Signac_by_cluster_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"THP1"	0.0069204152249135	"Signac_by_cluster_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"293T"	0	"Signac_all_cell_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"GM12878"	0.135901778154107	"Signac_all_cell_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"HT1080"	0.00528501321253303	"Signac_all_cell_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"HeLa"	0.00132333480370534	"Signac_all_cell_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"Jurkat"	0.00220361392684002	"Signac_all_cell_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"K562"	0.0457052797478329	"Signac_all_cell_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"MCF10A"	0.00784313725490196	"Signac_all_cell_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"MCF7"	0.0142857142857143	"Signac_all_cell_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"T24"	0	"Signac_all_cell_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"THP1"	0.0069204152249135	"Signac_all_cell_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"293T"	0.00196353436185133	"ArchR_tiles"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"GM12878"	0.0169348010160881	"ArchR_tiles"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"HT1080"	0.164967912419781	"ArchR_tiles"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"HeLa"	0.0868989854433172	"ArchR_tiles"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"Jurkat"	0.00572939620978405	"ArchR_tiles"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"K562"	0.0401891252955083	"ArchR_tiles"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"MCF10A"	0	"ArchR_tiles"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"MCF7"	0.0285714285714286	"ArchR_tiles"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"T24"	0.0694323144104804	"ArchR_tiles"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"THP1"	0.00576701268742791	"ArchR_tiles"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"293T"	0.00364656381486676	"ArchR_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"GM12878"	0.0338696020321761	"ArchR_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"HT1080"	0.192902982257456	"ArchR_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"HeLa"	0.0838112042346714	"ArchR_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"Jurkat"	0.0114587924195681	"ArchR_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"K562"	0.0433412135539795	"ArchR_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"MCF10A"	0	"ArchR_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"MCF7"	0.026530612244898	"ArchR_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"T24"	0.0868995633187773	"ArchR_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"THP1"	0.0115340253748558	"ArchR_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"293T"	0	"SnapATAC1"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"GM12878"	0.0220152413209145	"SnapATAC1"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"HT1080"	0	"SnapATAC1"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"HeLa"	0.00397000441111601	"SnapATAC1"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"Jurkat"	0.00176289114147201	"SnapATAC1"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"K562"	0.0559495665878645	"SnapATAC1"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"MCF10A"	0.00784313725490196	"SnapATAC1"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"MCF7"	0.00204081632653061	"SnapATAC1"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"T24"	0.000436681222707424	"SnapATAC1"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"THP1"	0.0069204152249135	"SnapATAC1"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"293T"	0	"aggregation"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"GM12878"	0.000423370025402202	"aggregation"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"HT1080"	0.000377500943752359	"aggregation"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"HeLa"	0.000441111601235112	"aggregation"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"Jurkat"	0.000440722785368004	"aggregation"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"K562"	0.0086682427107959	"aggregation"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"MCF10A"	0.00588235294117647	"aggregation"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"MCF7"	0.00204081632653061	"aggregation"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"T24"	0	"aggregation"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"THP1"	0.00346020761245675	"aggregation"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"293T"	0	"SnapATAC2_jaccard"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"GM12878"	0.0300592718035563	"SnapATAC2_jaccard"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"HT1080"	0.0143450358625897	"SnapATAC2_jaccard"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"HeLa"	0.0167622408469343	"SnapATAC2_jaccard"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"Jurkat"	0.00881445570736007	"SnapATAC2_jaccard"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"K562"	0.0630417651694247	"SnapATAC2_jaccard"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"MCF10A"	0.0529411764705882	"SnapATAC2_jaccard"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"MCF7"	0.0387755102040816	"SnapATAC2_jaccard"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"T24"	0.0676855895196507	"SnapATAC2_jaccard"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"THP1"	0.0126874279123414	"SnapATAC2_jaccard"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"293T"	0	"SnapATAC2_cosine"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"GM12878"	0.0681625740897544	"SnapATAC2_cosine"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"HT1080"	0.00830502076255191	"SnapATAC2_cosine"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"HeLa"	0.00573445081605646	"SnapATAC2_cosine"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"Jurkat"	0.00528867342441604	"SnapATAC2_cosine"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"K562"	0.0488573680063042	"SnapATAC2_cosine"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"MCF10A"	0.0352941176470588	"SnapATAC2_cosine"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"MCF7"	0.0408163265306122	"SnapATAC2_cosine"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"T24"	0.0262008733624454	"SnapATAC2_cosine"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"THP1"	0.00922722029988466	"SnapATAC2_cosine"	"Cell line mixing experiment"	"Cell_line_mixing"	15
+"Alveolar_Type_1_Cell"	0	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	15
+"Colonic_Goblet_Cell"	0.1	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	15
+"Esophageal_Epithelial_Cell"	0.7828125	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	15
+"Hepatocyte"	0.00175233644859813	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	15
+"Luteal_Cell_Ovarian"	0.00393258426966292	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	15
+"Mammary_Epithelial"	0.0755864465682016	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	15
+"Pancreatic_Acinar_Cell"	0.000333555703802535	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	15
+"Parietal_Cell"	0.111111111111111	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	15
+"Small_Intestinal_Enterocyte"	0.249221183800623	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	15
+"Smooth_Muscle_GE_Junction"	0.206827309236948	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	15
+"Thyroid_Follicular_Cell"	0.011989509179468	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	15
+"Type_I_Skeletal_Myocyte"	0.00648379052369077	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	15
+"Vascular_Smooth_Muscle_1"	0.0166453265044814	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	15
+"Alveolar_Type_1_Cell"	0	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	15
+"Colonic_Goblet_Cell"	0.113513513513514	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	15
+"Esophageal_Epithelial_Cell"	0.801953125	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	15
+"Hepatocyte"	0.00175233644859813	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	15
+"Luteal_Cell_Ovarian"	0.00280898876404494	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	15
+"Mammary_Epithelial"	0.0703735881841877	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	15
+"Pancreatic_Acinar_Cell"	0.000333555703802535	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	15
+"Parietal_Cell"	0.0950080515297907	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	15
+"Small_Intestinal_Enterocyte"	0.251557632398754	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	15
+"Smooth_Muscle_GE_Junction"	0.180722891566265	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	15
+"Thyroid_Follicular_Cell"	0.00899213188460097	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	15
+"Type_I_Skeletal_Myocyte"	0.00448877805486284	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	15
+"Vascular_Smooth_Muscle_1"	0.0132309005548442	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	15
+"Alveolar_Type_1_Cell"	0.28169014084507	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	15
+"Colonic_Goblet_Cell"	0.145945945945946	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	15
+"Esophageal_Epithelial_Cell"	0.277734375	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	15
+"Hepatocyte"	0	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	15
+"Luteal_Cell_Ovarian"	0.158426966292135	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	15
+"Mammary_Epithelial"	0.172893136403128	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	15
+"Pancreatic_Acinar_Cell"	0.157104736490994	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	15
+"Parietal_Cell"	0.236714975845411	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	15
+"Small_Intestinal_Enterocyte"	0.670560747663551	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	15
+"Smooth_Muscle_GE_Junction"	0.295180722891566	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	15
+"Thyroid_Follicular_Cell"	0.11989509179468	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	15
+"Type_I_Skeletal_Myocyte"	0.162094763092269	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	15
+"Vascular_Smooth_Muscle_1"	0.263764404609475	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	15
+"Alveolar_Type_1_Cell"	0.23943661971831	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	15
+"Colonic_Goblet_Cell"	0.124324324324324	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	15
+"Esophageal_Epithelial_Cell"	0.244140625	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	15
+"Hepatocyte"	0	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	15
+"Luteal_Cell_Ovarian"	0.135393258426966	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	15
+"Mammary_Epithelial"	0.17115551694179	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	15
+"Pancreatic_Acinar_Cell"	0.148432288192128	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	15
+"Parietal_Cell"	0.223832528180354	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	15
+"Small_Intestinal_Enterocyte"	0.636292834890966	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	15
+"Smooth_Muscle_GE_Junction"	0.289156626506024	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	15
+"Thyroid_Follicular_Cell"	0.111652304233795	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	15
+"Type_I_Skeletal_Myocyte"	0.151122194513716	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	15
+"Vascular_Smooth_Muscle_1"	0.259923175416133	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	15
+"Alveolar_Type_1_Cell"	0.028169014084507	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	15
+"Colonic_Goblet_Cell"	0.0243243243243243	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	15
+"Esophageal_Epithelial_Cell"	0.0171875	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	15
+"Hepatocyte"	0	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	15
+"Luteal_Cell_Ovarian"	0.00393258426966292	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	15
+"Mammary_Epithelial"	0.0390964378801043	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	15
+"Pancreatic_Acinar_Cell"	0.000333555703802535	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	15
+"Parietal_Cell"	0.0112721417069243	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	15
+"Small_Intestinal_Enterocyte"	0.0101246105919003	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	15
+"Smooth_Muscle_GE_Junction"	0.0200803212851406	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	15
+"Thyroid_Follicular_Cell"	0	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	15
+"Type_I_Skeletal_Myocyte"	0	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	15
+"Vascular_Smooth_Muscle_1"	0.00128040973111396	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	15
+"Alveolar_Type_1_Cell"	0	"aggregation"	"human adult atlas subset1"	"candidate1"	15
+"Colonic_Goblet_Cell"	0.0027027027027027	"aggregation"	"human adult atlas subset1"	"candidate1"	15
+"Esophageal_Epithelial_Cell"	0.004296875	"aggregation"	"human adult atlas subset1"	"candidate1"	15
+"Hepatocyte"	0.00058411214953271	"aggregation"	"human adult atlas subset1"	"candidate1"	15
+"Luteal_Cell_Ovarian"	0.0432584269662921	"aggregation"	"human adult atlas subset1"	"candidate1"	15
+"Mammary_Epithelial"	0.00173761946133797	"aggregation"	"human adult atlas subset1"	"candidate1"	15
+"Pancreatic_Acinar_Cell"	0	"aggregation"	"human adult atlas subset1"	"candidate1"	15
+"Parietal_Cell"	0	"aggregation"	"human adult atlas subset1"	"candidate1"	15
+"Small_Intestinal_Enterocyte"	0.0171339563862928	"aggregation"	"human adult atlas subset1"	"candidate1"	15
+"Smooth_Muscle_GE_Junction"	0.0321285140562249	"aggregation"	"human adult atlas subset1"	"candidate1"	15
+"Thyroid_Follicular_Cell"	0.00112401648557512	"aggregation"	"human adult atlas subset1"	"candidate1"	15
+"Type_I_Skeletal_Myocyte"	0.000498753117206983	"aggregation"	"human adult atlas subset1"	"candidate1"	15
+"Vascular_Smooth_Muscle_1"	0.0456679470763978	"aggregation"	"human adult atlas subset1"	"candidate1"	15
+"Alveolar_Type_1_Cell"	0.0422535211267606	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	15
+"Colonic_Goblet_Cell"	0.0405405405405405	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	15
+"Esophageal_Epithelial_Cell"	0.07734375	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	15
+"Hepatocyte"	0.0210280373831776	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	15
+"Luteal_Cell_Ovarian"	0.364606741573034	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	15
+"Mammary_Epithelial"	0.1624674196351	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	15
+"Pancreatic_Acinar_Cell"	0.0587058038692462	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	15
+"Parietal_Cell"	0.0322061191626409	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	15
+"Small_Intestinal_Enterocyte"	0.222741433021807	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	15
+"Smooth_Muscle_GE_Junction"	0	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	15
+"Thyroid_Follicular_Cell"	0.0599475458973398	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	15
+"Type_I_Skeletal_Myocyte"	0.0443890274314214	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	15
+"Vascular_Smooth_Muscle_1"	0.192061459667093	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	15
+"Alveolar_Type_1_Cell"	0.0328638497652582	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	15
+"Colonic_Goblet_Cell"	0.0351351351351351	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	15
+"Esophageal_Epithelial_Cell"	0.0328125	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	15
+"Hepatocyte"	0	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	15
+"Luteal_Cell_Ovarian"	0.00280898876404494	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	15
+"Mammary_Epithelial"	0.0469157254561251	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	15
+"Pancreatic_Acinar_Cell"	0	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	15
+"Parietal_Cell"	0.0161030595813204	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	15
+"Small_Intestinal_Enterocyte"	0.0716510903426791	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	15
+"Smooth_Muscle_GE_Junction"	0.0240963855421687	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	15
+"Thyroid_Follicular_Cell"	0	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	15
+"Type_I_Skeletal_Myocyte"	0	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	15
+"Vascular_Smooth_Muscle_1"	0.00170721297481861	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	15
+"Alveolar_Type_1_Cell"	0.149295774647887	"Signac_all_cell_peaks"	"human adult atlas subset2"	"candidate2"	15
+"Colon_Epithelial_Cell_1"	0.0038860103626943	"Signac_all_cell_peaks"	"human adult atlas subset2"	"candidate2"	15
+"Ductal_Cell_Pancreatic"	0.0572687224669604	"Signac_all_cell_peaks"	"human adult atlas subset2"	"candidate2"	15
+"Luteal_Cell_Ovarian"	0.000674081563869228	"Signac_all_cell_peaks"	"human adult atlas subset2"	"candidate2"	15
+"Mammary_Epithelial"	0.396246089676747	"Signac_all_cell_peaks"	"human adult atlas subset2"	"candidate2"	15
+"Parietal_Cell"	0.104247104247104	"Signac_all_cell_peaks"	"human adult atlas subset2"	"candidate2"	15
+"Peripheral_Nerve_Stromal"	0.168195718654434	"Signac_all_cell_peaks"	"human adult atlas subset2"	"candidate2"	15
+"Small_Intestinal_Enterocyte"	0.258411214953271	"Signac_all_cell_peaks"	"human adult atlas subset2"	"candidate2"	15
+"Smooth_Muscle_Uterine"	0.00545851528384279	"Signac_all_cell_peaks"	"human adult atlas subset2"	"candidate2"	15
+"Vascular_Smooth_Muscle_2"	0.343558282208589	"Signac_all_cell_peaks"	"human adult atlas subset2"	"candidate2"	15
+"Alveolar_Type_1_Cell"	0.163380281690141	"Signac_by_cluster_peaks"	"human adult atlas subset2"	"candidate2"	15
+"Colon_Epithelial_Cell_1"	0.00345423143350604	"Signac_by_cluster_peaks"	"human adult atlas subset2"	"candidate2"	15
+"Ductal_Cell_Pancreatic"	0.0550660792951542	"Signac_by_cluster_peaks"	"human adult atlas subset2"	"candidate2"	15
+"Luteal_Cell_Ovarian"	0.000674081563869228	"Signac_by_cluster_peaks"	"human adult atlas subset2"	"candidate2"	15
+"Mammary_Epithelial"	0.292492179353493	"Signac_by_cluster_peaks"	"human adult atlas subset2"	"candidate2"	15
+"Parietal_Cell"	0.147683397683398	"Signac_by_cluster_peaks"	"human adult atlas subset2"	"candidate2"	15
+"Peripheral_Nerve_Stromal"	0.17737003058104	"Signac_by_cluster_peaks"	"human adult atlas subset2"	"candidate2"	15
+"Small_Intestinal_Enterocyte"	0.263551401869159	"Signac_by_cluster_peaks"	"human adult atlas subset2"	"candidate2"	15
+"Smooth_Muscle_Uterine"	0.00491266375545852	"Signac_by_cluster_peaks"	"human adult atlas subset2"	"candidate2"	15
+"Vascular_Smooth_Muscle_2"	0.328732106339468	"Signac_by_cluster_peaks"	"human adult atlas subset2"	"candidate2"	15
+"Alveolar_Type_1_Cell"	0.236619718309859	"ArchR_peaks"	"human adult atlas subset2"	"candidate2"	15
+"Colon_Epithelial_Cell_1"	0.107512953367876	"ArchR_peaks"	"human adult atlas subset2"	"candidate2"	15
+"Ductal_Cell_Pancreatic"	0.182819383259912	"ArchR_peaks"	"human adult atlas subset2"	"candidate2"	15
+"Luteal_Cell_Ovarian"	0.390293225480283	"ArchR_peaks"	"human adult atlas subset2"	"candidate2"	15
+"Mammary_Epithelial"	0.216371220020855	"ArchR_peaks"	"human adult atlas subset2"	"candidate2"	15
+"Parietal_Cell"	0.185328185328185	"ArchR_peaks"	"human adult atlas subset2"	"candidate2"	15
+"Peripheral_Nerve_Stromal"	0.207951070336391	"ArchR_peaks"	"human adult atlas subset2"	"candidate2"	15
+"Small_Intestinal_Enterocyte"	0.397196261682243	"ArchR_peaks"	"human adult atlas subset2"	"candidate2"	15
+"Smooth_Muscle_Uterine"	0.0518558951965066	"ArchR_peaks"	"human adult atlas subset2"	"candidate2"	15
+"Vascular_Smooth_Muscle_2"	0.625255623721881	"ArchR_peaks"	"human adult atlas subset2"	"candidate2"	15
+"Alveolar_Type_1_Cell"	0.0197183098591549	"SnapATAC1"	"human adult atlas subset2"	"candidate2"	15
+"Colon_Epithelial_Cell_1"	0.0142487046632124	"SnapATAC1"	"human adult atlas subset2"	"candidate2"	15
+"Ductal_Cell_Pancreatic"	0.0308370044052863	"SnapATAC1"	"human adult atlas subset2"	"candidate2"	15
+"Luteal_Cell_Ovarian"	0.0529154027637344	"SnapATAC1"	"human adult atlas subset2"	"candidate2"	15
+"Mammary_Epithelial"	0.0698644421272158	"SnapATAC1"	"human adult atlas subset2"	"candidate2"	15
+"Parietal_Cell"	0.00868725868725869	"SnapATAC1"	"human adult atlas subset2"	"candidate2"	15
+"Peripheral_Nerve_Stromal"	0.0152905198776758	"SnapATAC1"	"human adult atlas subset2"	"candidate2"	15
+"Small_Intestinal_Enterocyte"	0	"SnapATAC1"	"human adult atlas subset2"	"candidate2"	15
+"Smooth_Muscle_Uterine"	0.000545851528384279	"SnapATAC1"	"human adult atlas subset2"	"candidate2"	15
+"Vascular_Smooth_Muscle_2"	0.0899795501022495	"SnapATAC1"	"human adult atlas subset2"	"candidate2"	15
+"Alveolar_Type_1_Cell"	0	"aggregation"	"human adult atlas subset2"	"candidate2"	15
+"Colon_Epithelial_Cell_1"	0.00129533678756477	"aggregation"	"human adult atlas subset2"	"candidate2"	15
+"Ductal_Cell_Pancreatic"	0	"aggregation"	"human adult atlas subset2"	"candidate2"	15
+"Luteal_Cell_Ovarian"	0.0343781597573306	"aggregation"	"human adult atlas subset2"	"candidate2"	15
+"Mammary_Epithelial"	0.00104275286757039	"aggregation"	"human adult atlas subset2"	"candidate2"	15
+"Parietal_Cell"	0	"aggregation"	"human adult atlas subset2"	"candidate2"	15
+"Peripheral_Nerve_Stromal"	0.0152905198776758	"aggregation"	"human adult atlas subset2"	"candidate2"	15
+"Small_Intestinal_Enterocyte"	0.0317757009345794	"aggregation"	"human adult atlas subset2"	"candidate2"	15
+"Smooth_Muscle_Uterine"	0.0240174672489083	"aggregation"	"human adult atlas subset2"	"candidate2"	15
+"Vascular_Smooth_Muscle_2"	0.00715746421267894	"aggregation"	"human adult atlas subset2"	"candidate2"	15
+"Alveolar_Type_1_Cell"	0.0028169014084507	"SnapATAC2_jaccard"	"human adult atlas subset2"	"candidate2"	15
+"Colon_Epithelial_Cell_1"	0.00474956822107081	"SnapATAC2_jaccard"	"human adult atlas subset2"	"candidate2"	15
+"Ductal_Cell_Pancreatic"	0.0220264317180617	"SnapATAC2_jaccard"	"human adult atlas subset2"	"candidate2"	15
+"Luteal_Cell_Ovarian"	0.0589821368385575	"SnapATAC2_jaccard"	"human adult atlas subset2"	"candidate2"	15
+"Mammary_Epithelial"	0.00312825860271116	"SnapATAC2_jaccard"	"human adult atlas subset2"	"candidate2"	15
+"Parietal_Cell"	0	"SnapATAC2_jaccard"	"human adult atlas subset2"	"candidate2"	15
+"Peripheral_Nerve_Stromal"	0.0122324159021407	"SnapATAC2_jaccard"	"human adult atlas subset2"	"candidate2"	15
+"Small_Intestinal_Enterocyte"	0.00186915887850467	"SnapATAC2_jaccard"	"human adult atlas subset2"	"candidate2"	15
+"Smooth_Muscle_Uterine"	0	"SnapATAC2_jaccard"	"human adult atlas subset2"	"candidate2"	15
+"Vascular_Smooth_Muscle_2"	0.0434560327198364	"SnapATAC2_jaccard"	"human adult atlas subset2"	"candidate2"	15
+"Alveolar_Type_1_Cell"	0.0140845070422535	"SnapATAC2_cosine"	"human adult atlas subset2"	"candidate2"	15
+"Colon_Epithelial_Cell_1"	0.00863557858376511	"SnapATAC2_cosine"	"human adult atlas subset2"	"candidate2"	15
+"Ductal_Cell_Pancreatic"	0.0308370044052863	"SnapATAC2_cosine"	"human adult atlas subset2"	"candidate2"	15
+"Luteal_Cell_Ovarian"	0.000337040781934614	"SnapATAC2_cosine"	"human adult atlas subset2"	"candidate2"	15
+"Mammary_Epithelial"	0.0761209593326382	"SnapATAC2_cosine"	"human adult atlas subset2"	"candidate2"	15
+"Parietal_Cell"	0	"SnapATAC2_cosine"	"human adult atlas subset2"	"candidate2"	15
+"Peripheral_Nerve_Stromal"	0.0214067278287462	"SnapATAC2_cosine"	"human adult atlas subset2"	"candidate2"	15
+"Small_Intestinal_Enterocyte"	0.0233644859813084	"SnapATAC2_cosine"	"human adult atlas subset2"	"candidate2"	15
+"Smooth_Muscle_Uterine"	0.00109170305676856	"SnapATAC2_cosine"	"human adult atlas subset2"	"candidate2"	15
+"Vascular_Smooth_Muscle_2"	0.0633946830265849	"SnapATAC2_cosine"	"human adult atlas subset2"	"candidate2"	15
+"CLP"	0.102564102564103	"Signac_all_cell_peaks"	"Buenrostro2018"	"Buenrostro_2018"	15
+"CMP"	0.876494023904382	"Signac_all_cell_peaks"	"Buenrostro2018"	"Buenrostro_2018"	15
+"GMP"	0.398148148148148	"Signac_all_cell_peaks"	"Buenrostro2018"	"Buenrostro_2018"	15
+"HSC"	0.662824207492795	"Signac_all_cell_peaks"	"Buenrostro2018"	"Buenrostro_2018"	15
+"LMPP"	0.1375	"Signac_all_cell_peaks"	"Buenrostro2018"	"Buenrostro_2018"	15
+"MEP"	0.311594202898551	"Signac_all_cell_peaks"	"Buenrostro2018"	"Buenrostro_2018"	15
+"MPP"	0.0563380281690141	"Signac_all_cell_peaks"	"Buenrostro2018"	"Buenrostro_2018"	15
+"mono"	0.109375	"Signac_all_cell_peaks"	"Buenrostro2018"	"Buenrostro_2018"	15
+"pDC"	0.0735294117647059	"Signac_all_cell_peaks"	"Buenrostro2018"	"Buenrostro_2018"	15
+"CLP"	0.102564102564103	"Signac_by_cluster_peaks"	"Buenrostro2018"	"Buenrostro_2018"	15
+"CMP"	0.814741035856574	"Signac_by_cluster_peaks"	"Buenrostro2018"	"Buenrostro_2018"	15
+"GMP"	0.375	"Signac_by_cluster_peaks"	"Buenrostro2018"	"Buenrostro_2018"	15
+"HSC"	0.642651296829971	"Signac_by_cluster_peaks"	"Buenrostro2018"	"Buenrostro_2018"	15
+"LMPP"	0.1375	"Signac_by_cluster_peaks"	"Buenrostro2018"	"Buenrostro_2018"	15
+"MEP"	0.557971014492754	"Signac_by_cluster_peaks"	"Buenrostro2018"	"Buenrostro_2018"	15
+"MPP"	0.0492957746478873	"Signac_by_cluster_peaks"	"Buenrostro2018"	"Buenrostro_2018"	15
+"mono"	0.109375	"Signac_by_cluster_peaks"	"Buenrostro2018"	"Buenrostro_2018"	15
+"pDC"	0.117647058823529	"Signac_by_cluster_peaks"	"Buenrostro2018"	"Buenrostro_2018"	15
+"CLP"	0.0897435897435897	"ArchR_peaks"	"Buenrostro2018"	"Buenrostro_2018"	15
+"CMP"	0.202	"ArchR_peaks"	"Buenrostro2018"	"Buenrostro_2018"	15
+"GMP"	0.227906976744186	"ArchR_peaks"	"Buenrostro2018"	"Buenrostro_2018"	15
+"HSC"	0.397694524495677	"ArchR_peaks"	"Buenrostro2018"	"Buenrostro_2018"	15
+"LMPP"	0.075	"ArchR_peaks"	"Buenrostro2018"	"Buenrostro_2018"	15
+"MEP"	0.197080291970803	"ArchR_peaks"	"Buenrostro2018"	"Buenrostro_2018"	15
+"MPP"	0.359154929577465	"ArchR_peaks"	"Buenrostro2018"	"Buenrostro_2018"	15
+"mono"	0.109375	"ArchR_peaks"	"Buenrostro2018"	"Buenrostro_2018"	15
+"pDC"	0.117647058823529	"ArchR_peaks"	"Buenrostro2018"	"Buenrostro_2018"	15
+"CLP"	0.115384615384615	"ArchR_tiles"	"Buenrostro2018"	"Buenrostro_2018"	15
+"CMP"	0.208	"ArchR_tiles"	"Buenrostro2018"	"Buenrostro_2018"	15
+"GMP"	0.227906976744186	"ArchR_tiles"	"Buenrostro2018"	"Buenrostro_2018"	15
+"HSC"	0.463976945244957	"ArchR_tiles"	"Buenrostro2018"	"Buenrostro_2018"	15
+"LMPP"	0.1	"ArchR_tiles"	"Buenrostro2018"	"Buenrostro_2018"	15
+"MEP"	0.138686131386861	"ArchR_tiles"	"Buenrostro2018"	"Buenrostro_2018"	15
+"MPP"	0.323943661971831	"ArchR_tiles"	"Buenrostro2018"	"Buenrostro_2018"	15
+"mono"	0.109375	"ArchR_tiles"	"Buenrostro2018"	"Buenrostro_2018"	15
+"pDC"	0.0882352941176471	"ArchR_tiles"	"Buenrostro2018"	"Buenrostro_2018"	15
+"CLP"	0.128205128205128	"SnapATAC1"	"Buenrostro2018"	"Buenrostro_2018"	15
+"CMP"	0.98207171314741	"SnapATAC1"	"Buenrostro2018"	"Buenrostro_2018"	15
+"GMP"	0.0601851851851852	"SnapATAC1"	"Buenrostro2018"	"Buenrostro_2018"	15
+"HSC"	0.0115273775216138	"SnapATAC1"	"Buenrostro2018"	"Buenrostro_2018"	15
+"LMPP"	0.31875	"SnapATAC1"	"Buenrostro2018"	"Buenrostro_2018"	15
+"MEP"	0.0144927536231884	"SnapATAC1"	"Buenrostro2018"	"Buenrostro_2018"	15
+"MPP"	0.873239436619718	"SnapATAC1"	"Buenrostro2018"	"Buenrostro_2018"	15
+"mono"	0	"SnapATAC1"	"Buenrostro2018"	"Buenrostro_2018"	15
+"pDC"	0	"SnapATAC1"	"Buenrostro2018"	"Buenrostro_2018"	15
+"CLP"	0.0128205128205128	"aggregation"	"Buenrostro2018"	"Buenrostro_2018"	15
+"CMP"	0.768924302788845	"aggregation"	"Buenrostro2018"	"Buenrostro_2018"	15
+"GMP"	0.199074074074074	"aggregation"	"Buenrostro2018"	"Buenrostro_2018"	15
+"HSC"	0.0864553314121038	"aggregation"	"Buenrostro2018"	"Buenrostro_2018"	15
+"LMPP"	0.05625	"aggregation"	"Buenrostro2018"	"Buenrostro_2018"	15
+"MEP"	0	"aggregation"	"Buenrostro2018"	"Buenrostro_2018"	15
+"MPP"	0.725352112676056	"aggregation"	"Buenrostro2018"	"Buenrostro_2018"	15
+"mono"	0	"aggregation"	"Buenrostro2018"	"Buenrostro_2018"	15
+"pDC"	0	"aggregation"	"Buenrostro2018"	"Buenrostro_2018"	15
+"CLP"	0.102564102564103	"SnapATAC2_jaccard"	"Buenrostro2018"	"Buenrostro_2018"	15
+"CMP"	0.789366053169734	"SnapATAC2_jaccard"	"Buenrostro2018"	"Buenrostro_2018"	15
+"GMP"	0.12037037037037	"SnapATAC2_jaccard"	"Buenrostro2018"	"Buenrostro_2018"	15
+"HSC"	0.0749279538904899	"SnapATAC2_jaccard"	"Buenrostro2018"	"Buenrostro_2018"	15
+"LMPP"	0.075	"SnapATAC2_jaccard"	"Buenrostro2018"	"Buenrostro_2018"	15
+"MEP"	0.0217391304347826	"SnapATAC2_jaccard"	"Buenrostro2018"	"Buenrostro_2018"	15
+"MPP"	0.626760563380282	"SnapATAC2_jaccard"	"Buenrostro2018"	"Buenrostro_2018"	15
+"mono"	0	"SnapATAC2_jaccard"	"Buenrostro2018"	"Buenrostro_2018"	15
+"pDC"	0	"SnapATAC2_jaccard"	"Buenrostro2018"	"Buenrostro_2018"	15
+"CLP"	0.0897435897435897	"SnapATAC2_cosine"	"Buenrostro2018"	"Buenrostro_2018"	15
+"CMP"	0.756646216768916	"SnapATAC2_cosine"	"Buenrostro2018"	"Buenrostro_2018"	15
+"GMP"	0.115740740740741	"SnapATAC2_cosine"	"Buenrostro2018"	"Buenrostro_2018"	15
+"HSC"	0.103746397694524	"SnapATAC2_cosine"	"Buenrostro2018"	"Buenrostro_2018"	15
+"LMPP"	0.10625	"SnapATAC2_cosine"	"Buenrostro2018"	"Buenrostro_2018"	15
+"MEP"	0.181159420289855	"SnapATAC2_cosine"	"Buenrostro2018"	"Buenrostro_2018"	15
+"MPP"	0.485915492957746	"SnapATAC2_cosine"	"Buenrostro2018"	"Buenrostro_2018"	15
+"mono"	0	"SnapATAC2_cosine"	"Buenrostro2018"	"Buenrostro_2018"	15
+"pDC"	0	"SnapATAC2_cosine"	"Buenrostro2018"	"Buenrostro_2018"	15
+"Astro"	0.813333333333333	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	15
+"L2/3 IT"	0.62560553633218	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	15
+"L4_1"	0.181303116147309	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	15
+"L4_2"	0.546762589928058	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	15
+"L5 PT"	0.86013986013986	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	15
+"L5/6 IT"	0.903597122302158	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	15
+"L6 CT"	0.534370946822309	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	15
+"L6 IT"	0.985294117647059	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	15
+"NP"	0	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	15
+"Oligo"	1	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	15
+"Pvalb"	0.715596330275229	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	15
+"Sst"	0.905263157894737	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	15
+"Vip/Lamp5"	0.575	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	15
+"Astro"	0.706666666666667	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	15
+"L2/3 IT"	0.615916955017301	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	15
+"L4_1"	0.1671388101983	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	15
+"L4_2"	0.563549160671463	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	15
+"L5 PT"	0.84965034965035	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	15
+"L5/6 IT"	0.928057553956835	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	15
+"L6 CT"	0.557717250324254	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	15
+"L6 IT"	0.985294117647059	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	15
+"NP"	0	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	15
+"Oligo"	1	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	15
+"Pvalb"	0.73394495412844	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	15
+"Sst"	0.926315789473684	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	15
+"Vip/Lamp5"	0.525	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	15
+"Astro"	0.746666666666667	"ArchR_peaks"	"Chen2019"	"Chen_2019"	15
+"L2/3 IT"	0.8	"ArchR_peaks"	"Chen2019"	"Chen_2019"	15
+"L4_1"	0.225684608120869	"ArchR_peaks"	"Chen2019"	"Chen_2019"	15
+"L4_2"	0.649880095923261	"ArchR_peaks"	"Chen2019"	"Chen_2019"	15
+"L5 PT"	0.545454545454545	"ArchR_peaks"	"Chen2019"	"Chen_2019"	15
+"L5/6 IT"	0.919424460431655	"ArchR_peaks"	"Chen2019"	"Chen_2019"	15
+"L6 CT"	0.526588845654994	"ArchR_peaks"	"Chen2019"	"Chen_2019"	15
+"L6 IT"	0.367647058823529	"ArchR_peaks"	"Chen2019"	"Chen_2019"	15
+"NP"	0	"ArchR_peaks"	"Chen2019"	"Chen_2019"	15
+"Oligo"	1	"ArchR_peaks"	"Chen2019"	"Chen_2019"	15
+"Pvalb"	0.697247706422018	"ArchR_peaks"	"Chen2019"	"Chen_2019"	15
+"Sst"	0.957894736842105	"ArchR_peaks"	"Chen2019"	"Chen_2019"	15
+"Vip/Lamp5"	0.55	"ArchR_peaks"	"Chen2019"	"Chen_2019"	15
+"Astro"	0.693333333333333	"ArchR_tiles"	"Chen2019"	"Chen_2019"	15
+"L2/3 IT"	0.855363321799308	"ArchR_tiles"	"Chen2019"	"Chen_2019"	15
+"L4_1"	0.199244570349386	"ArchR_tiles"	"Chen2019"	"Chen_2019"	15
+"L4_2"	0.726618705035971	"ArchR_tiles"	"Chen2019"	"Chen_2019"	15
+"L5 PT"	0.583916083916084	"ArchR_tiles"	"Chen2019"	"Chen_2019"	15
+"L5/6 IT"	0.985611510791367	"ArchR_tiles"	"Chen2019"	"Chen_2019"	15
+"L6 CT"	0.53177691309987	"ArchR_tiles"	"Chen2019"	"Chen_2019"	15
+"L6 IT"	0.323529411764706	"ArchR_tiles"	"Chen2019"	"Chen_2019"	15
+"NP"	0	"ArchR_tiles"	"Chen2019"	"Chen_2019"	15
+"Oligo"	1	"ArchR_tiles"	"Chen2019"	"Chen_2019"	15
+"Pvalb"	0.724770642201835	"ArchR_tiles"	"Chen2019"	"Chen_2019"	15
+"Sst"	0.894736842105263	"ArchR_tiles"	"Chen2019"	"Chen_2019"	15
+"Vip/Lamp5"	0.6	"ArchR_tiles"	"Chen2019"	"Chen_2019"	15
+"Astro"	0.24	"SnapATAC1"	"Chen2019"	"Chen_2019"	15
+"L2/3 IT"	0.260207612456747	"SnapATAC1"	"Chen2019"	"Chen_2019"	15
+"L4_1"	0.722379603399433	"SnapATAC1"	"Chen2019"	"Chen_2019"	15
+"L4_2"	0.0191846522781775	"SnapATAC1"	"Chen2019"	"Chen_2019"	15
+"L5 PT"	0.0104895104895105	"SnapATAC1"	"Chen2019"	"Chen_2019"	15
+"L5/6 IT"	0.38705035971223	"SnapATAC1"	"Chen2019"	"Chen_2019"	15
+"L6 CT"	0.107652399481193	"SnapATAC1"	"Chen2019"	"Chen_2019"	15
+"L6 IT"	0.102941176470588	"SnapATAC1"	"Chen2019"	"Chen_2019"	15
+"NP"	0.666666666666667	"SnapATAC1"	"Chen2019"	"Chen_2019"	15
+"Oligo"	0.712121212121212	"SnapATAC1"	"Chen2019"	"Chen_2019"	15
+"Pvalb"	0.073394495412844	"SnapATAC1"	"Chen2019"	"Chen_2019"	15
+"Sst"	0.663157894736842	"SnapATAC1"	"Chen2019"	"Chen_2019"	15
+"Vip/Lamp5"	0.2125	"SnapATAC1"	"Chen2019"	"Chen_2019"	15
+"Astro"	0.466666666666667	"aggregation"	"Chen2019"	"Chen_2019"	15
+"L2/3 IT"	0.258823529411765	"aggregation"	"Chen2019"	"Chen_2019"	15
+"L4_1"	0.0963172804532578	"aggregation"	"Chen2019"	"Chen_2019"	15
+"L4_2"	0.254196642685851	"aggregation"	"Chen2019"	"Chen_2019"	15
+"L5 PT"	0.15034965034965	"aggregation"	"Chen2019"	"Chen_2019"	15
+"L5/6 IT"	0.519424460431655	"aggregation"	"Chen2019"	"Chen_2019"	15
+"L6 CT"	0.134889753566796	"aggregation"	"Chen2019"	"Chen_2019"	15
+"L6 IT"	0.161764705882353	"aggregation"	"Chen2019"	"Chen_2019"	15
+"NP"	0.0303030303030303	"aggregation"	"Chen2019"	"Chen_2019"	15
+"Oligo"	1	"aggregation"	"Chen2019"	"Chen_2019"	15
+"Pvalb"	0.357798165137615	"aggregation"	"Chen2019"	"Chen_2019"	15
+"Sst"	0.547368421052632	"aggregation"	"Chen2019"	"Chen_2019"	15
+"Vip/Lamp5"	0.7375	"aggregation"	"Chen2019"	"Chen_2019"	15
+"Astro"	0.32	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	15
+"L2/3 IT"	0.224913494809689	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	15
+"L4_1"	0.279508970727101	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	15
+"L4_2"	0.0335731414868106	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	15
+"L5 PT"	0.048951048951049	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	15
+"L5/6 IT"	0.352517985611511	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	15
+"L6 CT"	0.105058365758755	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	15
+"L6 IT"	0.235294117647059	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	15
+"NP"	0.696969696969697	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	15
+"Oligo"	1	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	15
+"Pvalb"	0.073394495412844	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	15
+"Sst"	0.905263157894737	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	15
+"Vip/Lamp5"	0.9875	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	15
+"Astro"	0.306666666666667	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	15
+"L2/3 IT"	0.209688581314879	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	15
+"L4_1"	0.25590179414542	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	15
+"L4_2"	0.0599520383693046	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	15
+"L5 PT"	0.0524475524475524	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	15
+"L5/6 IT"	0.366906474820144	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	15
+"L6 CT"	0.0739299610894942	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	15
+"L6 IT"	0.191176470588235	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	15
+"NP"	0.696969696969697	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	15
+"Oligo"	0.954545454545455	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	15
+"Pvalb"	0.128440366972477	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	15
+"Sst"	0.610526315789474	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	15
+"Vip/Lamp5"	0.55	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	15
+"B intermediate"	0.392	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"B memory"	0.239130434782609	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"B naive"	0.0784313725490196	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD14 Mono"	0.312244897959184	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD16 Mono"	0.151029748283753	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD4 Naive_1"	0.104125736738703	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD4 Naive_2"	0.579268292682927	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD4 TCM"	0.269143290371494	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD8 Naive_1"	0.109183673469388	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD8 Naive_2"	0.569482288828338	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD8 TEM_1"	0.585774058577406	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD8 TEM_2"	0.0962099125364431	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"NK"	0.09	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"cDC2"	0.238805970149254	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"pDC"	0.0983606557377049	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"B intermediate"	0.384	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"B memory"	0.228260869565217	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"B naive"	0.0849673202614379	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD14 Mono"	0.188571428571429	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD16 Mono"	0.135011441647597	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD4 Naive_1"	0.101178781925344	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD4 Naive_2"	0.457317073170732	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD4 TCM"	0.295678544351782	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD8 Naive_1"	0.118367346938776	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD8 Naive_2"	0.49591280653951	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD8 TEM_1"	0.606694560669456	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD8 TEM_2"	0.0874635568513119	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"NK"	0.0825	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"cDC2"	0.194029850746269	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"pDC"	0.0983606557377049	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"B intermediate"	0.428	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"B memory"	0.152173913043478	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"B naive"	0.0784313725490196	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD14 Mono"	0.0522448979591837	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD16 Mono"	0.0526315789473684	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD4 Naive_1"	0.103143418467584	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD4 Naive_2"	0.48780487804878	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD4 TCM"	0.161485974222896	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD8 Naive_1"	0.183673469387755	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD8 Naive_2"	0.482288828337875	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD8 TEM_1"	0.481171548117155	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD8 TEM_2"	0.102040816326531	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"NK"	0.0675	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"cDC2"	0.201492537313433	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"pDC"	0.0983606557377049	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"B intermediate"	0.432	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"B memory"	0.152173913043478	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"B naive"	0.0784313725490196	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD14 Mono"	0.0489795918367347	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD16 Mono"	0.0617848970251716	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD4 Naive_1"	0.0992141453831041	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD4 Naive_2"	0.50609756097561	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD4 TCM"	0.144806671721001	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD8 Naive_1"	0.176530612244898	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD8 Naive_2"	0.498637602179836	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD8 TEM_1"	0.468619246861925	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD8 TEM_2"	0.0991253644314869	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"NK"	0.0675	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"cDC2"	0.17910447761194	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"pDC"	0.0983606557377049	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"B intermediate"	0.444	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"B memory"	0.217391304347826	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"B naive"	0.0522875816993464	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD14 Mono"	0.0812244897959184	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD16 Mono"	0.0297482837528604	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD4 Naive_1"	0.0854616895874263	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD4 Naive_2"	0.420731707317073	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD4 TCM"	0.440485216072782	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD8 Naive_1"	0.110204081632653	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD8 Naive_2"	0.389645776566757	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD8 TEM_1"	0.702928870292887	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD8 TEM_2"	0.032069970845481	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"NK"	0.0175	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"cDC2"	0.0298507462686567	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"pDC"	0	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"B intermediate"	0.68	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"B memory"	0.0869565217391304	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"B naive"	0.042483660130719	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD14 Mono"	0.0216326530612245	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD16 Mono"	0.0411899313501144	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD4 Naive_1"	0.538310412573674	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD4 Naive_2"	0.51219512195122	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD4 TCM"	0.0841546626231994	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD8 Naive_1"	0.177551020408163	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD8 Naive_2"	0.594005449591281	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD8 TEM_1"	0.493723849372385	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD8 TEM_2"	0.043731778425656	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"NK"	0.0325	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"cDC2"	0.141791044776119	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"pDC"	0	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"B intermediate"	0.52	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"B memory"	0.195652173913043	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"B naive"	0.0457516339869281	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD14 Mono"	0.0714285714285714	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD16 Mono"	0.068649885583524	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD4 Naive_1"	0.0884086444007859	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD4 Naive_2"	0.457317073170732	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD4 TCM"	0.348749052312358	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD8 Naive_1"	0.104081632653061	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD8 Naive_2"	0.422343324250681	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD8 TEM_1"	0.690376569037657	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD8 TEM_2"	0.0612244897959184	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"NK"	0.0225	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"cDC2"	0.0298507462686567	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"pDC"	0	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"B intermediate"	0.448	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"B memory"	0.141304347826087	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"B naive"	0.042483660130719	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD14 Mono"	0.0240816326530612	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD16 Mono"	0.109839816933638	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD4 Naive_1"	0.101178781925344	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD4 Naive_2"	0.518292682926829	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD4 TCM"	0.372251705837756	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD8 Naive_1"	0.111224489795918	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD8 Naive_2"	0.438692098092643	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD8 TEM_1"	0.686192468619247	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"CD8 TEM_2"	0.0466472303206997	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"NK"	0.03	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"cDC2"	0.0746268656716418	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"pDC"	0	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	15
+"293T"	0	"Signac_by_cluster_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"GM12878"	0.75571549534293	"Signac_by_cluster_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"HT1080"	0.19365798414496	"Signac_by_cluster_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"HeLa"	0.00176444640494045	"Signac_by_cluster_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"Jurkat"	0	"Signac_by_cluster_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"K562"	0.0378250591016548	"Signac_by_cluster_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"MCF10A"	0.00980392156862745	"Signac_by_cluster_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"MCF7"	0.00408163265306122	"Signac_by_cluster_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"T24"	0	"Signac_by_cluster_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"THP1"	0.00346020761245675	"Signac_by_cluster_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"293T"	0.00841514726507714	"Signac_by_cluster_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"GM12878"	0.990262489415749	"Signac_by_cluster_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"HT1080"	1	"Signac_by_cluster_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"HeLa"	0.00176444640494045	"Signac_by_cluster_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"Jurkat"	0	"Signac_by_cluster_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"K562"	0.0441292356185973	"Signac_by_cluster_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"MCF10A"	0.00784313725490196	"Signac_by_cluster_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"MCF7"	0.00204081632653061	"Signac_by_cluster_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"T24"	0	"Signac_by_cluster_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"THP1"	0.00346020761245675	"Signac_by_cluster_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"293T"	0.0342215988779804	"Signac_by_cluster_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"GM12878"	1	"Signac_by_cluster_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"HT1080"	1	"Signac_by_cluster_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"HeLa"	0.00485222761358624	"Signac_by_cluster_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"Jurkat"	0.00528867342441604	"Signac_by_cluster_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"K562"	0.0189125295508274	"Signac_by_cluster_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"MCF10A"	0.00196078431372549	"Signac_by_cluster_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"MCF7"	0	"Signac_by_cluster_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"T24"	0.000436681222707424	"Signac_by_cluster_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"THP1"	0.00346020761245675	"Signac_by_cluster_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"293T"	0.000561009817671809	"Signac_all_cell_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"GM12878"	0.671464860287892	"Signac_all_cell_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"HT1080"	0.348055870139675	"Signac_all_cell_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"HeLa"	0.00220555800617556	"Signac_all_cell_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"Jurkat"	0	"Signac_all_cell_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"K562"	0.0386130811662727	"Signac_all_cell_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"MCF10A"	0.00784313725490196	"Signac_all_cell_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"MCF7"	0.00204081632653061	"Signac_all_cell_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"T24"	0	"Signac_all_cell_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"THP1"	0.00346020761245675	"Signac_all_cell_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"293T"	0.0591865357643759	"Signac_all_cell_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"GM12878"	0.96740050804403	"Signac_all_cell_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"HT1080"	1	"Signac_all_cell_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"HeLa"	0.00529333921482135	"Signac_all_cell_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"Jurkat"	0.000440722785368004	"Signac_all_cell_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"K562"	0.0480693459416864	"Signac_all_cell_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"MCF10A"	0.00392156862745098	"Signac_all_cell_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"MCF7"	0.00204081632653061	"Signac_all_cell_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"T24"	0	"Signac_all_cell_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"THP1"	0.00346020761245675	"Signac_all_cell_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"293T"	0.415988779803647	"Signac_all_cell_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"GM12878"	1	"Signac_all_cell_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"HT1080"	1	"Signac_all_cell_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"HeLa"	0.0194089104543449	"Signac_all_cell_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"Jurkat"	0.00176289114147201	"Signac_all_cell_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"K562"	0.0244286840031521	"Signac_all_cell_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"MCF10A"	0.00196078431372549	"Signac_all_cell_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"MCF7"	0	"Signac_all_cell_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"T24"	0.077292576419214	"Signac_all_cell_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"THP1"	0.00346020761245675	"Signac_all_cell_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"293T"	0.00308555399719495	"ArchR_tiles"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"GM12878"	0.0254022015241321	"ArchR_tiles"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"HT1080"	0.198187995469989	"ArchR_tiles"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"HeLa"	0.100132333480371	"ArchR_tiles"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"Jurkat"	0.00881445570736007	"ArchR_tiles"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"K562"	0.0417651694247439	"ArchR_tiles"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"MCF10A"	0	"ArchR_tiles"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"MCF7"	0.0224489795918367	"ArchR_tiles"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"T24"	0.0729257641921397	"ArchR_tiles"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"THP1"	0.00576701268742791	"ArchR_tiles"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"293T"	0.0182328190743338	"ArchR_tiles"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"GM12878"	0.0622353937341236	"ArchR_tiles"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"HT1080"	0.331823329558324	"ArchR_tiles"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"HeLa"	0.220114689016321	"ArchR_tiles"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"Jurkat"	0.0295284266196562	"ArchR_tiles"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"K562"	0.0788022064617809	"ArchR_tiles"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"MCF10A"	0	"ArchR_tiles"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"MCF7"	0.0326530612244898	"ArchR_tiles"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"T24"	0.20174672489083	"ArchR_tiles"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"THP1"	0.0253748558246828	"ArchR_tiles"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"293T"	0.0406732117812062	"ArchR_tiles"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"GM12878"	0.0774767146486029	"ArchR_tiles"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"HT1080"	0.48320120800302	"ArchR_tiles"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"HeLa"	0.322893692104102	"ArchR_tiles"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"Jurkat"	0.0326134861172323	"ArchR_tiles"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"K562"	0.0843183609141056	"ArchR_tiles"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"MCF10A"	0	"ArchR_tiles"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"MCF7"	0.0224489795918367	"ArchR_tiles"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"T24"	0.258951965065502	"ArchR_tiles"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"THP1"	0.0184544405997693	"ArchR_tiles"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"293T"	0.0106591865357644	"ArchR_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"GM12878"	0.04614733276884	"ArchR_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"HT1080"	0.257078142695357	"ArchR_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"HeLa"	0.136744596382885	"ArchR_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"Jurkat"	0.0185103569854561	"ArchR_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"K562"	0.0598896769109535	"ArchR_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"MCF10A"	0	"ArchR_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"MCF7"	0.026530612244898	"ArchR_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"T24"	0.12707423580786	"ArchR_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"THP1"	0.0126874279123414	"ArchR_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"293T"	0.00925666199158485	"ArchR_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"GM12878"	0.050381033022862	"ArchR_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"HT1080"	0.292185730464326	"ArchR_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"HeLa"	0.127922364358183	"ArchR_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"Jurkat"	0.0149845747025121	"ArchR_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"K562"	0.0488573680063042	"ArchR_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"MCF10A"	0	"ArchR_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"MCF7"	0.0142857142857143	"ArchR_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"T24"	0.107423580786026	"ArchR_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"THP1"	0.0103806228373702	"ArchR_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"293T"	0.0370266479663394	"ArchR_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"GM12878"	0.0973751058425063	"ArchR_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"HT1080"	0.513401283503209	"ArchR_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"HeLa"	0.295544772827525	"ArchR_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"Jurkat"	0.0405464962538563	"ArchR_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"K562"	0.0811662726556344	"ArchR_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"MCF10A"	0	"ArchR_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"MCF7"	0.0163265306122449	"ArchR_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"T24"	0.249781659388646	"ArchR_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"THP1"	0.0173010380622837	"ArchR_peaks"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"293T"	0	"SnapATAC1"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"GM12878"	0.050381033022862	"SnapATAC1"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"HT1080"	0.0249150622876557	"SnapATAC1"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"HeLa"	0.980591089545655	"SnapATAC1"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"Jurkat"	0.00661084178052005	"SnapATAC1"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"K562"	0.268715524034673	"SnapATAC1"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"MCF10A"	0.0627450980392157	"SnapATAC1"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"MCF7"	0.0816326530612245	"SnapATAC1"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"T24"	0.631441048034935	"SnapATAC1"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"THP1"	0.0173010380622837	"SnapATAC1"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"293T"	0	"SnapATAC1"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"GM12878"	0.165114309906859	"SnapATAC1"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"HT1080"	0.678746696866742	"SnapATAC1"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"HeLa"	1	"SnapATAC1"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"Jurkat"	0.0118995152049361	"SnapATAC1"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"K562"	0.947202521670607	"SnapATAC1"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"MCF10A"	0.874509803921569	"SnapATAC1"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"MCF7"	0.706122448979592	"SnapATAC1"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"T24"	1	"SnapATAC1"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"THP1"	0.0507497116493656	"SnapATAC1"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"293T"	0	"SnapATAC1"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"GM12878"	0.870872142252329	"SnapATAC1"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"HT1080"	1	"SnapATAC1"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"HeLa"	1	"SnapATAC1"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"Jurkat"	0.0290877038342882	"SnapATAC1"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"K562"	1	"SnapATAC1"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"MCF10A"	1	"SnapATAC1"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"MCF7"	1	"SnapATAC1"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"T24"	1	"SnapATAC1"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"THP1"	0.918108419838524	"SnapATAC1"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"293T"	0	"aggregation"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"GM12878"	0.000423370025402202	"aggregation"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"HT1080"	0.000377500943752359	"aggregation"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"HeLa"	0.000441111601235112	"aggregation"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"Jurkat"	0.000440722785368004	"aggregation"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"K562"	0.0102442868400315	"aggregation"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"MCF10A"	0.00784313725490196	"aggregation"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"MCF7"	0.00612244897959184	"aggregation"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"T24"	0	"aggregation"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"THP1"	0.00346020761245675	"aggregation"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"293T"	0	"aggregation"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"GM12878"	0.000423370025402202	"aggregation"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"HT1080"	0	"aggregation"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"HeLa"	0.000441111601235112	"aggregation"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"Jurkat"	0.000440722785368004	"aggregation"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"K562"	0.0126083530338849	"aggregation"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"MCF10A"	0.00980392156862745	"aggregation"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"MCF7"	0.00816326530612245	"aggregation"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"T24"	0	"aggregation"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"THP1"	0.00346020761245675	"aggregation"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"293T"	0	"aggregation"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"GM12878"	0.000423370025402202	"aggregation"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"HT1080"	0.000377500943752359	"aggregation"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"HeLa"	0.000441111601235112	"aggregation"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"Jurkat"	0.000440722785368004	"aggregation"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"K562"	0.0133963750985028	"aggregation"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"MCF10A"	0.00588235294117647	"aggregation"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"MCF7"	0.0122448979591837	"aggregation"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"T24"	0	"aggregation"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"THP1"	0.00346020761245675	"aggregation"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"293T"	0	"SnapATAC2_jaccard"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"GM12878"	0.0791701947502117	"SnapATAC2_jaccard"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"HT1080"	0.212910532276331	"SnapATAC2_jaccard"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"HeLa"	0.975297750330834	"SnapATAC2_jaccard"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"Jurkat"	0.0132216835610401	"SnapATAC2_jaccard"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"K562"	0.131599684791174	"SnapATAC2_jaccard"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"MCF10A"	0.36078431372549	"SnapATAC2_jaccard"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"MCF7"	0.13469387755102	"SnapATAC2_jaccard"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"T24"	1	"SnapATAC2_jaccard"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"THP1"	0.0184544405997693	"SnapATAC2_jaccard"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"293T"	0	"SnapATAC2_jaccard"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"GM12878"	0.396274343776461	"SnapATAC2_jaccard"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"HT1080"	0.993959984899962	"SnapATAC2_jaccard"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"HeLa"	1	"SnapATAC2_jaccard"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"Jurkat"	0.0233583076245042	"SnapATAC2_jaccard"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"K562"	0.494877856579984	"SnapATAC2_jaccard"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"MCF10A"	0.986274509803922	"SnapATAC2_jaccard"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"MCF7"	0.546938775510204	"SnapATAC2_jaccard"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"T24"	1	"SnapATAC2_jaccard"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"THP1"	0.055363321799308	"SnapATAC2_jaccard"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"293T"	0	"SnapATAC2_jaccard"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"GM12878"	0.993226079593565	"SnapATAC2_jaccard"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"HT1080"	1	"SnapATAC2_jaccard"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"HeLa"	1	"SnapATAC2_jaccard"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"Jurkat"	0.230057293962098	"SnapATAC2_jaccard"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"K562"	1	"SnapATAC2_jaccard"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"MCF10A"	1	"SnapATAC2_jaccard"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"MCF7"	1	"SnapATAC2_jaccard"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"T24"	1	"SnapATAC2_jaccard"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"THP1"	0.740484429065744	"SnapATAC2_jaccard"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"293T"	0	"SnapATAC2_cosine"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"GM12878"	0.372142252328535	"SnapATAC2_cosine"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"HT1080"	0.194035485088713	"SnapATAC2_cosine"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"HeLa"	0.627701808557565	"SnapATAC2_cosine"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"Jurkat"	0.0105773468488321	"SnapATAC2_cosine"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"K562"	0.102442868400315	"SnapATAC2_cosine"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"MCF10A"	0.301960784313725	"SnapATAC2_cosine"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"MCF7"	0.238775510204082	"SnapATAC2_cosine"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"T24"	1	"SnapATAC2_cosine"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"THP1"	0.0173010380622837	"SnapATAC2_cosine"	"Cell line mixing experiment"	"Cell_line_mixing"	30
+"293T"	0	"SnapATAC2_cosine"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"GM12878"	0.732853513971211	"SnapATAC2_cosine"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"HT1080"	0.97923744809362	"SnapATAC2_cosine"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"HeLa"	1	"SnapATAC2_cosine"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"Jurkat"	0.0193918025561922	"SnapATAC2_cosine"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"K562"	0.379826635145784	"SnapATAC2_cosine"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"MCF10A"	0.952941176470588	"SnapATAC2_cosine"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"MCF7"	0.793877551020408	"SnapATAC2_cosine"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"T24"	1	"SnapATAC2_cosine"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"THP1"	0.0807381776239908	"SnapATAC2_cosine"	"Cell line mixing experiment"	"Cell_line_mixing"	50
+"293T"	0	"SnapATAC2_cosine"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"GM12878"	0.997036409822185	"SnapATAC2_cosine"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"HT1080"	1	"SnapATAC2_cosine"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"HeLa"	1	"SnapATAC2_cosine"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"Jurkat"	0.150286469810489	"SnapATAC2_cosine"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"K562"	0.985815602836879	"SnapATAC2_cosine"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"MCF10A"	1	"SnapATAC2_cosine"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"MCF7"	0.997959183673469	"SnapATAC2_cosine"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"T24"	1	"SnapATAC2_cosine"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"THP1"	0.854671280276817	"SnapATAC2_cosine"	"Cell line mixing experiment"	"Cell_line_mixing"	100
+"Alveolar_Type_1_Cell"	0.164319248826291	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	30
+"Colonic_Goblet_Cell"	0.0648648648648649	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	30
+"Esophageal_Epithelial_Cell"	1	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	30
+"Hepatocyte"	0.00058411214953271	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	30
+"Luteal_Cell_Ovarian"	0.00112359550561798	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	30
+"Mammary_Epithelial"	0.0634231103388358	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	30
+"Pancreatic_Acinar_Cell"	0	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	30
+"Parietal_Cell"	0.0692431561996779	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	30
+"Small_Intestinal_Enterocyte"	0.214953271028037	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	30
+"Smooth_Muscle_GE_Junction"	0.144578313253012	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	30
+"Thyroid_Follicular_Cell"	0.000374672161858374	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	30
+"Type_I_Skeletal_Myocyte"	0.00149625935162095	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	30
+"Vascular_Smooth_Muscle_1"	0.0234741784037559	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	30
+"Alveolar_Type_1_Cell"	0.192488262910798	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	50
+"Colonic_Goblet_Cell"	0.0648648648648649	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	50
+"Esophageal_Epithelial_Cell"	1	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	50
+"Hepatocyte"	0	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	50
+"Luteal_Cell_Ovarian"	0	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	50
+"Mammary_Epithelial"	0.0799304952215465	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	50
+"Pancreatic_Acinar_Cell"	0	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	50
+"Parietal_Cell"	0.0756843800322061	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	50
+"Small_Intestinal_Enterocyte"	0.222741433021807	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	50
+"Smooth_Muscle_GE_Junction"	0.166666666666667	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	50
+"Thyroid_Follicular_Cell"	0.00262270513300862	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	50
+"Type_I_Skeletal_Myocyte"	0.00149625935162095	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	50
+"Vascular_Smooth_Muscle_1"	0.0529236022193769	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	50
+"Alveolar_Type_1_Cell"	0.248826291079812	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	100
+"Colonic_Goblet_Cell"	0.0675675675675676	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	100
+"Esophageal_Epithelial_Cell"	1	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	100
+"Hepatocyte"	0	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	100
+"Luteal_Cell_Ovarian"	0	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	100
+"Mammary_Epithelial"	0.152041702867072	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	100
+"Pancreatic_Acinar_Cell"	0.000333555703802535	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	100
+"Parietal_Cell"	0.107890499194847	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	100
+"Small_Intestinal_Enterocyte"	0.254672897196262	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	100
+"Smooth_Muscle_GE_Junction"	0.224899598393574	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	100
+"Thyroid_Follicular_Cell"	0.145747470962907	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	100
+"Type_I_Skeletal_Myocyte"	0.00349127182044888	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	100
+"Vascular_Smooth_Muscle_1"	0.177123346137431	"Signac_all_cell_peaks"	"human adult atlas subset1"	"candidate1"	100
+"Alveolar_Type_1_Cell"	0.169014084507042	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	30
+"Colonic_Goblet_Cell"	0.0756756756756757	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	30
+"Esophageal_Epithelial_Cell"	1	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	30
+"Hepatocyte"	0	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	30
+"Luteal_Cell_Ovarian"	0.00168539325842697	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	30
+"Mammary_Epithelial"	0.0616854908774978	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	30
+"Pancreatic_Acinar_Cell"	0	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	30
+"Parietal_Cell"	0.0676328502415459	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	30
+"Small_Intestinal_Enterocyte"	0.189252336448598	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	30
+"Smooth_Muscle_GE_Junction"	0.142570281124498	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	30
+"Thyroid_Follicular_Cell"	0.000374672161858374	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	30
+"Type_I_Skeletal_Myocyte"	0.00349127182044888	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	30
+"Vascular_Smooth_Muscle_1"	0.0119504908237303	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	30
+"Alveolar_Type_1_Cell"	0.183098591549296	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	50
+"Colonic_Goblet_Cell"	0.0783783783783784	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	50
+"Esophageal_Epithelial_Cell"	1	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	50
+"Hepatocyte"	0	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	50
+"Luteal_Cell_Ovarian"	0.000561797752808989	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	50
+"Mammary_Epithelial"	0.0764552562988706	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	50
+"Pancreatic_Acinar_Cell"	0	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	50
+"Parietal_Cell"	0.0740740740740741	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	50
+"Small_Intestinal_Enterocyte"	0.201713395638629	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	50
+"Smooth_Muscle_GE_Junction"	0.15863453815261	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	50
+"Thyroid_Follicular_Cell"	0.00224803297115024	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	50
+"Type_I_Skeletal_Myocyte"	0.00199501246882793	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	50
+"Vascular_Smooth_Muscle_1"	0.0277422108408024	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	50
+"Alveolar_Type_1_Cell"	0.211267605633803	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	100
+"Colonic_Goblet_Cell"	0.0783783783783784	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	100
+"Esophageal_Epithelial_Cell"	1	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	100
+"Hepatocyte"	0	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	100
+"Luteal_Cell_Ovarian"	0	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	100
+"Mammary_Epithelial"	0.125977410947003	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	100
+"Pancreatic_Acinar_Cell"	0	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	100
+"Parietal_Cell"	0.101449275362319	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	100
+"Small_Intestinal_Enterocyte"	0.227414330218069	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	100
+"Smooth_Muscle_GE_Junction"	0.196787148594378	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	100
+"Thyroid_Follicular_Cell"	0.040089921318846	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	100
+"Type_I_Skeletal_Myocyte"	0.00249376558603491	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	100
+"Vascular_Smooth_Muscle_1"	0.07981220657277	"Signac_by_cluster_peaks"	"human adult atlas subset1"	"candidate1"	100
+"Alveolar_Type_1_Cell"	0.248826291079812	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	30
+"Colonic_Goblet_Cell"	0.132432432432432	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	30
+"Esophageal_Epithelial_Cell"	0.23359375	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	30
+"Hepatocyte"	0	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	30
+"Luteal_Cell_Ovarian"	0.170786516853933	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	30
+"Mammary_Epithelial"	0.185056472632493	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	30
+"Pancreatic_Acinar_Cell"	0.129086057371581	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	30
+"Parietal_Cell"	0.190016103059581	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	30
+"Small_Intestinal_Enterocyte"	0.448598130841121	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	30
+"Smooth_Muscle_GE_Junction"	0.327309236947791	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	30
+"Thyroid_Follicular_Cell"	0.127763207193706	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	30
+"Type_I_Skeletal_Myocyte"	0.183042394014963	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	30
+"Vascular_Smooth_Muscle_1"	0.294067434912505	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	30
+"Alveolar_Type_1_Cell"	0.291079812206573	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	50
+"Colonic_Goblet_Cell"	0.172972972972973	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	50
+"Esophageal_Epithelial_Cell"	0.288671875	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	50
+"Hepatocyte"	0	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	50
+"Luteal_Cell_Ovarian"	0.203370786516854	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	50
+"Mammary_Epithelial"	0.20503909643788	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	50
+"Pancreatic_Acinar_Cell"	0.16310873915944	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	50
+"Parietal_Cell"	0.236714975845411	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	50
+"Small_Intestinal_Enterocyte"	0.525700934579439	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	50
+"Smooth_Muscle_GE_Junction"	0.355421686746988	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	50
+"Thyroid_Follicular_Cell"	0.150618209067066	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	50
+"Type_I_Skeletal_Myocyte"	0.214463840399002	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	50
+"Vascular_Smooth_Muscle_1"	0.32565087494665	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	50
+"Alveolar_Type_1_Cell"	0.417840375586854	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	100
+"Colonic_Goblet_Cell"	0.262162162162162	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	100
+"Esophageal_Epithelial_Cell"	0.347265625	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	100
+"Hepatocyte"	0	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	100
+"Luteal_Cell_Ovarian"	0.290449438202247	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	100
+"Mammary_Epithelial"	0.252823631624674	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	100
+"Pancreatic_Acinar_Cell"	0.23815877251501	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	100
+"Parietal_Cell"	0.310789049919485	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	100
+"Small_Intestinal_Enterocyte"	0.575545171339564	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	100
+"Smooth_Muscle_GE_Junction"	0.421686746987952	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	100
+"Thyroid_Follicular_Cell"	0.210191082802548	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	100
+"Type_I_Skeletal_Myocyte"	0.292768079800499	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	100
+"Vascular_Smooth_Muscle_1"	0.404182671788306	"ArchR_peaks"	"human adult atlas subset1"	"candidate1"	100
+"Alveolar_Type_1_Cell"	0.272300469483568	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	30
+"Colonic_Goblet_Cell"	0.167567567567568	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	30
+"Esophageal_Epithelial_Cell"	0.299609375	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	30
+"Hepatocyte"	0	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	30
+"Luteal_Cell_Ovarian"	0.203370786516854	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	30
+"Mammary_Epithelial"	0.1876629018245	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	30
+"Pancreatic_Acinar_Cell"	0.154102735156771	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	30
+"Parietal_Cell"	0.22866344605475	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	30
+"Small_Intestinal_Enterocyte"	0.548286604361371	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	30
+"Smooth_Muscle_GE_Junction"	0.325301204819277	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	30
+"Thyroid_Follicular_Cell"	0.13600599475459	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	30
+"Type_I_Skeletal_Myocyte"	0.194513715710723	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	30
+"Vascular_Smooth_Muscle_1"	0.302176696542894	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	30
+"Alveolar_Type_1_Cell"	0.314553990610329	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	50
+"Colonic_Goblet_Cell"	0.194594594594595	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	50
+"Esophageal_Epithelial_Cell"	0.31953125	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	50
+"Hepatocyte"	0	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	50
+"Luteal_Cell_Ovarian"	0.251123595505618	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	50
+"Mammary_Epithelial"	0.206776715899218	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	50
+"Pancreatic_Acinar_Cell"	0.18812541694463	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	50
+"Parietal_Cell"	0.272141706924316	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	50
+"Small_Intestinal_Enterocyte"	0.566978193146417	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	50
+"Smooth_Muscle_GE_Junction"	0.359437751004016	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	50
+"Thyroid_Follicular_Cell"	0.161858373922818	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	50
+"Type_I_Skeletal_Myocyte"	0.226932668329177	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	50
+"Vascular_Smooth_Muscle_1"	0.332052923602219	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	50
+"Alveolar_Type_1_Cell"	0.436619718309859	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	100
+"Colonic_Goblet_Cell"	0.297297297297297	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	100
+"Esophageal_Epithelial_Cell"	0.370703125	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	100
+"Hepatocyte"	0	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	100
+"Luteal_Cell_Ovarian"	0.34438202247191	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	100
+"Mammary_Epithelial"	0.248479582971329	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	100
+"Pancreatic_Acinar_Cell"	0.2631754503002	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	100
+"Parietal_Cell"	0.341384863123994	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	100
+"Small_Intestinal_Enterocyte"	0.597352024922118	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	100
+"Smooth_Muscle_GE_Junction"	0.451807228915663	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	100
+"Thyroid_Follicular_Cell"	0.217309853877857	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	100
+"Type_I_Skeletal_Myocyte"	0.305236907730673	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	100
+"Vascular_Smooth_Muscle_1"	0.400768245838668	"ArchR_tiles"	"human adult atlas subset1"	"candidate1"	100
+"Alveolar_Type_1_Cell"	0.028169014084507	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	30
+"Colonic_Goblet_Cell"	0.0324324324324324	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	30
+"Esophageal_Epithelial_Cell"	0.012109375	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	30
+"Hepatocyte"	0.151869158878505	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	30
+"Luteal_Cell_Ovarian"	0.812359550561798	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	30
+"Mammary_Epithelial"	0.0460469157254561	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	30
+"Pancreatic_Acinar_Cell"	1	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	30
+"Parietal_Cell"	0.0531400966183575	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	30
+"Small_Intestinal_Enterocyte"	0.014018691588785	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	30
+"Smooth_Muscle_GE_Junction"	0.0200803212851406	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	30
+"Thyroid_Follicular_Cell"	0	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	30
+"Type_I_Skeletal_Myocyte"	0	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	30
+"Vascular_Smooth_Muscle_1"	0.00426803243704652	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	30
+"Alveolar_Type_1_Cell"	0.0328638497652582	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	50
+"Colonic_Goblet_Cell"	0.0756756756756757	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	50
+"Esophageal_Epithelial_Cell"	0.007421875	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	50
+"Hepatocyte"	0.983644859813084	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	50
+"Luteal_Cell_Ovarian"	1	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	50
+"Mammary_Epithelial"	0.0564726324934839	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	50
+"Pancreatic_Acinar_Cell"	1	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	50
+"Parietal_Cell"	0.15780998389694	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	50
+"Small_Intestinal_Enterocyte"	0.0280373831775701	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	50
+"Smooth_Muscle_GE_Junction"	0.0180722891566265	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	50
+"Thyroid_Follicular_Cell"	0	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	50
+"Type_I_Skeletal_Myocyte"	0.00149625935162095	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	50
+"Vascular_Smooth_Muscle_1"	0.0315834400341443	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	50
+"Alveolar_Type_1_Cell"	0.0516431924882629	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	100
+"Colonic_Goblet_Cell"	0.351351351351351	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	100
+"Esophageal_Epithelial_Cell"	0.002734375	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	100
+"Hepatocyte"	1	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	100
+"Luteal_Cell_Ovarian"	1	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	100
+"Mammary_Epithelial"	0.0877497827975673	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	100
+"Pancreatic_Acinar_Cell"	1	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	100
+"Parietal_Cell"	0.958132045088567	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	100
+"Small_Intestinal_Enterocyte"	0.0919003115264797	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	100
+"Smooth_Muscle_GE_Junction"	0.0140562248995984	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	100
+"Thyroid_Follicular_Cell"	0	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	100
+"Type_I_Skeletal_Myocyte"	0.0643391521197007	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	100
+"Vascular_Smooth_Muscle_1"	0.33760136577038	"SnapATAC1"	"human adult atlas subset1"	"candidate1"	100
+"Alveolar_Type_1_Cell"	0	"aggregation"	"human adult atlas subset1"	"candidate1"	30
+"Colonic_Goblet_Cell"	0.0027027027027027	"aggregation"	"human adult atlas subset1"	"candidate1"	30
+"Esophageal_Epithelial_Cell"	0.00390625	"aggregation"	"human adult atlas subset1"	"candidate1"	30
+"Hepatocyte"	0.00058411214953271	"aggregation"	"human adult atlas subset1"	"candidate1"	30
+"Luteal_Cell_Ovarian"	0.0421348314606742	"aggregation"	"human adult atlas subset1"	"candidate1"	30
+"Mammary_Epithelial"	0.00173761946133797	"aggregation"	"human adult atlas subset1"	"candidate1"	30
+"Pancreatic_Acinar_Cell"	0	"aggregation"	"human adult atlas subset1"	"candidate1"	30
+"Parietal_Cell"	0	"aggregation"	"human adult atlas subset1"	"candidate1"	30
+"Small_Intestinal_Enterocyte"	0.014018691588785	"aggregation"	"human adult atlas subset1"	"candidate1"	30
+"Smooth_Muscle_GE_Junction"	0.0481927710843374	"aggregation"	"human adult atlas subset1"	"candidate1"	30
+"Thyroid_Follicular_Cell"	0.000374672161858374	"aggregation"	"human adult atlas subset1"	"candidate1"	30
+"Type_I_Skeletal_Myocyte"	0	"aggregation"	"human adult atlas subset1"	"candidate1"	30
+"Vascular_Smooth_Muscle_1"	0.0273154075970977	"aggregation"	"human adult atlas subset1"	"candidate1"	30
+"Alveolar_Type_1_Cell"	0	"aggregation"	"human adult atlas subset1"	"candidate1"	50
+"Colonic_Goblet_Cell"	0.0027027027027027	"aggregation"	"human adult atlas subset1"	"candidate1"	50
+"Esophageal_Epithelial_Cell"	0.00390625	"aggregation"	"human adult atlas subset1"	"candidate1"	50
+"Hepatocyte"	0.00058411214953271	"aggregation"	"human adult atlas subset1"	"candidate1"	50
+"Luteal_Cell_Ovarian"	0.05	"aggregation"	"human adult atlas subset1"	"candidate1"	50
+"Mammary_Epithelial"	0.00173761946133797	"aggregation"	"human adult atlas subset1"	"candidate1"	50
+"Pancreatic_Acinar_Cell"	0	"aggregation"	"human adult atlas subset1"	"candidate1"	50
+"Parietal_Cell"	0	"aggregation"	"human adult atlas subset1"	"candidate1"	50
+"Small_Intestinal_Enterocyte"	0.014797507788162	"aggregation"	"human adult atlas subset1"	"candidate1"	50
+"Smooth_Muscle_GE_Junction"	0.0522088353413655	"aggregation"	"human adult atlas subset1"	"candidate1"	50
+"Thyroid_Follicular_Cell"	0	"aggregation"	"human adult atlas subset1"	"candidate1"	50
+"Type_I_Skeletal_Myocyte"	0.000498753117206983	"aggregation"	"human adult atlas subset1"	"candidate1"	50
+"Vascular_Smooth_Muscle_1"	0.0256081946222791	"aggregation"	"human adult atlas subset1"	"candidate1"	50
+"Alveolar_Type_1_Cell"	0	"aggregation"	"human adult atlas subset1"	"candidate1"	100
+"Colonic_Goblet_Cell"	0	"aggregation"	"human adult atlas subset1"	"candidate1"	100
+"Esophageal_Epithelial_Cell"	0.00390625	"aggregation"	"human adult atlas subset1"	"candidate1"	100
+"Hepatocyte"	0.00058411214953271	"aggregation"	"human adult atlas subset1"	"candidate1"	100
+"Luteal_Cell_Ovarian"	0.0376404494382022	"aggregation"	"human adult atlas subset1"	"candidate1"	100
+"Mammary_Epithelial"	0.00260642919200695	"aggregation"	"human adult atlas subset1"	"candidate1"	100
+"Pancreatic_Acinar_Cell"	0	"aggregation"	"human adult atlas subset1"	"candidate1"	100
+"Parietal_Cell"	0	"aggregation"	"human adult atlas subset1"	"candidate1"	100
+"Small_Intestinal_Enterocyte"	0.0194704049844237	"aggregation"	"human adult atlas subset1"	"candidate1"	100
+"Smooth_Muscle_GE_Junction"	0.0301204819277108	"aggregation"	"human adult atlas subset1"	"candidate1"	100
+"Thyroid_Follicular_Cell"	0	"aggregation"	"human adult atlas subset1"	"candidate1"	100
+"Type_I_Skeletal_Myocyte"	0.000997506234413965	"aggregation"	"human adult atlas subset1"	"candidate1"	100
+"Vascular_Smooth_Muscle_1"	0.0157917200170721	"aggregation"	"human adult atlas subset1"	"candidate1"	100
+"Alveolar_Type_1_Cell"	0.0422535211267606	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	30
+"Colonic_Goblet_Cell"	0.0567567567567568	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	30
+"Esophageal_Epithelial_Cell"	0.082421875	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	30
+"Hepatocyte"	0.0952102803738318	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	30
+"Luteal_Cell_Ovarian"	0.679775280898876	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	30
+"Mammary_Epithelial"	0.178974804517811	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	30
+"Pancreatic_Acinar_Cell"	1	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	30
+"Parietal_Cell"	0.0692431561996779	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	30
+"Small_Intestinal_Enterocyte"	0.302959501557632	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	30
+"Smooth_Muscle_GE_Junction"	0	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	30
+"Thyroid_Follicular_Cell"	0.0719370550768078	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	30
+"Type_I_Skeletal_Myocyte"	0.0758104738154613	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	30
+"Vascular_Smooth_Muscle_1"	0.252667520273154	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	30
+"Alveolar_Type_1_Cell"	0.0469483568075117	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	50
+"Colonic_Goblet_Cell"	0.0756756756756757	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	50
+"Esophageal_Epithelial_Cell"	0.07265625	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	50
+"Hepatocyte"	0.432242990654206	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	50
+"Luteal_Cell_Ovarian"	0.980337078651685	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	50
+"Mammary_Epithelial"	0.185925282363162	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	50
+"Pancreatic_Acinar_Cell"	1	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	50
+"Parietal_Cell"	0.159420289855072	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	50
+"Small_Intestinal_Enterocyte"	0.369158878504673	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	50
+"Smooth_Muscle_GE_Junction"	0	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	50
+"Thyroid_Follicular_Cell"	0.0708130385912327	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	50
+"Type_I_Skeletal_Myocyte"	0.100249376558603	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	50
+"Vascular_Smooth_Muscle_1"	0.304737516005122	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	50
+"Alveolar_Type_1_Cell"	0.0704225352112676	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	100
+"Colonic_Goblet_Cell"	0.162162162162162	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	100
+"Esophageal_Epithelial_Cell"	0.022265625	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	100
+"Hepatocyte"	1	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	100
+"Luteal_Cell_Ovarian"	1	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	100
+"Mammary_Epithelial"	0.158123370981755	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	100
+"Pancreatic_Acinar_Cell"	1	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	100
+"Parietal_Cell"	0.657004830917874	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	100
+"Small_Intestinal_Enterocyte"	0.475077881619938	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	100
+"Smooth_Muscle_GE_Junction"	0	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	100
+"Thyroid_Follicular_Cell"	0.0475833645560135	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	100
+"Type_I_Skeletal_Myocyte"	0.127680798004988	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	100
+"Vascular_Smooth_Muscle_1"	0.35595390524968	"SnapATAC2_jaccard"	"human adult atlas subset1"	"candidate1"	100
+"Alveolar_Type_1_Cell"	0.0328638497652582	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	30
+"Colonic_Goblet_Cell"	0.0513513513513514	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	30
+"Esophageal_Epithelial_Cell"	0.039453125	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	30
+"Hepatocyte"	0.00934579439252336	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	30
+"Luteal_Cell_Ovarian"	0.108426966292135	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	30
+"Mammary_Epithelial"	0.0443092962641182	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	30
+"Pancreatic_Acinar_Cell"	1	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	30
+"Parietal_Cell"	0.0402576489533011	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	30
+"Small_Intestinal_Enterocyte"	0.13785046728972	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	30
+"Smooth_Muscle_GE_Junction"	0.0261044176706827	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	30
+"Thyroid_Follicular_Cell"	0	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	30
+"Type_I_Skeletal_Myocyte"	0	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	30
+"Vascular_Smooth_Muscle_1"	0.00170721297481861	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	30
+"Alveolar_Type_1_Cell"	0.0375586854460094	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	50
+"Colonic_Goblet_Cell"	0.0756756756756757	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	50
+"Esophageal_Epithelial_Cell"	0.110546875	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	50
+"Hepatocyte"	0.123247663551402	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	50
+"Luteal_Cell_Ovarian"	0.539887640449438	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	50
+"Mammary_Epithelial"	0.050390964378801	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	50
+"Pancreatic_Acinar_Cell"	1	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	50
+"Parietal_Cell"	0.127214170692432	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	50
+"Small_Intestinal_Enterocyte"	0.301401869158879	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	50
+"Smooth_Muscle_GE_Junction"	0.0261044176706827	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	50
+"Thyroid_Follicular_Cell"	0	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	50
+"Type_I_Skeletal_Myocyte"	0.00149625935162095	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	50
+"Vascular_Smooth_Muscle_1"	0.00640204865556978	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	50
+"Alveolar_Type_1_Cell"	0.0610328638497653	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	100
+"Colonic_Goblet_Cell"	0.148648648648649	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	100
+"Esophageal_Epithelial_Cell"	0.08203125	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	100
+"Hepatocyte"	1	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	100
+"Luteal_Cell_Ovarian"	0.998314606741573	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	100
+"Mammary_Epithelial"	0.0582102519548219	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	100
+"Pancreatic_Acinar_Cell"	1	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	100
+"Parietal_Cell"	0.668276972624799	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	100
+"Small_Intestinal_Enterocyte"	0.573208722741433	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	100
+"Smooth_Muscle_GE_Junction"	0.0261044176706827	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	100
+"Thyroid_Follicular_Cell"	0	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	100
+"Type_I_Skeletal_Myocyte"	0.0149625935162095	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	100
+"Vascular_Smooth_Muscle_1"	0.0431071276141699	"SnapATAC2_cosine"	"human adult atlas subset1"	"candidate1"	100
+"Alveolar_Type_1_Cell"	0.408450704225352	"Signac_by_cluster_peaks"	"human adult atlas subset2"	"candidate2"	30
+"Colon_Epithelial_Cell_1"	0.0142487046632124	"Signac_by_cluster_peaks"	"human adult atlas subset2"	"candidate2"	30
+"Ductal_Cell_Pancreatic"	0.0726872246696035	"Signac_by_cluster_peaks"	"human adult atlas subset2"	"candidate2"	30
+"Luteal_Cell_Ovarian"	0.000674081563869228	"Signac_by_cluster_peaks"	"human adult atlas subset2"	"candidate2"	30
+"Mammary_Epithelial"	1	"Signac_by_cluster_peaks"	"human adult atlas subset2"	"candidate2"	30
+"Parietal_Cell"	0.687258687258687	"Signac_by_cluster_peaks"	"human adult atlas subset2"	"candidate2"	30
+"Peripheral_Nerve_Stromal"	0.201834862385321	"Signac_by_cluster_peaks"	"human adult atlas subset2"	"candidate2"	30
+"Small_Intestinal_Enterocyte"	0.458411214953271	"Signac_by_cluster_peaks"	"human adult atlas subset2"	"candidate2"	30
+"Smooth_Muscle_Uterine"	0.00491266375545852	"Signac_by_cluster_peaks"	"human adult atlas subset2"	"candidate2"	30
+"Vascular_Smooth_Muscle_2"	0.510224948875256	"Signac_by_cluster_peaks"	"human adult atlas subset2"	"candidate2"	30
+"Alveolar_Type_1_Cell"	0.715492957746479	"Signac_by_cluster_peaks"	"human adult atlas subset2"	"candidate2"	50
+"Colon_Epithelial_Cell_1"	0.237910189982729	"Signac_by_cluster_peaks"	"human adult atlas subset2"	"candidate2"	50
+"Ductal_Cell_Pancreatic"	0.112334801762115	"Signac_by_cluster_peaks"	"human adult atlas subset2"	"candidate2"	50
+"Luteal_Cell_Ovarian"	0.000674081563869228	"Signac_by_cluster_peaks"	"human adult atlas subset2"	"candidate2"	50
+"Mammary_Epithelial"	1	"Signac_by_cluster_peaks"	"human adult atlas subset2"	"candidate2"	50
+"Parietal_Cell"	1	"Signac_by_cluster_peaks"	"human adult atlas subset2"	"candidate2"	50
+"Peripheral_Nerve_Stromal"	0.217125382262997	"Signac_by_cluster_peaks"	"human adult atlas subset2"	"candidate2"	50
+"Small_Intestinal_Enterocyte"	0.933644859813084	"Signac_by_cluster_peaks"	"human adult atlas subset2"	"candidate2"	50
+"Smooth_Muscle_Uterine"	0.00218340611353712	"Signac_by_cluster_peaks"	"human adult atlas subset2"	"candidate2"	50
+"Vascular_Smooth_Muscle_2"	0.701431492842536	"Signac_by_cluster_peaks"	"human adult atlas subset2"	"candidate2"	50
+"Alveolar_Type_1_Cell"	1	"Signac_by_cluster_peaks"	"human adult atlas subset2"	"candidate2"	100
+"Colon_Epithelial_Cell_1"	0.931778929188256	"Signac_by_cluster_peaks"	"human adult atlas subset2"	"candidate2"	100
+"Ductal_Cell_Pancreatic"	0.306167400881057	"Signac_by_cluster_peaks"	"human adult atlas subset2"	"candidate2"	100
+"Luteal_Cell_Ovarian"	0.00202224469160768	"Signac_by_cluster_peaks"	"human adult atlas subset2"	"candidate2"	100
+"Mammary_Epithelial"	1	"Signac_by_cluster_peaks"	"human adult atlas subset2"	"candidate2"	100
+"Parietal_Cell"	1	"Signac_by_cluster_peaks"	"human adult atlas subset2"	"candidate2"	100
+"Peripheral_Nerve_Stromal"	0.27217125382263	"Signac_by_cluster_peaks"	"human adult atlas subset2"	"candidate2"	100
+"Small_Intestinal_Enterocyte"	1	"Signac_by_cluster_peaks"	"human adult atlas subset2"	"candidate2"	100
+"Smooth_Muscle_Uterine"	0.00109170305676856	"Signac_by_cluster_peaks"	"human adult atlas subset2"	"candidate2"	100
+"Vascular_Smooth_Muscle_2"	0.9780163599182	"Signac_by_cluster_peaks"	"human adult atlas subset2"	"candidate2"	100
+"Alveolar_Type_1_Cell"	0.312676056338028	"Signac_all_cell_peaks"	"human adult atlas subset2"	"candidate2"	30
+"Colon_Epithelial_Cell_1"	0.0233160621761658	"Signac_all_cell_peaks"	"human adult atlas subset2"	"candidate2"	30
+"Ductal_Cell_Pancreatic"	0.0770925110132159	"Signac_all_cell_peaks"	"human adult atlas subset2"	"candidate2"	30
+"Luteal_Cell_Ovarian"	0.000674081563869228	"Signac_all_cell_peaks"	"human adult atlas subset2"	"candidate2"	30
+"Mammary_Epithelial"	1	"Signac_all_cell_peaks"	"human adult atlas subset2"	"candidate2"	30
+"Parietal_Cell"	0.52992277992278	"Signac_all_cell_peaks"	"human adult atlas subset2"	"candidate2"	30
+"Peripheral_Nerve_Stromal"	0.201834862385321	"Signac_all_cell_peaks"	"human adult atlas subset2"	"candidate2"	30
+"Small_Intestinal_Enterocyte"	0.596728971962617	"Signac_all_cell_peaks"	"human adult atlas subset2"	"candidate2"	30
+"Smooth_Muscle_Uterine"	0.00327510917030568	"Signac_all_cell_peaks"	"human adult atlas subset2"	"candidate2"	30
+"Vascular_Smooth_Muscle_2"	0.592024539877301	"Signac_all_cell_peaks"	"human adult atlas subset2"	"candidate2"	30
+"Alveolar_Type_1_Cell"	0.552112676056338	"Signac_all_cell_peaks"	"human adult atlas subset2"	"candidate2"	50
+"Colon_Epithelial_Cell_1"	0.284974093264249	"Signac_all_cell_peaks"	"human adult atlas subset2"	"candidate2"	50
+"Ductal_Cell_Pancreatic"	0.143171806167401	"Signac_all_cell_peaks"	"human adult atlas subset2"	"candidate2"	50
+"Luteal_Cell_Ovarian"	0.00134816312773846	"Signac_all_cell_peaks"	"human adult atlas subset2"	"candidate2"	50
+"Mammary_Epithelial"	1	"Signac_all_cell_peaks"	"human adult atlas subset2"	"candidate2"	50
+"Parietal_Cell"	0.998069498069498	"Signac_all_cell_peaks"	"human adult atlas subset2"	"candidate2"	50
+"Peripheral_Nerve_Stromal"	0.229357798165138	"Signac_all_cell_peaks"	"human adult atlas subset2"	"candidate2"	50
+"Small_Intestinal_Enterocyte"	0.992523364485981	"Signac_all_cell_peaks"	"human adult atlas subset2"	"candidate2"	50
+"Smooth_Muscle_Uterine"	0.00109170305676856	"Signac_all_cell_peaks"	"human adult atlas subset2"	"candidate2"	50
+"Vascular_Smooth_Muscle_2"	0.813905930470348	"Signac_all_cell_peaks"	"human adult atlas subset2"	"candidate2"	50
+"Alveolar_Type_1_Cell"	0.91830985915493	"Signac_all_cell_peaks"	"human adult atlas subset2"	"candidate2"	100
+"Colon_Epithelial_Cell_1"	0.984024179620035	"Signac_all_cell_peaks"	"human adult atlas subset2"	"candidate2"	100
+"Ductal_Cell_Pancreatic"	0.409691629955947	"Signac_all_cell_peaks"	"human adult atlas subset2"	"candidate2"	100
+"Luteal_Cell_Ovarian"	0.00505561172901921	"Signac_all_cell_peaks"	"human adult atlas subset2"	"candidate2"	100
+"Mammary_Epithelial"	1	"Signac_all_cell_peaks"	"human adult atlas subset2"	"candidate2"	100
+"Parietal_Cell"	1	"Signac_all_cell_peaks"	"human adult atlas subset2"	"candidate2"	100
+"Peripheral_Nerve_Stromal"	0.293577981651376	"Signac_all_cell_peaks"	"human adult atlas subset2"	"candidate2"	100
+"Small_Intestinal_Enterocyte"	1	"Signac_all_cell_peaks"	"human adult atlas subset2"	"candidate2"	100
+"Smooth_Muscle_Uterine"	0	"Signac_all_cell_peaks"	"human adult atlas subset2"	"candidate2"	100
+"Vascular_Smooth_Muscle_2"	0.994376278118609	"Signac_all_cell_peaks"	"human adult atlas subset2"	"candidate2"	100
+"Alveolar_Type_1_Cell"	0.284507042253521	"ArchR_peaks"	"human adult atlas subset2"	"candidate2"	30
+"Colon_Epithelial_Cell_1"	0.142487046632124	"ArchR_peaks"	"human adult atlas subset2"	"candidate2"	30
+"Ductal_Cell_Pancreatic"	0.215859030837004	"ArchR_peaks"	"human adult atlas subset2"	"candidate2"	30
+"Luteal_Cell_Ovarian"	0.404111897539602	"ArchR_peaks"	"human adult atlas subset2"	"candidate2"	30
+"Mammary_Epithelial"	0.236704900938478	"ArchR_peaks"	"human adult atlas subset2"	"candidate2"	30
+"Parietal_Cell"	0.21042471042471	"ArchR_peaks"	"human adult atlas subset2"	"candidate2"	30
+"Peripheral_Nerve_Stromal"	0.275229357798165	"ArchR_peaks"	"human adult atlas subset2"	"candidate2"	30
+"Small_Intestinal_Enterocyte"	0.439719626168224	"ArchR_peaks"	"human adult atlas subset2"	"candidate2"	30
+"Smooth_Muscle_Uterine"	0.0376637554585153	"ArchR_peaks"	"human adult atlas subset2"	"candidate2"	30
+"Vascular_Smooth_Muscle_2"	0.65081799591002	"ArchR_peaks"	"human adult atlas subset2"	"candidate2"	30
+"Alveolar_Type_1_Cell"	0.335211267605634	"ArchR_peaks"	"human adult atlas subset2"	"candidate2"	50
+"Colon_Epithelial_Cell_1"	0.190846286701209	"ArchR_peaks"	"human adult atlas subset2"	"candidate2"	50
+"Ductal_Cell_Pancreatic"	0.273127753303965	"ArchR_peaks"	"human adult atlas subset2"	"candidate2"	50
+"Luteal_Cell_Ovarian"	0.434782608695652	"ArchR_peaks"	"human adult atlas subset2"	"candidate2"	50
+"Mammary_Epithelial"	0.266944734098019	"ArchR_peaks"	"human adult atlas subset2"	"candidate2"	50
+"Parietal_Cell"	0.236486486486486	"ArchR_peaks"	"human adult atlas subset2"	"candidate2"	50
+"Peripheral_Nerve_Stromal"	0.336391437308869	"ArchR_peaks"	"human adult atlas subset2"	"candidate2"	50
+"Small_Intestinal_Enterocyte"	0.475700934579439	"ArchR_peaks"	"human adult atlas subset2"	"candidate2"	50
+"Smooth_Muscle_Uterine"	0.0300218340611354	"ArchR_peaks"	"human adult atlas subset2"	"candidate2"	50
+"Vascular_Smooth_Muscle_2"	0.675357873210634	"ArchR_peaks"	"human adult atlas subset2"	"candidate2"	50
+"Alveolar_Type_1_Cell"	0.450704225352113	"ArchR_peaks"	"human adult atlas subset2"	"candidate2"	100
+"Colon_Epithelial_Cell_1"	0.291018998272884	"ArchR_peaks"	"human adult atlas subset2"	"candidate2"	100
+"Ductal_Cell_Pancreatic"	0.387665198237885	"ArchR_peaks"	"human adult atlas subset2"	"candidate2"	100
+"Luteal_Cell_Ovarian"	0.512639029322548	"ArchR_peaks"	"human adult atlas subset2"	"candidate2"	100
+"Mammary_Epithelial"	0.355057351407716	"ArchR_peaks"	"human adult atlas subset2"	"candidate2"	100
+"Parietal_Cell"	0.326254826254826	"ArchR_peaks"	"human adult atlas subset2"	"candidate2"	100
+"Peripheral_Nerve_Stromal"	0.443425076452599	"ArchR_peaks"	"human adult atlas subset2"	"candidate2"	100
+"Small_Intestinal_Enterocyte"	0.544392523364486	"ArchR_peaks"	"human adult atlas subset2"	"candidate2"	100
+"Smooth_Muscle_Uterine"	0.0131004366812227	"ArchR_peaks"	"human adult atlas subset2"	"candidate2"	100
+"Vascular_Smooth_Muscle_2"	0.725971370143149	"ArchR_peaks"	"human adult atlas subset2"	"candidate2"	100
+"Alveolar_Type_1_Cell"	0.304225352112676	"ArchR_tiles"	"human adult atlas subset2"	"candidate2"	30
+"Colon_Epithelial_Cell_1"	0.161917098445596	"ArchR_tiles"	"human adult atlas subset2"	"candidate2"	30
+"Ductal_Cell_Pancreatic"	0.248898678414097	"ArchR_tiles"	"human adult atlas subset2"	"candidate2"	30
+"Luteal_Cell_Ovarian"	0.507920458375463	"ArchR_tiles"	"human adult atlas subset2"	"candidate2"	30
+"Mammary_Epithelial"	0.24191866527633	"ArchR_tiles"	"human adult atlas subset2"	"candidate2"	30
+"Parietal_Cell"	0.219111969111969	"ArchR_tiles"	"human adult atlas subset2"	"candidate2"	30
+"Peripheral_Nerve_Stromal"	0.327217125382263	"ArchR_tiles"	"human adult atlas subset2"	"candidate2"	30
+"Small_Intestinal_Enterocyte"	0.45	"ArchR_tiles"	"human adult atlas subset2"	"candidate2"	30
+"Smooth_Muscle_Uterine"	0.0698689956331878	"ArchR_tiles"	"human adult atlas subset2"	"candidate2"	30
+"Vascular_Smooth_Muscle_2"	0.697341513292434	"ArchR_tiles"	"human adult atlas subset2"	"candidate2"	30
+"Alveolar_Type_1_Cell"	0.346478873239437	"ArchR_tiles"	"human adult atlas subset2"	"candidate2"	50
+"Colon_Epithelial_Cell_1"	0.208117443868739	"ArchR_tiles"	"human adult atlas subset2"	"candidate2"	50
+"Ductal_Cell_Pancreatic"	0.303964757709251	"ArchR_tiles"	"human adult atlas subset2"	"candidate2"	50
+"Luteal_Cell_Ovarian"	0.552409841590833	"ArchR_tiles"	"human adult atlas subset2"	"candidate2"	50
+"Mammary_Epithelial"	0.2711157455683	"ArchR_tiles"	"human adult atlas subset2"	"candidate2"	50
+"Parietal_Cell"	0.252895752895753	"ArchR_tiles"	"human adult atlas subset2"	"candidate2"	50
+"Peripheral_Nerve_Stromal"	0.391437308868502	"ArchR_tiles"	"human adult atlas subset2"	"candidate2"	50
+"Small_Intestinal_Enterocyte"	0.479439252336449	"ArchR_tiles"	"human adult atlas subset2"	"candidate2"	50
+"Smooth_Muscle_Uterine"	0.0518558951965066	"ArchR_tiles"	"human adult atlas subset2"	"candidate2"	50
+"Vascular_Smooth_Muscle_2"	0.723415132924335	"ArchR_tiles"	"human adult atlas subset2"	"candidate2"	50
+"Alveolar_Type_1_Cell"	0.47887323943662	"ArchR_tiles"	"human adult atlas subset2"	"candidate2"	100
+"Colon_Epithelial_Cell_1"	0.328151986183074	"ArchR_tiles"	"human adult atlas subset2"	"candidate2"	100
+"Ductal_Cell_Pancreatic"	0.427312775330396	"ArchR_tiles"	"human adult atlas subset2"	"candidate2"	100
+"Luteal_Cell_Ovarian"	0.628581058308055	"ArchR_tiles"	"human adult atlas subset2"	"candidate2"	100
+"Mammary_Epithelial"	0.356621480709072	"ArchR_tiles"	"human adult atlas subset2"	"candidate2"	100
+"Parietal_Cell"	0.346525096525096	"ArchR_tiles"	"human adult atlas subset2"	"candidate2"	100
+"Peripheral_Nerve_Stromal"	0.54434250764526	"ArchR_tiles"	"human adult atlas subset2"	"candidate2"	100
+"Small_Intestinal_Enterocyte"	0.539719626168224	"ArchR_tiles"	"human adult atlas subset2"	"candidate2"	100
+"Smooth_Muscle_Uterine"	0.0343886462882096	"ArchR_tiles"	"human adult atlas subset2"	"candidate2"	100
+"Vascular_Smooth_Muscle_2"	0.7719836400818	"ArchR_tiles"	"human adult atlas subset2"	"candidate2"	100
+"Alveolar_Type_1_Cell"	0.0253521126760563	"SnapATAC1"	"human adult atlas subset2"	"candidate2"	30
+"Colon_Epithelial_Cell_1"	0.107512953367876	"SnapATAC1"	"human adult atlas subset2"	"candidate2"	30
+"Ductal_Cell_Pancreatic"	0.123348017621145	"SnapATAC1"	"human adult atlas subset2"	"candidate2"	30
+"Luteal_Cell_Ovarian"	1	"SnapATAC1"	"human adult atlas subset2"	"candidate2"	30
+"Mammary_Epithelial"	0.0792492179353493	"SnapATAC1"	"human adult atlas subset2"	"candidate2"	30
+"Parietal_Cell"	0.0144787644787645	"SnapATAC1"	"human adult atlas subset2"	"candidate2"	30
+"Peripheral_Nerve_Stromal"	0.0428134556574924	"SnapATAC1"	"human adult atlas subset2"	"candidate2"	30
+"Small_Intestinal_Enterocyte"	0	"SnapATAC1"	"human adult atlas subset2"	"candidate2"	30
+"Smooth_Muscle_Uterine"	0.0665938864628821	"SnapATAC1"	"human adult atlas subset2"	"candidate2"	30
+"Vascular_Smooth_Muscle_2"	0.339468302658487	"SnapATAC1"	"human adult atlas subset2"	"candidate2"	30
+"Alveolar_Type_1_Cell"	0.0366197183098592	"SnapATAC1"	"human adult atlas subset2"	"candidate2"	50
+"Colon_Epithelial_Cell_1"	0.700345423143351	"SnapATAC1"	"human adult atlas subset2"	"candidate2"	50
+"Ductal_Cell_Pancreatic"	0.524229074889868	"SnapATAC1"	"human adult atlas subset2"	"candidate2"	50
+"Luteal_Cell_Ovarian"	1	"SnapATAC1"	"human adult atlas subset2"	"candidate2"	50
+"Mammary_Epithelial"	0.0948905109489051	"SnapATAC1"	"human adult atlas subset2"	"candidate2"	50
+"Parietal_Cell"	0.0637065637065637	"SnapATAC1"	"human adult atlas subset2"	"candidate2"	50
+"Peripheral_Nerve_Stromal"	0.125382262996942	"SnapATAC1"	"human adult atlas subset2"	"candidate2"	50
+"Small_Intestinal_Enterocyte"	0	"SnapATAC1"	"human adult atlas subset2"	"candidate2"	50
+"Smooth_Muscle_Uterine"	0.413755458515284	"SnapATAC1"	"human adult atlas subset2"	"candidate2"	50
+"Vascular_Smooth_Muscle_2"	0.81799591002045	"SnapATAC1"	"human adult atlas subset2"	"candidate2"	50
+"Alveolar_Type_1_Cell"	0.0788732394366197	"SnapATAC1"	"human adult atlas subset2"	"candidate2"	100
+"Colon_Epithelial_Cell_1"	1	"SnapATAC1"	"human adult atlas subset2"	"candidate2"	100
+"Ductal_Cell_Pancreatic"	1	"SnapATAC1"	"human adult atlas subset2"	"candidate2"	100
+"Luteal_Cell_Ovarian"	1	"SnapATAC1"	"human adult atlas subset2"	"candidate2"	100
+"Mammary_Epithelial"	0.138686131386861	"SnapATAC1"	"human adult atlas subset2"	"candidate2"	100
+"Parietal_Cell"	0.722007722007722	"SnapATAC1"	"human adult atlas subset2"	"candidate2"	100
+"Peripheral_Nerve_Stromal"	0.409785932721713	"SnapATAC1"	"human adult atlas subset2"	"candidate2"	100
+"Small_Intestinal_Enterocyte"	0	"SnapATAC1"	"human adult atlas subset2"	"candidate2"	100
+"Smooth_Muscle_Uterine"	0.98089519650655	"SnapATAC1"	"human adult atlas subset2"	"candidate2"	100
+"Vascular_Smooth_Muscle_2"	1	"SnapATAC1"	"human adult atlas subset2"	"candidate2"	100
+"Alveolar_Type_1_Cell"	0	"aggregation"	"human adult atlas subset2"	"candidate2"	30
+"Colon_Epithelial_Cell_1"	0.00172711571675302	"aggregation"	"human adult atlas subset2"	"candidate2"	30
+"Ductal_Cell_Pancreatic"	0	"aggregation"	"human adult atlas subset2"	"candidate2"	30
+"Luteal_Cell_Ovarian"	0.0178631614425345	"aggregation"	"human adult atlas subset2"	"candidate2"	30
+"Mammary_Epithelial"	0.000521376433785193	"aggregation"	"human adult atlas subset2"	"candidate2"	30
+"Parietal_Cell"	0	"aggregation"	"human adult atlas subset2"	"candidate2"	30
+"Peripheral_Nerve_Stromal"	0.00611620795107034	"aggregation"	"human adult atlas subset2"	"candidate2"	30
+"Small_Intestinal_Enterocyte"	0.0490654205607477	"aggregation"	"human adult atlas subset2"	"candidate2"	30
+"Smooth_Muscle_Uterine"	0.0212882096069869	"aggregation"	"human adult atlas subset2"	"candidate2"	30
+"Vascular_Smooth_Muscle_2"	0.00255623721881391	"aggregation"	"human adult atlas subset2"	"candidate2"	30
+"Alveolar_Type_1_Cell"	0	"aggregation"	"human adult atlas subset2"	"candidate2"	50
+"Colon_Epithelial_Cell_1"	0.000431778929188256	"aggregation"	"human adult atlas subset2"	"candidate2"	50
+"Ductal_Cell_Pancreatic"	0	"aggregation"	"human adult atlas subset2"	"candidate2"	50
+"Luteal_Cell_Ovarian"	0.00808897876643074	"aggregation"	"human adult atlas subset2"	"candidate2"	50
+"Mammary_Epithelial"	0	"aggregation"	"human adult atlas subset2"	"candidate2"	50
+"Parietal_Cell"	0	"aggregation"	"human adult atlas subset2"	"candidate2"	50
+"Peripheral_Nerve_Stromal"	0.0336391437308868	"aggregation"	"human adult atlas subset2"	"candidate2"	50
+"Small_Intestinal_Enterocyte"	0.0560747663551402	"aggregation"	"human adult atlas subset2"	"candidate2"	50
+"Smooth_Muscle_Uterine"	0.0114628820960699	"aggregation"	"human adult atlas subset2"	"candidate2"	50
+"Vascular_Smooth_Muscle_2"	0.0081799591002045	"aggregation"	"human adult atlas subset2"	"candidate2"	50
+"Alveolar_Type_1_Cell"	0	"aggregation"	"human adult atlas subset2"	"candidate2"	100
+"Colon_Epithelial_Cell_1"	0.000863557858376511	"aggregation"	"human adult atlas subset2"	"candidate2"	100
+"Ductal_Cell_Pancreatic"	0	"aggregation"	"human adult atlas subset2"	"candidate2"	100
+"Luteal_Cell_Ovarian"	0.00775193798449612	"aggregation"	"human adult atlas subset2"	"candidate2"	100
+"Mammary_Epithelial"	0	"aggregation"	"human adult atlas subset2"	"candidate2"	100
+"Parietal_Cell"	0	"aggregation"	"human adult atlas subset2"	"candidate2"	100
+"Peripheral_Nerve_Stromal"	0.0275229357798165	"aggregation"	"human adult atlas subset2"	"candidate2"	100
+"Small_Intestinal_Enterocyte"	0.0710280373831776	"aggregation"	"human adult atlas subset2"	"candidate2"	100
+"Smooth_Muscle_Uterine"	0.182314410480349	"aggregation"	"human adult atlas subset2"	"candidate2"	100
+"Vascular_Smooth_Muscle_2"	0.00664621676891616	"aggregation"	"human adult atlas subset2"	"candidate2"	100
+"Alveolar_Type_1_Cell"	0.0028169014084507	"SnapATAC2_jaccard"	"human adult atlas subset2"	"candidate2"	30
+"Colon_Epithelial_Cell_1"	0.147236614853195	"SnapATAC2_jaccard"	"human adult atlas subset2"	"candidate2"	30
+"Ductal_Cell_Pancreatic"	0.114537444933921	"SnapATAC2_jaccard"	"human adult atlas subset2"	"candidate2"	30
+"Luteal_Cell_Ovarian"	1	"SnapATAC2_jaccard"	"human adult atlas subset2"	"candidate2"	30
+"Mammary_Epithelial"	0	"SnapATAC2_jaccard"	"human adult atlas subset2"	"candidate2"	30
+"Parietal_Cell"	0.000965250965250965	"SnapATAC2_jaccard"	"human adult atlas subset2"	"candidate2"	30
+"Peripheral_Nerve_Stromal"	0.0397553516819572	"SnapATAC2_jaccard"	"human adult atlas subset2"	"candidate2"	30
+"Small_Intestinal_Enterocyte"	0.00280373831775701	"SnapATAC2_jaccard"	"human adult atlas subset2"	"candidate2"	30
+"Smooth_Muscle_Uterine"	0.0567685589519651	"SnapATAC2_jaccard"	"human adult atlas subset2"	"candidate2"	30
+"Vascular_Smooth_Muscle_2"	0.299079754601227	"SnapATAC2_jaccard"	"human adult atlas subset2"	"candidate2"	30
+"Alveolar_Type_1_Cell"	0.0112676056338028	"SnapATAC2_jaccard"	"human adult atlas subset2"	"candidate2"	50
+"Colon_Epithelial_Cell_1"	0.859240069084629	"SnapATAC2_jaccard"	"human adult atlas subset2"	"candidate2"	50
+"Ductal_Cell_Pancreatic"	0.766519823788546	"SnapATAC2_jaccard"	"human adult atlas subset2"	"candidate2"	50
+"Luteal_Cell_Ovarian"	1	"SnapATAC2_jaccard"	"human adult atlas subset2"	"candidate2"	50
+"Mammary_Epithelial"	0	"SnapATAC2_jaccard"	"human adult atlas subset2"	"candidate2"	50
+"Parietal_Cell"	0.0193050193050193	"SnapATAC2_jaccard"	"human adult atlas subset2"	"candidate2"	50
+"Peripheral_Nerve_Stromal"	0.110091743119266	"SnapATAC2_jaccard"	"human adult atlas subset2"	"candidate2"	50
+"Small_Intestinal_Enterocyte"	0.0238317757009346	"SnapATAC2_jaccard"	"human adult atlas subset2"	"candidate2"	50
+"Smooth_Muscle_Uterine"	0.558951965065502	"SnapATAC2_jaccard"	"human adult atlas subset2"	"candidate2"	50
+"Vascular_Smooth_Muscle_2"	0.752556237218814	"SnapATAC2_jaccard"	"human adult atlas subset2"	"candidate2"	50
+"Alveolar_Type_1_Cell"	0.0338028169014084	"SnapATAC2_jaccard"	"human adult atlas subset2"	"candidate2"	100
+"Colon_Epithelial_Cell_1"	1	"SnapATAC2_jaccard"	"human adult atlas subset2"	"candidate2"	100
+"Ductal_Cell_Pancreatic"	1	"SnapATAC2_jaccard"	"human adult atlas subset2"	"candidate2"	100
+"Luteal_Cell_Ovarian"	1	"SnapATAC2_jaccard"	"human adult atlas subset2"	"candidate2"	100
+"Mammary_Epithelial"	0	"SnapATAC2_jaccard"	"human adult atlas subset2"	"candidate2"	100
+"Parietal_Cell"	0.321428571428571	"SnapATAC2_jaccard"	"human adult atlas subset2"	"candidate2"	100
+"Peripheral_Nerve_Stromal"	0.513761467889908	"SnapATAC2_jaccard"	"human adult atlas subset2"	"candidate2"	100
+"Small_Intestinal_Enterocyte"	0.489252336448598	"SnapATAC2_jaccard"	"human adult atlas subset2"	"candidate2"	100
+"Smooth_Muscle_Uterine"	1	"SnapATAC2_jaccard"	"human adult atlas subset2"	"candidate2"	100
+"Vascular_Smooth_Muscle_2"	1	"SnapATAC2_jaccard"	"human adult atlas subset2"	"candidate2"	100
+"Alveolar_Type_1_Cell"	0.0028169014084507	"SnapATAC2_cosine"	"human adult atlas subset2"	"candidate2"	30
+"Colon_Epithelial_Cell_1"	0.0125215889464594	"SnapATAC2_cosine"	"human adult atlas subset2"	"candidate2"	30
+"Ductal_Cell_Pancreatic"	0.420704845814978	"SnapATAC2_cosine"	"human adult atlas subset2"	"candidate2"	30
+"Luteal_Cell_Ovarian"	0.999325918436131	"SnapATAC2_cosine"	"human adult atlas subset2"	"candidate2"	30
+"Mammary_Epithelial"	0.00312825860271116	"SnapATAC2_cosine"	"human adult atlas subset2"	"candidate2"	30
+"Parietal_Cell"	0	"SnapATAC2_cosine"	"human adult atlas subset2"	"candidate2"	30
+"Peripheral_Nerve_Stromal"	0.0244648318042813	"SnapATAC2_cosine"	"human adult atlas subset2"	"candidate2"	30
+"Small_Intestinal_Enterocyte"	0.000934579439252336	"SnapATAC2_cosine"	"human adult atlas subset2"	"candidate2"	30
+"Smooth_Muscle_Uterine"	0	"SnapATAC2_cosine"	"human adult atlas subset2"	"candidate2"	30
+"Vascular_Smooth_Muscle_2"	0.0414110429447853	"SnapATAC2_cosine"	"human adult atlas subset2"	"candidate2"	30
+"Alveolar_Type_1_Cell"	0.00563380281690141	"SnapATAC2_cosine"	"human adult atlas subset2"	"candidate2"	50
+"Colon_Epithelial_Cell_1"	0.615284974093264	"SnapATAC2_cosine"	"human adult atlas subset2"	"candidate2"	50
+"Ductal_Cell_Pancreatic"	0.997797356828194	"SnapATAC2_cosine"	"human adult atlas subset2"	"candidate2"	50
+"Luteal_Cell_Ovarian"	1	"SnapATAC2_cosine"	"human adult atlas subset2"	"candidate2"	50
+"Mammary_Epithelial"	0	"SnapATAC2_cosine"	"human adult atlas subset2"	"candidate2"	50
+"Parietal_Cell"	0.000965250965250965	"SnapATAC2_cosine"	"human adult atlas subset2"	"candidate2"	50
+"Peripheral_Nerve_Stromal"	0.0581039755351682	"SnapATAC2_cosine"	"human adult atlas subset2"	"candidate2"	50
+"Small_Intestinal_Enterocyte"	0.00233644859813084	"SnapATAC2_cosine"	"human adult atlas subset2"	"candidate2"	50
+"Smooth_Muscle_Uterine"	0.050764192139738	"SnapATAC2_cosine"	"human adult atlas subset2"	"candidate2"	50
+"Vascular_Smooth_Muscle_2"	0.278629856850716	"SnapATAC2_cosine"	"human adult atlas subset2"	"candidate2"	50
+"Alveolar_Type_1_Cell"	0.0253521126760563	"SnapATAC2_cosine"	"human adult atlas subset2"	"candidate2"	100
+"Colon_Epithelial_Cell_1"	1	"SnapATAC2_cosine"	"human adult atlas subset2"	"candidate2"	100
+"Ductal_Cell_Pancreatic"	1	"SnapATAC2_cosine"	"human adult atlas subset2"	"candidate2"	100
+"Luteal_Cell_Ovarian"	1	"SnapATAC2_cosine"	"human adult atlas subset2"	"candidate2"	100
+"Mammary_Epithelial"	0	"SnapATAC2_cosine"	"human adult atlas subset2"	"candidate2"	100
+"Parietal_Cell"	0.244208494208494	"SnapATAC2_cosine"	"human adult atlas subset2"	"candidate2"	100
+"Peripheral_Nerve_Stromal"	0.342507645259939	"SnapATAC2_cosine"	"human adult atlas subset2"	"candidate2"	100
+"Small_Intestinal_Enterocyte"	0.272429906542056	"SnapATAC2_cosine"	"human adult atlas subset2"	"candidate2"	100
+"Smooth_Muscle_Uterine"	0.962882096069869	"SnapATAC2_cosine"	"human adult atlas subset2"	"candidate2"	100
+"Vascular_Smooth_Muscle_2"	0.982106339468303	"SnapATAC2_cosine"	"human adult atlas subset2"	"candidate2"	100
+"CLP"	0.102564102564103	"Signac_by_cluster_peaks"	"Buenrostro2018"	"Buenrostro_2018"	30
+"CMP"	0.99800796812749	"Signac_by_cluster_peaks"	"Buenrostro2018"	"Buenrostro_2018"	30
+"GMP"	0.972222222222222	"Signac_by_cluster_peaks"	"Buenrostro2018"	"Buenrostro_2018"	30
+"HSC"	0.737752161383285	"Signac_by_cluster_peaks"	"Buenrostro2018"	"Buenrostro_2018"	30
+"LMPP"	0.16875	"Signac_by_cluster_peaks"	"Buenrostro2018"	"Buenrostro_2018"	30
+"MEP"	1	"Signac_by_cluster_peaks"	"Buenrostro2018"	"Buenrostro_2018"	30
+"MPP"	0.028169014084507	"Signac_by_cluster_peaks"	"Buenrostro2018"	"Buenrostro_2018"	30
+"mono"	0.125	"Signac_by_cluster_peaks"	"Buenrostro2018"	"Buenrostro_2018"	30
+"pDC"	0.735294117647059	"Signac_by_cluster_peaks"	"Buenrostro2018"	"Buenrostro_2018"	30
+"CLP"	0.102564102564103	"Signac_by_cluster_peaks"	"Buenrostro2018"	"Buenrostro_2018"	50
+"CMP"	1	"Signac_by_cluster_peaks"	"Buenrostro2018"	"Buenrostro_2018"	50
+"GMP"	1	"Signac_by_cluster_peaks"	"Buenrostro2018"	"Buenrostro_2018"	50
+"HSC"	0.867435158501441	"Signac_by_cluster_peaks"	"Buenrostro2018"	"Buenrostro_2018"	50
+"LMPP"	0.3625	"Signac_by_cluster_peaks"	"Buenrostro2018"	"Buenrostro_2018"	50
+"MEP"	1	"Signac_by_cluster_peaks"	"Buenrostro2018"	"Buenrostro_2018"	50
+"MPP"	0	"Signac_by_cluster_peaks"	"Buenrostro2018"	"Buenrostro_2018"	50
+"mono"	0.125	"Signac_by_cluster_peaks"	"Buenrostro2018"	"Buenrostro_2018"	50
+"pDC"	1	"Signac_by_cluster_peaks"	"Buenrostro2018"	"Buenrostro_2018"	50
+"CLP"	0.0512820512820513	"Signac_by_cluster_peaks"	"Buenrostro2018"	"Buenrostro_2018"	100
+"CMP"	1	"Signac_by_cluster_peaks"	"Buenrostro2018"	"Buenrostro_2018"	100
+"GMP"	1	"Signac_by_cluster_peaks"	"Buenrostro2018"	"Buenrostro_2018"	100
+"HSC"	1	"Signac_by_cluster_peaks"	"Buenrostro2018"	"Buenrostro_2018"	100
+"LMPP"	0.8	"Signac_by_cluster_peaks"	"Buenrostro2018"	"Buenrostro_2018"	100
+"MEP"	1	"Signac_by_cluster_peaks"	"Buenrostro2018"	"Buenrostro_2018"	100
+"MPP"	0	"Signac_by_cluster_peaks"	"Buenrostro2018"	"Buenrostro_2018"	100
+"mono"	0.25	"Signac_by_cluster_peaks"	"Buenrostro2018"	"Buenrostro_2018"	100
+"pDC"	1	"Signac_by_cluster_peaks"	"Buenrostro2018"	"Buenrostro_2018"	100
+"CLP"	0.102564102564103	"Signac_all_cell_peaks"	"Buenrostro2018"	"Buenrostro_2018"	30
+"CMP"	1	"Signac_all_cell_peaks"	"Buenrostro2018"	"Buenrostro_2018"	30
+"GMP"	0.990740740740741	"Signac_all_cell_peaks"	"Buenrostro2018"	"Buenrostro_2018"	30
+"HSC"	0.743515850144092	"Signac_all_cell_peaks"	"Buenrostro2018"	"Buenrostro_2018"	30
+"LMPP"	0.19375	"Signac_all_cell_peaks"	"Buenrostro2018"	"Buenrostro_2018"	30
+"MEP"	1	"Signac_all_cell_peaks"	"Buenrostro2018"	"Buenrostro_2018"	30
+"MPP"	0.0211267605633803	"Signac_all_cell_peaks"	"Buenrostro2018"	"Buenrostro_2018"	30
+"mono"	0.125	"Signac_all_cell_peaks"	"Buenrostro2018"	"Buenrostro_2018"	30
+"pDC"	0.382352941176471	"Signac_all_cell_peaks"	"Buenrostro2018"	"Buenrostro_2018"	30
+"CLP"	0.0897435897435897	"Signac_all_cell_peaks"	"Buenrostro2018"	"Buenrostro_2018"	50
+"CMP"	1	"Signac_all_cell_peaks"	"Buenrostro2018"	"Buenrostro_2018"	50
+"GMP"	1	"Signac_all_cell_peaks"	"Buenrostro2018"	"Buenrostro_2018"	50
+"HSC"	0.893371757925072	"Signac_all_cell_peaks"	"Buenrostro2018"	"Buenrostro_2018"	50
+"LMPP"	0.3875	"Signac_all_cell_peaks"	"Buenrostro2018"	"Buenrostro_2018"	50
+"MEP"	1	"Signac_all_cell_peaks"	"Buenrostro2018"	"Buenrostro_2018"	50
+"MPP"	0	"Signac_all_cell_peaks"	"Buenrostro2018"	"Buenrostro_2018"	50
+"mono"	0.125	"Signac_all_cell_peaks"	"Buenrostro2018"	"Buenrostro_2018"	50
+"pDC"	1	"Signac_all_cell_peaks"	"Buenrostro2018"	"Buenrostro_2018"	50
+"CLP"	0.0256410256410256	"Signac_all_cell_peaks"	"Buenrostro2018"	"Buenrostro_2018"	100
+"CMP"	1	"Signac_all_cell_peaks"	"Buenrostro2018"	"Buenrostro_2018"	100
+"GMP"	1	"Signac_all_cell_peaks"	"Buenrostro2018"	"Buenrostro_2018"	100
+"HSC"	1	"Signac_all_cell_peaks"	"Buenrostro2018"	"Buenrostro_2018"	100
+"LMPP"	0.9	"Signac_all_cell_peaks"	"Buenrostro2018"	"Buenrostro_2018"	100
+"MEP"	1	"Signac_all_cell_peaks"	"Buenrostro2018"	"Buenrostro_2018"	100
+"MPP"	0	"Signac_all_cell_peaks"	"Buenrostro2018"	"Buenrostro_2018"	100
+"mono"	0.140625	"Signac_all_cell_peaks"	"Buenrostro2018"	"Buenrostro_2018"	100
+"pDC"	1	"Signac_all_cell_peaks"	"Buenrostro2018"	"Buenrostro_2018"	100
+"CLP"	0.0769230769230769	"ArchR_peaks"	"Buenrostro2018"	"Buenrostro_2018"	30
+"CMP"	0.756	"ArchR_peaks"	"Buenrostro2018"	"Buenrostro_2018"	30
+"GMP"	0.269767441860465	"ArchR_peaks"	"Buenrostro2018"	"Buenrostro_2018"	30
+"HSC"	0.605187319884726	"ArchR_peaks"	"Buenrostro2018"	"Buenrostro_2018"	30
+"LMPP"	0.18125	"ArchR_peaks"	"Buenrostro2018"	"Buenrostro_2018"	30
+"MEP"	0.167883211678832	"ArchR_peaks"	"Buenrostro2018"	"Buenrostro_2018"	30
+"MPP"	0.0845070422535211	"ArchR_peaks"	"Buenrostro2018"	"Buenrostro_2018"	30
+"mono"	0.078125	"ArchR_peaks"	"Buenrostro2018"	"Buenrostro_2018"	30
+"pDC"	0.117647058823529	"ArchR_peaks"	"Buenrostro2018"	"Buenrostro_2018"	30
+"CLP"	0.0769230769230769	"ArchR_peaks"	"Buenrostro2018"	"Buenrostro_2018"	50
+"CMP"	0.92	"ArchR_peaks"	"Buenrostro2018"	"Buenrostro_2018"	50
+"GMP"	0.511627906976744	"ArchR_peaks"	"Buenrostro2018"	"Buenrostro_2018"	50
+"HSC"	0.795389048991354	"ArchR_peaks"	"Buenrostro2018"	"Buenrostro_2018"	50
+"LMPP"	0.38125	"ArchR_peaks"	"Buenrostro2018"	"Buenrostro_2018"	50
+"MEP"	0.211678832116788	"ArchR_peaks"	"Buenrostro2018"	"Buenrostro_2018"	50
+"MPP"	0.028169014084507	"ArchR_peaks"	"Buenrostro2018"	"Buenrostro_2018"	50
+"mono"	0.109375	"ArchR_peaks"	"Buenrostro2018"	"Buenrostro_2018"	50
+"pDC"	0.205882352941176	"ArchR_peaks"	"Buenrostro2018"	"Buenrostro_2018"	50
+"CLP"	0.0769230769230769	"ArchR_peaks"	"Buenrostro2018"	"Buenrostro_2018"	100
+"CMP"	0.98	"ArchR_peaks"	"Buenrostro2018"	"Buenrostro_2018"	100
+"GMP"	0.958139534883721	"ArchR_peaks"	"Buenrostro2018"	"Buenrostro_2018"	100
+"HSC"	0.994236311239193	"ArchR_peaks"	"Buenrostro2018"	"Buenrostro_2018"	100
+"LMPP"	0.95625	"ArchR_peaks"	"Buenrostro2018"	"Buenrostro_2018"	100
+"MEP"	0.182481751824818	"ArchR_peaks"	"Buenrostro2018"	"Buenrostro_2018"	100
+"MPP"	0.00704225352112676	"ArchR_peaks"	"Buenrostro2018"	"Buenrostro_2018"	100
+"mono"	0.234375	"ArchR_peaks"	"Buenrostro2018"	"Buenrostro_2018"	100
+"pDC"	0.220588235294118	"ArchR_peaks"	"Buenrostro2018"	"Buenrostro_2018"	100
+"CLP"	0.0897435897435897	"ArchR_tiles"	"Buenrostro2018"	"Buenrostro_2018"	30
+"CMP"	0.682	"ArchR_tiles"	"Buenrostro2018"	"Buenrostro_2018"	30
+"GMP"	0.241860465116279	"ArchR_tiles"	"Buenrostro2018"	"Buenrostro_2018"	30
+"HSC"	0.61671469740634	"ArchR_tiles"	"Buenrostro2018"	"Buenrostro_2018"	30
+"LMPP"	0.2625	"ArchR_tiles"	"Buenrostro2018"	"Buenrostro_2018"	30
+"MEP"	0.153284671532847	"ArchR_tiles"	"Buenrostro2018"	"Buenrostro_2018"	30
+"MPP"	0.0915492957746479	"ArchR_tiles"	"Buenrostro2018"	"Buenrostro_2018"	30
+"mono"	0.09375	"ArchR_tiles"	"Buenrostro2018"	"Buenrostro_2018"	30
+"pDC"	0.117647058823529	"ArchR_tiles"	"Buenrostro2018"	"Buenrostro_2018"	30
+"CLP"	0.115384615384615	"ArchR_tiles"	"Buenrostro2018"	"Buenrostro_2018"	50
+"CMP"	0.87	"ArchR_tiles"	"Buenrostro2018"	"Buenrostro_2018"	50
+"GMP"	0.558139534883721	"ArchR_tiles"	"Buenrostro2018"	"Buenrostro_2018"	50
+"HSC"	0.780979827089337	"ArchR_tiles"	"Buenrostro2018"	"Buenrostro_2018"	50
+"LMPP"	0.5125	"ArchR_tiles"	"Buenrostro2018"	"Buenrostro_2018"	50
+"MEP"	0.131386861313869	"ArchR_tiles"	"Buenrostro2018"	"Buenrostro_2018"	50
+"MPP"	0.0422535211267606	"ArchR_tiles"	"Buenrostro2018"	"Buenrostro_2018"	50
+"mono"	0.109375	"ArchR_tiles"	"Buenrostro2018"	"Buenrostro_2018"	50
+"pDC"	0.132352941176471	"ArchR_tiles"	"Buenrostro2018"	"Buenrostro_2018"	50
+"CLP"	0.461538461538462	"ArchR_tiles"	"Buenrostro2018"	"Buenrostro_2018"	100
+"CMP"	0.978	"ArchR_tiles"	"Buenrostro2018"	"Buenrostro_2018"	100
+"GMP"	0.948837209302326	"ArchR_tiles"	"Buenrostro2018"	"Buenrostro_2018"	100
+"HSC"	0.99135446685879	"ArchR_tiles"	"Buenrostro2018"	"Buenrostro_2018"	100
+"LMPP"	0.83125	"ArchR_tiles"	"Buenrostro2018"	"Buenrostro_2018"	100
+"MEP"	0.182481751824818	"ArchR_tiles"	"Buenrostro2018"	"Buenrostro_2018"	100
+"MPP"	0.00704225352112676	"ArchR_tiles"	"Buenrostro2018"	"Buenrostro_2018"	100
+"mono"	0.40625	"ArchR_tiles"	"Buenrostro2018"	"Buenrostro_2018"	100
+"pDC"	0.25	"ArchR_tiles"	"Buenrostro2018"	"Buenrostro_2018"	100
+"CLP"	0.179487179487179	"SnapATAC1"	"Buenrostro2018"	"Buenrostro_2018"	30
+"CMP"	1	"SnapATAC1"	"Buenrostro2018"	"Buenrostro_2018"	30
+"GMP"	0.0462962962962963	"SnapATAC1"	"Buenrostro2018"	"Buenrostro_2018"	30
+"HSC"	0.069164265129683	"SnapATAC1"	"Buenrostro2018"	"Buenrostro_2018"	30
+"LMPP"	0.375	"SnapATAC1"	"Buenrostro2018"	"Buenrostro_2018"	30
+"MEP"	0.0217391304347826	"SnapATAC1"	"Buenrostro2018"	"Buenrostro_2018"	30
+"MPP"	0.908450704225352	"SnapATAC1"	"Buenrostro2018"	"Buenrostro_2018"	30
+"mono"	0	"SnapATAC1"	"Buenrostro2018"	"Buenrostro_2018"	30
+"pDC"	0	"SnapATAC1"	"Buenrostro2018"	"Buenrostro_2018"	30
+"CLP"	0.294871794871795	"SnapATAC1"	"Buenrostro2018"	"Buenrostro_2018"	50
+"CMP"	1	"SnapATAC1"	"Buenrostro2018"	"Buenrostro_2018"	50
+"GMP"	0.0462962962962963	"SnapATAC1"	"Buenrostro2018"	"Buenrostro_2018"	50
+"HSC"	0.61671469740634	"SnapATAC1"	"Buenrostro2018"	"Buenrostro_2018"	50
+"LMPP"	0.6875	"SnapATAC1"	"Buenrostro2018"	"Buenrostro_2018"	50
+"MEP"	0.0797101449275362	"SnapATAC1"	"Buenrostro2018"	"Buenrostro_2018"	50
+"MPP"	1	"SnapATAC1"	"Buenrostro2018"	"Buenrostro_2018"	50
+"mono"	0	"SnapATAC1"	"Buenrostro2018"	"Buenrostro_2018"	50
+"pDC"	0	"SnapATAC1"	"Buenrostro2018"	"Buenrostro_2018"	50
+"CLP"	1	"SnapATAC1"	"Buenrostro2018"	"Buenrostro_2018"	100
+"CMP"	1	"SnapATAC1"	"Buenrostro2018"	"Buenrostro_2018"	100
+"GMP"	0.152777777777778	"SnapATAC1"	"Buenrostro2018"	"Buenrostro_2018"	100
+"HSC"	1	"SnapATAC1"	"Buenrostro2018"	"Buenrostro_2018"	100
+"LMPP"	0.98125	"SnapATAC1"	"Buenrostro2018"	"Buenrostro_2018"	100
+"MEP"	0.463768115942029	"SnapATAC1"	"Buenrostro2018"	"Buenrostro_2018"	100
+"MPP"	1	"SnapATAC1"	"Buenrostro2018"	"Buenrostro_2018"	100
+"mono"	0	"SnapATAC1"	"Buenrostro2018"	"Buenrostro_2018"	100
+"pDC"	0	"SnapATAC1"	"Buenrostro2018"	"Buenrostro_2018"	100
+"CLP"	0.0256410256410256	"aggregation"	"Buenrostro2018"	"Buenrostro_2018"	30
+"CMP"	0.930278884462151	"aggregation"	"Buenrostro2018"	"Buenrostro_2018"	30
+"GMP"	0.208333333333333	"aggregation"	"Buenrostro2018"	"Buenrostro_2018"	30
+"HSC"	0.0864553314121038	"aggregation"	"Buenrostro2018"	"Buenrostro_2018"	30
+"LMPP"	0.0375	"aggregation"	"Buenrostro2018"	"Buenrostro_2018"	30
+"MEP"	0.0072463768115942	"aggregation"	"Buenrostro2018"	"Buenrostro_2018"	30
+"MPP"	0.767605633802817	"aggregation"	"Buenrostro2018"	"Buenrostro_2018"	30
+"mono"	0	"aggregation"	"Buenrostro2018"	"Buenrostro_2018"	30
+"pDC"	0	"aggregation"	"Buenrostro2018"	"Buenrostro_2018"	30
+"CLP"	0.0384615384615385	"aggregation"	"Buenrostro2018"	"Buenrostro_2018"	50
+"CMP"	0.9800796812749	"aggregation"	"Buenrostro2018"	"Buenrostro_2018"	50
+"GMP"	0.194444444444444	"aggregation"	"Buenrostro2018"	"Buenrostro_2018"	50
+"HSC"	0.069164265129683	"aggregation"	"Buenrostro2018"	"Buenrostro_2018"	50
+"LMPP"	0.06875	"aggregation"	"Buenrostro2018"	"Buenrostro_2018"	50
+"MEP"	0	"aggregation"	"Buenrostro2018"	"Buenrostro_2018"	50
+"MPP"	0.845070422535211	"aggregation"	"Buenrostro2018"	"Buenrostro_2018"	50
+"mono"	0	"aggregation"	"Buenrostro2018"	"Buenrostro_2018"	50
+"pDC"	0	"aggregation"	"Buenrostro2018"	"Buenrostro_2018"	50
+"CLP"	0.0897435897435897	"aggregation"	"Buenrostro2018"	"Buenrostro_2018"	100
+"CMP"	0.98804780876494	"aggregation"	"Buenrostro2018"	"Buenrostro_2018"	100
+"GMP"	0.194444444444444	"aggregation"	"Buenrostro2018"	"Buenrostro_2018"	100
+"HSC"	0.0461095100864553	"aggregation"	"Buenrostro2018"	"Buenrostro_2018"	100
+"LMPP"	0.05625	"aggregation"	"Buenrostro2018"	"Buenrostro_2018"	100
+"MEP"	0.0072463768115942	"aggregation"	"Buenrostro2018"	"Buenrostro_2018"	100
+"MPP"	0.845070422535211	"aggregation"	"Buenrostro2018"	"Buenrostro_2018"	100
+"mono"	0	"aggregation"	"Buenrostro2018"	"Buenrostro_2018"	100
+"pDC"	0	"aggregation"	"Buenrostro2018"	"Buenrostro_2018"	100
+"CLP"	0.217948717948718	"SnapATAC2_jaccard"	"Buenrostro2018"	"Buenrostro_2018"	30
+"CMP"	1	"SnapATAC2_jaccard"	"Buenrostro2018"	"Buenrostro_2018"	30
+"GMP"	0.12037037037037	"SnapATAC2_jaccard"	"Buenrostro2018"	"Buenrostro_2018"	30
+"HSC"	0.0288184438040346	"SnapATAC2_jaccard"	"Buenrostro2018"	"Buenrostro_2018"	30
+"LMPP"	0.09375	"SnapATAC2_jaccard"	"Buenrostro2018"	"Buenrostro_2018"	30
+"MEP"	0.0217391304347826	"SnapATAC2_jaccard"	"Buenrostro2018"	"Buenrostro_2018"	30
+"MPP"	0.936619718309859	"SnapATAC2_jaccard"	"Buenrostro2018"	"Buenrostro_2018"	30
+"mono"	0	"SnapATAC2_jaccard"	"Buenrostro2018"	"Buenrostro_2018"	30
+"pDC"	0	"SnapATAC2_jaccard"	"Buenrostro2018"	"Buenrostro_2018"	30
+"CLP"	0.666666666666667	"SnapATAC2_jaccard"	"Buenrostro2018"	"Buenrostro_2018"	50
+"CMP"	1	"SnapATAC2_jaccard"	"Buenrostro2018"	"Buenrostro_2018"	50
+"GMP"	0.0833333333333333	"SnapATAC2_jaccard"	"Buenrostro2018"	"Buenrostro_2018"	50
+"HSC"	0.23342939481268	"SnapATAC2_jaccard"	"Buenrostro2018"	"Buenrostro_2018"	50
+"LMPP"	0.16875	"SnapATAC2_jaccard"	"Buenrostro2018"	"Buenrostro_2018"	50
+"MEP"	0.0434782608695652	"SnapATAC2_jaccard"	"Buenrostro2018"	"Buenrostro_2018"	50
+"MPP"	1	"SnapATAC2_jaccard"	"Buenrostro2018"	"Buenrostro_2018"	50
+"mono"	0	"SnapATAC2_jaccard"	"Buenrostro2018"	"Buenrostro_2018"	50
+"pDC"	0	"SnapATAC2_jaccard"	"Buenrostro2018"	"Buenrostro_2018"	50
+"CLP"	1	"SnapATAC2_jaccard"	"Buenrostro2018"	"Buenrostro_2018"	100
+"CMP"	1	"SnapATAC2_jaccard"	"Buenrostro2018"	"Buenrostro_2018"	100
+"GMP"	0.0509259259259259	"SnapATAC2_jaccard"	"Buenrostro2018"	"Buenrostro_2018"	100
+"HSC"	1	"SnapATAC2_jaccard"	"Buenrostro2018"	"Buenrostro_2018"	100
+"LMPP"	0.65	"SnapATAC2_jaccard"	"Buenrostro2018"	"Buenrostro_2018"	100
+"MEP"	0.108695652173913	"SnapATAC2_jaccard"	"Buenrostro2018"	"Buenrostro_2018"	100
+"MPP"	1	"SnapATAC2_jaccard"	"Buenrostro2018"	"Buenrostro_2018"	100
+"mono"	0.015625	"SnapATAC2_jaccard"	"Buenrostro2018"	"Buenrostro_2018"	100
+"pDC"	0	"SnapATAC2_jaccard"	"Buenrostro2018"	"Buenrostro_2018"	100
+"CLP"	0.102564102564103	"SnapATAC2_cosine"	"Buenrostro2018"	"Buenrostro_2018"	30
+"CMP"	1	"SnapATAC2_cosine"	"Buenrostro2018"	"Buenrostro_2018"	30
+"GMP"	0.0648148148148148	"SnapATAC2_cosine"	"Buenrostro2018"	"Buenrostro_2018"	30
+"HSC"	0.0201729106628242	"SnapATAC2_cosine"	"Buenrostro2018"	"Buenrostro_2018"	30
+"LMPP"	0.28125	"SnapATAC2_cosine"	"Buenrostro2018"	"Buenrostro_2018"	30
+"MEP"	0.528985507246377	"SnapATAC2_cosine"	"Buenrostro2018"	"Buenrostro_2018"	30
+"MPP"	0.76056338028169	"SnapATAC2_cosine"	"Buenrostro2018"	"Buenrostro_2018"	30
+"mono"	0	"SnapATAC2_cosine"	"Buenrostro2018"	"Buenrostro_2018"	30
+"pDC"	0	"SnapATAC2_cosine"	"Buenrostro2018"	"Buenrostro_2018"	30
+"CLP"	0.217948717948718	"SnapATAC2_cosine"	"Buenrostro2018"	"Buenrostro_2018"	50
+"CMP"	1	"SnapATAC2_cosine"	"Buenrostro2018"	"Buenrostro_2018"	50
+"GMP"	0.0231481481481481	"SnapATAC2_cosine"	"Buenrostro2018"	"Buenrostro_2018"	50
+"HSC"	0.0172910662824208	"SnapATAC2_cosine"	"Buenrostro2018"	"Buenrostro_2018"	50
+"LMPP"	0.5875	"SnapATAC2_cosine"	"Buenrostro2018"	"Buenrostro_2018"	50
+"MEP"	0.971014492753623	"SnapATAC2_cosine"	"Buenrostro2018"	"Buenrostro_2018"	50
+"MPP"	0.929577464788732	"SnapATAC2_cosine"	"Buenrostro2018"	"Buenrostro_2018"	50
+"mono"	0	"SnapATAC2_cosine"	"Buenrostro2018"	"Buenrostro_2018"	50
+"pDC"	0	"SnapATAC2_cosine"	"Buenrostro2018"	"Buenrostro_2018"	50
+"CLP"	0.897435897435897	"SnapATAC2_cosine"	"Buenrostro2018"	"Buenrostro_2018"	100
+"CMP"	1	"SnapATAC2_cosine"	"Buenrostro2018"	"Buenrostro_2018"	100
+"GMP"	0.00925925925925926	"SnapATAC2_cosine"	"Buenrostro2018"	"Buenrostro_2018"	100
+"HSC"	0.884726224783862	"SnapATAC2_cosine"	"Buenrostro2018"	"Buenrostro_2018"	100
+"LMPP"	0.95	"SnapATAC2_cosine"	"Buenrostro2018"	"Buenrostro_2018"	100
+"MEP"	1	"SnapATAC2_cosine"	"Buenrostro2018"	"Buenrostro_2018"	100
+"MPP"	1	"SnapATAC2_cosine"	"Buenrostro2018"	"Buenrostro_2018"	100
+"mono"	0	"SnapATAC2_cosine"	"Buenrostro2018"	"Buenrostro_2018"	100
+"pDC"	0.0735294117647059	"SnapATAC2_cosine"	"Buenrostro2018"	"Buenrostro_2018"	100
+"Astro"	0.986666666666667	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	30
+"L2/3 IT"	0.901730103806228	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	30
+"L4_1"	0.457034938621341	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	30
+"L4_2"	0.805755395683453	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	30
+"L5 PT"	1	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	30
+"L5/6 IT"	0.994244604316547	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	30
+"L6 CT"	0.721141374837873	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	30
+"L6 IT"	1	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	30
+"NP"	0	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	30
+"Oligo"	1	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	30
+"Pvalb"	0.73394495412844	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	30
+"Sst"	0.91578947368421	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	30
+"Vip/Lamp5"	0.55	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	30
+"Astro"	0.986666666666667	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	50
+"L2/3 IT"	1	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	50
+"L4_1"	0.813975448536355	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	50
+"L4_2"	0.992805755395683	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	50
+"L5 PT"	1	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	50
+"L5/6 IT"	1	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	50
+"L6 CT"	0.88715953307393	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	50
+"L6 IT"	1	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	50
+"NP"	0	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	50
+"Oligo"	1	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	50
+"Pvalb"	0.779816513761468	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	50
+"Sst"	0.978947368421053	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	50
+"Vip/Lamp5"	0.5625	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	50
+"Astro"	0.986666666666667	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	100
+"L2/3 IT"	1	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	100
+"L4_1"	1	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	100
+"L4_2"	1	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	100
+"L5 PT"	1	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	100
+"L5/6 IT"	1	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	100
+"L6 CT"	0.994811932555123	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	100
+"L6 IT"	1	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	100
+"NP"	0	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	100
+"Oligo"	1	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	100
+"Pvalb"	0.853211009174312	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	100
+"Sst"	0.968421052631579	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	100
+"Vip/Lamp5"	0.6125	"Signac_by_cluster_peaks"	"Chen2019"	"Chen_2019"	100
+"Astro"	0.893333333333333	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	30
+"L2/3 IT"	0.903806228373702	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	30
+"L4_1"	0.401322001888574	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	30
+"L4_2"	0.829736211031175	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	30
+"L5 PT"	1	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	30
+"L5/6 IT"	0.99568345323741	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	30
+"L6 CT"	0.730220492866407	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	30
+"L6 IT"	1	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	30
+"NP"	0	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	30
+"Oligo"	1	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	30
+"Pvalb"	0.73394495412844	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	30
+"Sst"	0.957894736842105	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	30
+"Vip/Lamp5"	0.525	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	30
+"Astro"	0.986666666666667	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	50
+"L2/3 IT"	0.998615916955017	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	50
+"L4_1"	0.77148253068933	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	50
+"L4_2"	0.985611510791367	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	50
+"L5 PT"	1	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	50
+"L5/6 IT"	1	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	50
+"L6 CT"	0.8715953307393	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	50
+"L6 IT"	0.985294117647059	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	50
+"NP"	0	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	50
+"Oligo"	1	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	50
+"Pvalb"	0.770642201834862	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	50
+"Sst"	0.957894736842105	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	50
+"Vip/Lamp5"	0.6	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	50
+"Astro"	0.986666666666667	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	100
+"L2/3 IT"	1	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	100
+"L4_1"	0.998111425873466	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	100
+"L4_2"	1	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	100
+"L5 PT"	1	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	100
+"L5/6 IT"	1	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	100
+"L6 CT"	0.990920881971466	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	100
+"L6 IT"	1	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	100
+"NP"	0	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	100
+"Oligo"	1	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	100
+"Pvalb"	0.844036697247706	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	100
+"Sst"	0.936842105263158	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	100
+"Vip/Lamp5"	0.6375	"Signac_all_cell_peaks"	"Chen2019"	"Chen_2019"	100
+"Astro"	0.386666666666667	"ArchR_tiles"	"Chen2019"	"Chen_2019"	30
+"L2/3 IT"	0.983391003460208	"ArchR_tiles"	"Chen2019"	"Chen_2019"	30
+"L4_1"	0.599622285174693	"ArchR_tiles"	"Chen2019"	"Chen_2019"	30
+"L4_2"	0.952038369304556	"ArchR_tiles"	"Chen2019"	"Chen_2019"	30
+"L5 PT"	0.853146853146853	"ArchR_tiles"	"Chen2019"	"Chen_2019"	30
+"L5/6 IT"	1	"ArchR_tiles"	"Chen2019"	"Chen_2019"	30
+"L6 CT"	0.823605706874189	"ArchR_tiles"	"Chen2019"	"Chen_2019"	30
+"L6 IT"	0.617647058823529	"ArchR_tiles"	"Chen2019"	"Chen_2019"	30
+"NP"	0	"ArchR_tiles"	"Chen2019"	"Chen_2019"	30
+"Oligo"	1	"ArchR_tiles"	"Chen2019"	"Chen_2019"	30
+"Pvalb"	0.853211009174312	"ArchR_tiles"	"Chen2019"	"Chen_2019"	30
+"Sst"	0.389473684210526	"ArchR_tiles"	"Chen2019"	"Chen_2019"	30
+"Vip/Lamp5"	0.9625	"ArchR_tiles"	"Chen2019"	"Chen_2019"	30
+"Astro"	0.6	"ArchR_tiles"	"Chen2019"	"Chen_2019"	50
+"L2/3 IT"	1	"ArchR_tiles"	"Chen2019"	"Chen_2019"	50
+"L4_1"	0.912181303116147	"ArchR_tiles"	"Chen2019"	"Chen_2019"	50
+"L4_2"	1	"ArchR_tiles"	"Chen2019"	"Chen_2019"	50
+"L5 PT"	0.982517482517482	"ArchR_tiles"	"Chen2019"	"Chen_2019"	50
+"L5/6 IT"	1	"ArchR_tiles"	"Chen2019"	"Chen_2019"	50
+"L6 CT"	0.966277561608301	"ArchR_tiles"	"Chen2019"	"Chen_2019"	50
+"L6 IT"	0.794117647058823	"ArchR_tiles"	"Chen2019"	"Chen_2019"	50
+"NP"	0	"ArchR_tiles"	"Chen2019"	"Chen_2019"	50
+"Oligo"	1	"ArchR_tiles"	"Chen2019"	"Chen_2019"	50
+"Pvalb"	0.926605504587156	"ArchR_tiles"	"Chen2019"	"Chen_2019"	50
+"Sst"	0.621052631578947	"ArchR_tiles"	"Chen2019"	"Chen_2019"	50
+"Vip/Lamp5"	1	"ArchR_tiles"	"Chen2019"	"Chen_2019"	50
+"Astro"	0.653333333333333	"ArchR_tiles"	"Chen2019"	"Chen_2019"	100
+"L2/3 IT"	1	"ArchR_tiles"	"Chen2019"	"Chen_2019"	100
+"L4_1"	1	"ArchR_tiles"	"Chen2019"	"Chen_2019"	100
+"L4_2"	1	"ArchR_tiles"	"Chen2019"	"Chen_2019"	100
+"L5 PT"	1	"ArchR_tiles"	"Chen2019"	"Chen_2019"	100
+"L5/6 IT"	1	"ArchR_tiles"	"Chen2019"	"Chen_2019"	100
+"L6 CT"	1	"ArchR_tiles"	"Chen2019"	"Chen_2019"	100
+"L6 IT"	0.955882352941177	"ArchR_tiles"	"Chen2019"	"Chen_2019"	100
+"NP"	0	"ArchR_tiles"	"Chen2019"	"Chen_2019"	100
+"Oligo"	1	"ArchR_tiles"	"Chen2019"	"Chen_2019"	100
+"Pvalb"	1	"ArchR_tiles"	"Chen2019"	"Chen_2019"	100
+"Sst"	0.852631578947368	"ArchR_tiles"	"Chen2019"	"Chen_2019"	100
+"Vip/Lamp5"	1	"ArchR_tiles"	"Chen2019"	"Chen_2019"	100
+"Astro"	0.453333333333333	"ArchR_peaks"	"Chen2019"	"Chen_2019"	30
+"L2/3 IT"	0.969550173010381	"ArchR_peaks"	"Chen2019"	"Chen_2019"	30
+"L4_1"	0.563739376770538	"ArchR_peaks"	"Chen2019"	"Chen_2019"	30
+"L4_2"	0.916067146282974	"ArchR_peaks"	"Chen2019"	"Chen_2019"	30
+"L5 PT"	0.797202797202797	"ArchR_peaks"	"Chen2019"	"Chen_2019"	30
+"L5/6 IT"	0.98705035971223	"ArchR_peaks"	"Chen2019"	"Chen_2019"	30
+"L6 CT"	0.804150453955901	"ArchR_peaks"	"Chen2019"	"Chen_2019"	30
+"L6 IT"	0.632352941176471	"ArchR_peaks"	"Chen2019"	"Chen_2019"	30
+"NP"	0	"ArchR_peaks"	"Chen2019"	"Chen_2019"	30
+"Oligo"	1	"ArchR_peaks"	"Chen2019"	"Chen_2019"	30
+"Pvalb"	0.73394495412844	"ArchR_peaks"	"Chen2019"	"Chen_2019"	30
+"Sst"	0.978947368421053	"ArchR_peaks"	"Chen2019"	"Chen_2019"	30
+"Vip/Lamp5"	0.85	"ArchR_peaks"	"Chen2019"	"Chen_2019"	30
+"Astro"	0.466666666666667	"ArchR_peaks"	"Chen2019"	"Chen_2019"	50
+"L2/3 IT"	1	"ArchR_peaks"	"Chen2019"	"Chen_2019"	50
+"L4_1"	0.957507082152975	"ArchR_peaks"	"Chen2019"	"Chen_2019"	50
+"L4_2"	1	"ArchR_peaks"	"Chen2019"	"Chen_2019"	50
+"L5 PT"	0.996503496503496	"ArchR_peaks"	"Chen2019"	"Chen_2019"	50
+"L5/6 IT"	1	"ArchR_peaks"	"Chen2019"	"Chen_2019"	50
+"L6 CT"	0.987029831387808	"ArchR_peaks"	"Chen2019"	"Chen_2019"	50
+"L6 IT"	0.852941176470588	"ArchR_peaks"	"Chen2019"	"Chen_2019"	50
+"NP"	0.0303030303030303	"ArchR_peaks"	"Chen2019"	"Chen_2019"	50
+"Oligo"	1	"ArchR_peaks"	"Chen2019"	"Chen_2019"	50
+"Pvalb"	0.834862385321101	"ArchR_peaks"	"Chen2019"	"Chen_2019"	50
+"Sst"	0.884210526315789	"ArchR_peaks"	"Chen2019"	"Chen_2019"	50
+"Vip/Lamp5"	0.775	"ArchR_peaks"	"Chen2019"	"Chen_2019"	50
+"Astro"	0.666666666666667	"ArchR_peaks"	"Chen2019"	"Chen_2019"	100
+"L2/3 IT"	1	"ArchR_peaks"	"Chen2019"	"Chen_2019"	100
+"L4_1"	1	"ArchR_peaks"	"Chen2019"	"Chen_2019"	100
+"L4_2"	1	"ArchR_peaks"	"Chen2019"	"Chen_2019"	100
+"L5 PT"	1	"ArchR_peaks"	"Chen2019"	"Chen_2019"	100
+"L5/6 IT"	1	"ArchR_peaks"	"Chen2019"	"Chen_2019"	100
+"L6 CT"	1	"ArchR_peaks"	"Chen2019"	"Chen_2019"	100
+"L6 IT"	1	"ArchR_peaks"	"Chen2019"	"Chen_2019"	100
+"NP"	0	"ArchR_peaks"	"Chen2019"	"Chen_2019"	100
+"Oligo"	1	"ArchR_peaks"	"Chen2019"	"Chen_2019"	100
+"Pvalb"	0.935779816513762	"ArchR_peaks"	"Chen2019"	"Chen_2019"	100
+"Sst"	0.978947368421053	"ArchR_peaks"	"Chen2019"	"Chen_2019"	100
+"Vip/Lamp5"	0.9625	"ArchR_peaks"	"Chen2019"	"Chen_2019"	100
+"Astro"	0.266666666666667	"SnapATAC1"	"Chen2019"	"Chen_2019"	30
+"L2/3 IT"	0.6	"SnapATAC1"	"Chen2019"	"Chen_2019"	30
+"L4_1"	1	"SnapATAC1"	"Chen2019"	"Chen_2019"	30
+"L4_2"	0.0407673860911271	"SnapATAC1"	"Chen2019"	"Chen_2019"	30
+"L5 PT"	0	"SnapATAC1"	"Chen2019"	"Chen_2019"	30
+"L5/6 IT"	0.359712230215827	"SnapATAC1"	"Chen2019"	"Chen_2019"	30
+"L6 CT"	0.465629053177691	"SnapATAC1"	"Chen2019"	"Chen_2019"	30
+"L6 IT"	0.176470588235294	"SnapATAC1"	"Chen2019"	"Chen_2019"	30
+"NP"	0.96969696969697	"SnapATAC1"	"Chen2019"	"Chen_2019"	30
+"Oligo"	0.727272727272727	"SnapATAC1"	"Chen2019"	"Chen_2019"	30
+"Pvalb"	0.0275229357798165	"SnapATAC1"	"Chen2019"	"Chen_2019"	30
+"Sst"	0.831578947368421	"SnapATAC1"	"Chen2019"	"Chen_2019"	30
+"Vip/Lamp5"	0.5875	"SnapATAC1"	"Chen2019"	"Chen_2019"	30
+"Astro"	0.306666666666667	"SnapATAC1"	"Chen2019"	"Chen_2019"	50
+"L2/3 IT"	0.975086505190311	"SnapATAC1"	"Chen2019"	"Chen_2019"	50
+"L4_1"	1	"SnapATAC1"	"Chen2019"	"Chen_2019"	50
+"L4_2"	0.182254196642686	"SnapATAC1"	"Chen2019"	"Chen_2019"	50
+"L5 PT"	0	"SnapATAC1"	"Chen2019"	"Chen_2019"	50
+"L5/6 IT"	0.558273381294964	"SnapATAC1"	"Chen2019"	"Chen_2019"	50
+"L6 CT"	0.954604409857328	"SnapATAC1"	"Chen2019"	"Chen_2019"	50
+"L6 IT"	0.426470588235294	"SnapATAC1"	"Chen2019"	"Chen_2019"	50
+"NP"	0.96969696969697	"SnapATAC1"	"Chen2019"	"Chen_2019"	50
+"Oligo"	0.772727272727273	"SnapATAC1"	"Chen2019"	"Chen_2019"	50
+"Pvalb"	0.055045871559633	"SnapATAC1"	"Chen2019"	"Chen_2019"	50
+"Sst"	0.884210526315789	"SnapATAC1"	"Chen2019"	"Chen_2019"	50
+"Vip/Lamp5"	0.8	"SnapATAC1"	"Chen2019"	"Chen_2019"	50
+"Astro"	0.893333333333333	"SnapATAC1"	"Chen2019"	"Chen_2019"	100
+"L2/3 IT"	1	"SnapATAC1"	"Chen2019"	"Chen_2019"	100
+"L4_1"	1	"SnapATAC1"	"Chen2019"	"Chen_2019"	100
+"L4_2"	0.959232613908873	"SnapATAC1"	"Chen2019"	"Chen_2019"	100
+"L5 PT"	0	"SnapATAC1"	"Chen2019"	"Chen_2019"	100
+"L5/6 IT"	0.998561151079137	"SnapATAC1"	"Chen2019"	"Chen_2019"	100
+"L6 CT"	1	"SnapATAC1"	"Chen2019"	"Chen_2019"	100
+"L6 IT"	0.941176470588235	"SnapATAC1"	"Chen2019"	"Chen_2019"	100
+"NP"	1	"SnapATAC1"	"Chen2019"	"Chen_2019"	100
+"Oligo"	0.96969696969697	"SnapATAC1"	"Chen2019"	"Chen_2019"	100
+"Pvalb"	0.73394495412844	"SnapATAC1"	"Chen2019"	"Chen_2019"	100
+"Sst"	1	"SnapATAC1"	"Chen2019"	"Chen_2019"	100
+"Vip/Lamp5"	1	"SnapATAC1"	"Chen2019"	"Chen_2019"	100
+"Astro"	0.4	"aggregation"	"Chen2019"	"Chen_2019"	30
+"L2/3 IT"	0.256747404844291	"aggregation"	"Chen2019"	"Chen_2019"	30
+"L4_1"	0.0887629839471199	"aggregation"	"Chen2019"	"Chen_2019"	30
+"L4_2"	0.254196642685851	"aggregation"	"Chen2019"	"Chen_2019"	30
+"L5 PT"	0.160839160839161	"aggregation"	"Chen2019"	"Chen_2019"	30
+"L5/6 IT"	0.535251798561151	"aggregation"	"Chen2019"	"Chen_2019"	30
+"L6 CT"	0.124513618677043	"aggregation"	"Chen2019"	"Chen_2019"	30
+"L6 IT"	0.147058823529412	"aggregation"	"Chen2019"	"Chen_2019"	30
+"NP"	0.0303030303030303	"aggregation"	"Chen2019"	"Chen_2019"	30
+"Oligo"	1	"aggregation"	"Chen2019"	"Chen_2019"	30
+"Pvalb"	0.376146788990826	"aggregation"	"Chen2019"	"Chen_2019"	30
+"Sst"	0.631578947368421	"aggregation"	"Chen2019"	"Chen_2019"	30
+"Vip/Lamp5"	0.75	"aggregation"	"Chen2019"	"Chen_2019"	30
+"Astro"	0.346666666666667	"aggregation"	"Chen2019"	"Chen_2019"	50
+"L2/3 IT"	0.247750865051903	"aggregation"	"Chen2019"	"Chen_2019"	50
+"L4_1"	0.084985835694051	"aggregation"	"Chen2019"	"Chen_2019"	50
+"L4_2"	0.258992805755396	"aggregation"	"Chen2019"	"Chen_2019"	50
+"L5 PT"	0.171328671328671	"aggregation"	"Chen2019"	"Chen_2019"	50
+"L5/6 IT"	0.529496402877698	"aggregation"	"Chen2019"	"Chen_2019"	50
+"L6 CT"	0.111543450064851	"aggregation"	"Chen2019"	"Chen_2019"	50
+"L6 IT"	0.191176470588235	"aggregation"	"Chen2019"	"Chen_2019"	50
+"NP"	0.0303030303030303	"aggregation"	"Chen2019"	"Chen_2019"	50
+"Oligo"	1	"aggregation"	"Chen2019"	"Chen_2019"	50
+"Pvalb"	0.36697247706422	"aggregation"	"Chen2019"	"Chen_2019"	50
+"Sst"	0.610526315789474	"aggregation"	"Chen2019"	"Chen_2019"	50
+"Vip/Lamp5"	0.875	"aggregation"	"Chen2019"	"Chen_2019"	50
+"Astro"	0.306666666666667	"aggregation"	"Chen2019"	"Chen_2019"	100
+"L2/3 IT"	0.233910034602076	"aggregation"	"Chen2019"	"Chen_2019"	100
+"L4_1"	0.072710103871577	"aggregation"	"Chen2019"	"Chen_2019"	100
+"L4_2"	0.251798561151079	"aggregation"	"Chen2019"	"Chen_2019"	100
+"L5 PT"	0.297202797202797	"aggregation"	"Chen2019"	"Chen_2019"	100
+"L5/6 IT"	0.392805755395683	"aggregation"	"Chen2019"	"Chen_2019"	100
+"L6 CT"	0.102464332036316	"aggregation"	"Chen2019"	"Chen_2019"	100
+"L6 IT"	0.352941176470588	"aggregation"	"Chen2019"	"Chen_2019"	100
+"NP"	0.0303030303030303	"aggregation"	"Chen2019"	"Chen_2019"	100
+"Oligo"	1	"aggregation"	"Chen2019"	"Chen_2019"	100
+"Pvalb"	0.0917431192660551	"aggregation"	"Chen2019"	"Chen_2019"	100
+"Sst"	0.936842105263158	"aggregation"	"Chen2019"	"Chen_2019"	100
+"Vip/Lamp5"	0.8125	"aggregation"	"Chen2019"	"Chen_2019"	100
+"Astro"	0.506666666666667	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	30
+"L2/3 IT"	0.244290657439446	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	30
+"L4_1"	0.53918791312559	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	30
+"L4_2"	0.0119904076738609	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	30
+"L5 PT"	0.0734265734265734	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	30
+"L5/6 IT"	0.305035971223022	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	30
+"L6 CT"	0.337224383916991	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	30
+"L6 IT"	0.558823529411765	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	30
+"NP"	1	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	30
+"Oligo"	1	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	30
+"Pvalb"	0.275229357798165	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	30
+"Sst"	0.978947368421053	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	30
+"Vip/Lamp5"	1	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	30
+"Astro"	0.96	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	50
+"L2/3 IT"	0.450519031141869	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	50
+"L4_1"	0.867799811142587	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	50
+"L4_2"	0.00479616306954436	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	50
+"L5 PT"	0.0944055944055944	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	50
+"L5/6 IT"	0.407194244604317	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	50
+"L6 CT"	0.861219195849546	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	50
+"L6 IT"	0.941176470588235	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	50
+"NP"	1	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	50
+"Oligo"	1	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	50
+"Pvalb"	0.990825688073395	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	50
+"Sst"	1	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	50
+"Vip/Lamp5"	1	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	50
+"Astro"	1	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	100
+"L2/3 IT"	0.946712802768166	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	100
+"L4_1"	1	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	100
+"L4_2"	0	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	100
+"L5 PT"	0.136363636363636	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	100
+"L5/6 IT"	0.648920863309353	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	100
+"L6 CT"	1	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	100
+"L6 IT"	1	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	100
+"NP"	1	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	100
+"Oligo"	1	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	100
+"Pvalb"	1	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	100
+"Sst"	1	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	100
+"Vip/Lamp5"	1	"SnapATAC2_jaccard"	"Chen2019"	"Chen_2019"	100
+"Astro"	0.333333333333333	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	30
+"L2/3 IT"	0.204844290657439	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	30
+"L4_1"	0.430594900849858	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	30
+"L4_2"	0.0167865707434053	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	30
+"L5 PT"	0.048951048951049	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	30
+"L5/6 IT"	0.269064748201439	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	30
+"L6 CT"	0.169909208819715	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	30
+"L6 IT"	0.367647058823529	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	30
+"NP"	1	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	30
+"Oligo"	0.954545454545455	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	30
+"Pvalb"	0.0917431192660551	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	30
+"Sst"	0.947368421052632	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	30
+"Vip/Lamp5"	1	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	30
+"Astro"	0.68	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	50
+"L2/3 IT"	0.321799307958477	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	50
+"L4_1"	0.725212464589235	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	50
+"L4_2"	0.00479616306954436	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	50
+"L5 PT"	0.0524475524475524	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	50
+"L5/6 IT"	0.273381294964029	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	50
+"L6 CT"	0.492866407263294	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	50
+"L6 IT"	0.838235294117647	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	50
+"NP"	1	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	50
+"Oligo"	1	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	50
+"Pvalb"	0.495412844036697	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	50
+"Sst"	1	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	50
+"Vip/Lamp5"	1	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	50
+"Astro"	0.986666666666667	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	100
+"L2/3 IT"	0.756401384083045	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	100
+"L4_1"	0.998111425873466	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	100
+"L4_2"	0.00239808153477218	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	100
+"L5 PT"	0.0699300699300699	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	100
+"L5/6 IT"	0.424460431654676	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	100
+"L6 CT"	0.998702983138781	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	100
+"L6 IT"	1	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	100
+"NP"	1	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	100
+"Oligo"	1	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	100
+"Pvalb"	1	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	100
+"Sst"	1	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	100
+"Vip/Lamp5"	1	"SnapATAC2_cosine"	"Chen2019"	"Chen_2019"	100
+"B intermediate"	0.312	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"B memory"	0.173913043478261	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"B naive"	0.0751633986928105	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD14 Mono"	1	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD16 Mono"	0.338672768878719	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD4 Naive_1"	0.0726915520628684	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD4 Naive_2"	0.51219512195122	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD4 TCM"	0.467778620166793	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD8 Naive_1"	0.110204081632653	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD8 Naive_2"	0.411444141689373	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD8 TEM_1"	0.606694560669456	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD8 TEM_2"	0.131195335276968	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"NK"	0.1025	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"cDC2"	0.567164179104478	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"pDC"	0.19672131147541	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"B intermediate"	0.432	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"B memory"	0.173913043478261	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"B naive"	0.0882352941176471	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD14 Mono"	1	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD16 Mono"	1	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD4 Naive_1"	0.0726915520628684	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD4 Naive_2"	0.51219512195122	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD4 TCM"	0.479909021986353	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD8 Naive_1"	0.110204081632653	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD8 Naive_2"	0.408719346049046	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD8 TEM_1"	0.594142259414226	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD8 TEM_2"	0.134110787172012	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"NK"	0.1075	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"cDC2"	1	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"pDC"	1	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"B intermediate"	0.82	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"B memory"	0.217391304347826	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"B naive"	0.117647058823529	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD14 Mono"	1	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD16 Mono"	1	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD4 Naive_1"	0.0717092337917485	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD4 Naive_2"	0.51219512195122	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD4 TCM"	0.498104624715694	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD8 Naive_1"	0.112244897959184	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD8 Naive_2"	0.405994550408719	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD8 TEM_1"	0.594142259414226	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD8 TEM_2"	0.134110787172012	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"NK"	0.1375	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"cDC2"	1	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"pDC"	1	"Signac_by_cluster_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"B intermediate"	0.268	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"B memory"	0.16304347826087	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"B naive"	0.0751633986928105	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD14 Mono"	1	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD16 Mono"	0.389016018306636	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD4 Naive_1"	0.0717092337917485	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD4 Naive_2"	0.51219512195122	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD4 TCM"	0.473085670962851	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD8 Naive_1"	0.113265306122449	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD8 Naive_2"	0.405994550408719	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD8 TEM_1"	0.577405857740586	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD8 TEM_2"	0.128279883381924	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"NK"	0.1	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"cDC2"	0.567164179104478	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"pDC"	0.114754098360656	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"B intermediate"	0.328	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"B memory"	0.16304347826087	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"B naive"	0.0849673202614379	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD14 Mono"	1	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD16 Mono"	1	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD4 Naive_1"	0.0717092337917485	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD4 Naive_2"	0.51219512195122	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD4 TCM"	0.480667172100076	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD8 Naive_1"	0.113265306122449	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD8 Naive_2"	0.403269754768392	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD8 TEM_1"	0.573221757322176	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD8 TEM_2"	0.128279883381924	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"NK"	0.1	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"cDC2"	1	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"pDC"	0.163934426229508	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"B intermediate"	0.652	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"B memory"	0.195652173913043	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"B naive"	0.117647058823529	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD14 Mono"	1	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD16 Mono"	1	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD4 Naive_1"	0.0697445972495088	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD4 Naive_2"	0.51219512195122	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD4 TCM"	0.507202426080364	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD8 Naive_1"	0.116326530612245	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD8 Naive_2"	0.392370572207084	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD8 TEM_1"	0.569037656903766	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD8 TEM_2"	0.128279883381924	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"NK"	0.105	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"cDC2"	1	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"pDC"	0.901639344262295	"Signac_all_cell_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"B intermediate"	0.208	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"B memory"	0.130434782608696	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"B naive"	0.065359477124183	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD14 Mono"	0.0453061224489796	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD16 Mono"	0.080091533180778	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD4 Naive_1"	0.0972495088408644	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD4 Naive_2"	0.49390243902439	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD4 TCM"	0.187263078089462	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD8 Naive_1"	0.178571428571429	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD8 Naive_2"	0.465940054495913	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD8 TEM_1"	0.472803347280335	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD8 TEM_2"	0.0787172011661808	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"NK"	0.0625	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"cDC2"	0.223880597014925	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"pDC"	0.0983606557377049	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"B intermediate"	0.28	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"B memory"	0.119565217391304	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"B naive"	0.0620915032679739	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD14 Mono"	0.0485714285714286	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD16 Mono"	0.0823798627002288	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD4 Naive_1"	0.0992141453831041	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD4 Naive_2"	0.5	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD4 TCM"	0.202426080363912	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD8 Naive_1"	0.188775510204082	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD8 Naive_2"	0.449591280653951	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD8 TEM_1"	0.489539748953975	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD8 TEM_2"	0.0903790087463557	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"NK"	0.075	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"cDC2"	0.298507462686567	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"pDC"	0.0983606557377049	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"B intermediate"	0.352	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"B memory"	0.173913043478261	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"B naive"	0.0555555555555556	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD14 Mono"	0.0657142857142857	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD16 Mono"	0.0320366132723112	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD4 Naive_1"	0.0844793713163065	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD4 Naive_2"	0.542682926829268	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD4 TCM"	0.239575435936315	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD8 Naive_1"	0.243877551020408	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD8 Naive_2"	0.446866485013624	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD8 TEM_1"	0.506276150627615	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD8 TEM_2"	0.107871720116618	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"NK"	0.0875	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"cDC2"	0.365671641791045	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"pDC"	0.147540983606557	"ArchR_tiles"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"B intermediate"	0.184	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"B memory"	0.141304347826087	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"B naive"	0.0588235294117647	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD14 Mono"	0.0412244897959184	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD16 Mono"	0.0778032036613272	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD4 Naive_1"	0.0972495088408644	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD4 Naive_2"	0.48780487804878	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD4 TCM"	0.183472327520849	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD8 Naive_1"	0.168367346938776	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD8 Naive_2"	0.460490463215259	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD8 TEM_1"	0.464435146443515	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD8 TEM_2"	0.0903790087463557	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"NK"	0.07	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"cDC2"	0.216417910447761	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"pDC"	0.0983606557377049	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"B intermediate"	0.224	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"B memory"	0.108695652173913	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"B naive"	0.0555555555555556	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD14 Mono"	0.0448979591836735	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD16 Mono"	0.0778032036613272	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD4 Naive_1"	0.0952848722986248	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD4 Naive_2"	0.5	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD4 TCM"	0.197119029567854	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD8 Naive_1"	0.178571428571429	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD8 Naive_2"	0.46866485013624	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD8 TEM_1"	0.460251046025105	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD8 TEM_2"	0.0962099125364431	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"NK"	0.07	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"cDC2"	0.26865671641791	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"pDC"	0.0983606557377049	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"B intermediate"	0.332	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"B memory"	0.130434782608696	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"B naive"	0.0490196078431373	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD14 Mono"	0.0706122448979592	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD16 Mono"	0.0389016018306636	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD4 Naive_1"	0.0923379174852652	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD4 Naive_2"	0.518292682926829	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD4 TCM"	0.202426080363912	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD8 Naive_1"	0.193877551020408	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD8 Naive_2"	0.465940054495913	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD8 TEM_1"	0.497907949790795	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD8 TEM_2"	0.102040816326531	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"NK"	0.08	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"cDC2"	0.373134328358209	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"pDC"	0.163934426229508	"ArchR_peaks"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"B intermediate"	0.168	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"B memory"	0.33695652173913	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"B naive"	0.0359477124183007	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD14 Mono"	0.0722448979591837	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD16 Mono"	0.0320366132723112	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD4 Naive_1"	0.18467583497053	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD4 Naive_2"	0.463414634146341	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD4 TCM"	0.995451099317665	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD8 Naive_1"	0.0806122448979592	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD8 Naive_2"	0.471389645776567	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD8 TEM_1"	0.690376569037657	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD8 TEM_2"	0.0699708454810496	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"NK"	0.01	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"cDC2"	0.0149253731343284	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"pDC"	0	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"B intermediate"	0.056	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"B memory"	0.673913043478261	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"B naive"	0.0359477124183007	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD14 Mono"	0.0902040816326531	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD16 Mono"	0.0480549199084668	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD4 Naive_1"	1	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD4 Naive_2"	0.98780487804878	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD4 TCM"	1	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD8 Naive_1"	0.470408163265306	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD8 Naive_2"	0.871934604904632	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD8 TEM_1"	0.799163179916318	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD8 TEM_2"	0.198250728862974	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"NK"	0.015	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"cDC2"	0.0149253731343284	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"pDC"	0	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"B intermediate"	0.04	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"B memory"	0.532608695652174	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"B naive"	0.0326797385620915	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD14 Mono"	0.168163265306122	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD16 Mono"	0.0755148741418764	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD4 Naive_1"	1	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD4 Naive_2"	1	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD4 TCM"	1	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD8 Naive_1"	1	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD8 Naive_2"	1	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD8 TEM_1"	1	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD8 TEM_2"	0.997084548104956	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"NK"	0.2475	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"cDC2"	0.00746268656716418	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"pDC"	0	"SnapATAC1"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"B intermediate"	0.668	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"B memory"	0.184782608695652	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"B naive"	0.0555555555555556	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD14 Mono"	0.0163265306122449	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD16 Mono"	0.0732265446224256	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD4 Naive_1"	0.68860510805501	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD4 Naive_2"	0.432926829268293	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD4 TCM"	0.110689916603487	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD8 Naive_1"	0.129591836734694	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD8 Naive_2"	0.771117166212534	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD8 TEM_1"	0.535564853556485	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD8 TEM_2"	0.0408163265306122	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"NK"	0.04	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"cDC2"	0.201492537313433	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"pDC"	0.0327868852459016	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"B intermediate"	0.516	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"B memory"	0.0869565217391304	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"B naive"	0.0392156862745098	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD14 Mono"	0.0175510204081633	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD16 Mono"	0.0617848970251716	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD4 Naive_1"	0.769155206286837	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD4 Naive_2"	0.426829268292683	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD4 TCM"	0.112964366944655	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD8 Naive_1"	0.138775510204082	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD8 Naive_2"	0.741144414168937	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD8 TEM_1"	0.468619246861925	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD8 TEM_2"	0.0349854227405248	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"NK"	0.0525	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"cDC2"	0.149253731343284	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"pDC"	0	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"B intermediate"	0.86	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"B memory"	0.130434782608696	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"B naive"	0.0555555555555556	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD14 Mono"	0.0342857142857143	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD16 Mono"	0.0434782608695652	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD4 Naive_1"	0.978388998035363	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD4 Naive_2"	0.365853658536585	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD4 TCM"	0.0970432145564822	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD8 Naive_1"	0.183673469387755	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD8 Naive_2"	0.566757493188011	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD8 TEM_1"	0.414225941422594	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD8 TEM_2"	0.0379008746355685	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"NK"	0.04	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"cDC2"	0.17910447761194	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"pDC"	0.0983606557377049	"aggregation"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"B intermediate"	0.452	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"B memory"	0.260869565217391	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"B naive"	0.0457516339869281	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD14 Mono"	0.0869387755102041	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD16 Mono"	0.0709382151029748	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD4 Naive_1"	0.144400785854617	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD4 Naive_2"	0.567073170731707	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD4 TCM"	0.920394238059136	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD8 Naive_1"	0.0642857142857143	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD8 Naive_2"	0.594005449591281	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD8 TEM_1"	0.723849372384937	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD8 TEM_2"	0.119533527696793	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"NK"	0.0175	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"cDC2"	0.0223880597014925	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"pDC"	0	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"B intermediate"	0.392	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"B memory"	0.228260869565217	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"B naive"	0.0457516339869281	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD14 Mono"	0.115510204081633	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD16 Mono"	0.080091533180778	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD4 Naive_1"	0.983300589390963	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD4 Naive_2"	0.847560975609756	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD4 TCM"	1	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD8 Naive_1"	0.231632653061224	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD8 Naive_2"	0.904632152588556	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD8 TEM_1"	0.849372384937239	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD8 TEM_2"	0.253644314868805	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"NK"	0.03	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"cDC2"	0.0223880597014925	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"pDC"	0	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"B intermediate"	0.06	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"B memory"	0.684782608695652	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"B naive"	0.0457516339869281	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD14 Mono"	0.257959183673469	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD16 Mono"	0.14187643020595	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD4 Naive_1"	1	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD4 Naive_2"	1	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD4 TCM"	1	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD8 Naive_1"	1	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD8 Naive_2"	1	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD8 TEM_1"	1	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD8 TEM_2"	0.921282798833819	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"NK"	0.1375	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"cDC2"	0	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"pDC"	0	"SnapATAC2_jaccard"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"B intermediate"	0.172	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"B memory"	0.0326086956521739	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"B naive"	0.0261437908496732	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD14 Mono"	0.0248979591836735	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD16 Mono"	0.100686498855835	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD4 Naive_1"	0.0903732809430255	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD4 Naive_2"	0.652439024390244	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD4 TCM"	0.985595147839272	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD8 Naive_1"	0.0775510204081633	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD8 Naive_2"	0.583106267029973	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD8 TEM_1"	0.619246861924686	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"CD8 TEM_2"	0.253644314868805	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"NK"	0.0375	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"cDC2"	0.0597014925373134	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"pDC"	0	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	30
+"B intermediate"	0.204	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"B memory"	0.0434782608695652	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"B naive"	0.0522875816993464	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD14 Mono"	0.0289795918367347	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD16 Mono"	0.0983981693363844	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD4 Naive_1"	0.944990176817289	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD4 Naive_2"	0.975609756097561	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD4 TCM"	1	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD8 Naive_1"	0.322448979591837	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD8 Naive_2"	0.880108991825613	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD8 TEM_1"	0.853556485355649	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"CD8 TEM_2"	0.766763848396501	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"NK"	0.2075	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"cDC2"	0.0447761194029851	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"pDC"	0	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	50
+"B intermediate"	0.348	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"B memory"	0.0652173913043478	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"B naive"	0.0882352941176471	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD14 Mono"	0.04	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD16 Mono"	0.0823798627002288	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD4 Naive_1"	1	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD4 Naive_2"	1	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD4 TCM"	1	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD8 Naive_1"	1	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD8 Naive_2"	1	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD8 TEM_1"	1	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"CD8 TEM_2"	1	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"NK"	0.97	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"cDC2"	0.0149253731343284	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	100
+"pDC"	0	"SnapATAC2_cosine"	"10X PBMC multiomics"	"PBMC_multiomics"	100

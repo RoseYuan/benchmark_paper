@@ -1,0 +1,13 @@
+artery_aorta_SM-C1PX3,Vascular_Smooth_Muscle_1
+colon_transverse_SM-CSSDA,Colonic_Goblet_Cell
+esophagus_ge_junction_SM-CTD24,Smooth_Muscle_GE_Junction
+esophagus_mucosa_SM-AZPYJ,Esophageal_Epithelial_Cell
+liver_SM-A8WNZ,Hepatocyte
+lung_SM-JF1NZ,Alveolar_Type_1_Cell
+mammary_tissue_SM-JF1NV,Mammary_Epithelial
+muscle_SM-IOBHP,Type_I_Skeletal_Myocyte
+ovary_SM-IOBHR,Luteal_Cell_Ovarian
+pancreas_SM-IOBHS,Pancreatic_Acinar_Cell
+small_intestine_SM-ADA5F,Small_Intestinal_Enterocyte
+stomach_SM-IOBHV,Parietal_Cell
+thyroid_SM-JF1O4,Thyroid_Follicular_Cell

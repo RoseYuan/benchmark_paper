@@ -1,0 +1,10 @@
+artery_tibial_SM-IOBHK,Vascular_Smooth_Muscle_2
+colon_transverse_SM-A9HOW,Colon_Epithelial_Cell_1
+lung_SM-JF1NZ,Alveolar_Type_1_Cell
+mammary_tissue_SM-JF1NV,Mammary_Epithelial
+nerve_tibial_SM-IOBHQ,Peripheral_Nerve_Stromal
+ovary_SM-IOBHR,Luteal_Cell_Ovarian
+pancreas_SM-IOBHS,Ductal_Cell_Pancreatic
+small_intestine_SM-ADA5F,Small_Intestinal_Enterocyte
+stomach_SM-IOBHV,Parietal_Cell
+uterus_SM-IOBHX,Smooth_Muscle_Uterine

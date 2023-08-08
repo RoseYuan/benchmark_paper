@@ -1,0 +1,435 @@
+---
+title: "PBMC10X RNA Analysis"
+author: "Siyuan Luo"
+date: "2022-09-26"
+output:
+  html_document:
+    df_print: paged
+    toc: TRUE
+    toc_float: TRUE
+    theme: default
+# editor_options:
+#   chunk_output_type: console
+editor_options: 
+  chunk_output_type: inline
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, eval=FALSE}
+readRenviron("~/.Renviron")
+library("reticulate")
+py_config()
+```
+
+```{r,eval=FALSE}
+# install
+setRepositories(ind=1:3) # needed to automatically install Bioconductor dependencies
+install.packages("Signac")
+BiocManager::install(c('BSgenome.Hsapiens.UCSC.hg19', 'EnsDb.Hsapiens.v75'))
+BiocManager::install(c('BSgenome.Hsapiens.UCSC.hg38', 'EnsDb.Hsapiens.v86'))
+BiocManager::install(c('BSgenome.Mmusculus.UCSC.mm10', 'EnsDb.Mmusculus.v79'))
+```
+
+```{r,message=FALSE}
+library(Seurat)
+library(GenomeInfoDb)
+library(EnsDb.Hsapiens.v86)
+library(BSgenome.Hsapiens.UCSC.hg38)
+library(ggplot2)
+library(patchwork)
+library(Matrix)
+library(dplyr)
+library(scDblFinder)
+library(BiocSingular)
+library(scater)
+
+dyn.load('/usr/local/hdf5/lib/libhdf5.so.200')
+library(hdf5r)
+set.seed(1234)
+
+```
+
+```{r}
+# computer specific settings
+proj_dir <- "/home/siluo/nme_public/SiyuanLuo/projects/sc_chromatin_benchmark/"
+software_dir <- "/home/siluo/Software/"
+setwd(paste0(proj_dir, "PBMC_multi-omics_10X/rna"))
+```
+
+```{r, eval=FALSE, include=FALSE}
+proj_dir <- "/home/siluo/public/SiyuanLuo/projects/sc_chromatin_benchmark/"
+software_dir <- "/home/siluo/softwares/"
+setwd(paste0(proj_dir, "PBMC_multi-omics_10X/rna"))
+```
+
+# Data Loading
+```{r}
+# load the RNA data
+counts <- Read10X_h5(paste0(proj_dir,"PBMC_multi-omics_10X/datasets/pbmc_granulocyte_sorted_10k_filtered_feature_bc_matrix.h5"))
+metadata <- read.csv(
+  file = paste0(proj_dir,"PBMC_multi-omics_10X/datasets/pbmc_granulocyte_sorted_10k_per_barcode_metrics.csv"),
+  header = TRUE,
+  row.names = 1
+)
+```
+
+```{r}
+# create a Seurat object containing the RNA adata
+pbmc_rna <- CreateSeuratObject(
+  counts = counts$`Gene Expression`,
+  assay = "RNA",
+  meta.data = metadata
+)
+rm(counts, metadata)
+```
+
+# Quality Control
+
+## Basic metrics
+```{r}
+pbmc_rna[["percent.mt"]] <- PercentageFeatureSet(pbmc_rna, pattern = "^MT-")
+VlnPlot(pbmc_rna, features = c("nFeature_RNA", "nCount_RNA", "percent.mt"), ncol = 3,pt.size = 0.2)
+```
+
+```{r}
+# FeatureScatter is typically used to visualize feature-feature relationships, but can be used for anything calculated by the object, i.e. columns in object metadata, PC scores etc.
+plot1 <- FeatureScatter(pbmc_rna, feature1 = "nCount_RNA", feature2 = "percent.mt")
+plot2 <- FeatureScatter(pbmc_rna, feature1 = "nCount_RNA", feature2 = "nFeature_RNA")
+plot1 + plot2
+```
+
+```{r}
+# filter out low quality cells
+saveRDS(pbmc_rna, file = "pbmc_rna0_before_QC.rds")
+df_QC <- data.frame(pbmc_rna[[c("atac_barcode","gex_barcode")]])
+
+pbmc_rna <- subset(
+  x = pbmc_rna,
+  subset = nFeature_RNA > 200 & 
+    nFeature_RNA < 5000 & 
+    nCount_RNA < 25000 & 
+    percent.mt < 20
+)
+```
+
+## Doublet detection
+Do it later after clustering.
+
+# Normalization, dimensional reduction
+## PCA
+```{r,message=FALSE,warning = FALSE, results='hide'}
+pbmc_rna <- SCTransform(pbmc_rna) # set default assay to SCT
+pbmc_rna <- RunPCA(pbmc_rna)
+```
+## Select # dimensions
+```{r, fig.show="hold", out.width="50%", fig.keep='all'}
+DimPlot(pbmc_rna, reduction = "pca")
+ElbowPlot(pbmc_rna)
+```
+
+# RNA clustering
+## Use selected resolution 
+See exploration for resolution selection.
+```{r,message=FALSE,warning = FALSE}
+pbmc_rna <- FindNeighbors(pbmc_rna, dims = 1:11)
+r <- 0.8
+pbmc_rna <- FindClusters(pbmc_rna, resolution = r)
+pbmc_rna[[paste0("rna_clusters_r",r)]] <- pbmc_rna$seurat_clusters
+
+pbmc_rna <- RunUMAP(pbmc_rna, dims = 1:11)
+DimPlot(pbmc_rna, reduction = "umap")
+```
+
+## Find markers
+```{r, include=FALSE, eval=FALSE}
+# find markers for every cluster compared to all remaining cells, report only the positive
+# ones
+pbmc.markers <- FindAllMarkers(pbmc_rna, only.pos = TRUE, min.pct = 0.25, logfc.threshold = 0.25)
+pbmc.markers %>%
+    group_by(cluster) %>%
+    slice_max(n = 2, order_by = avg_log2FC)
+
+pbmc.markers %>%
+    group_by(cluster) %>%
+    top_n(n = 10, wt = avg_log2FC) -> top10
+DoHeatmap(pbmc_rna, features = top10$gene) + NoLegend()
+
+paste(top10[top10$cluster==2,]$gene,sep=',',collapse = ',')
+pbmc.markers[pbmc.markers$gene %in% c("MS4A1","CD8A","PPBP","IL7R","S100A4","CCR7","CD14","LYZ","FCGR3A","MS4A7","GNLY","NKG7","FCER1A","CST3","PPBP"),]
+pbmc.markers[pbmc.markers$gene %in% c("CD27","IL7R","CCR7"),]
+# http://xteam.xbio.top/CellMarker/search.jsp?species=Human&tissue=Blood&cellname=T%20cell
+# Too confusing...
+```
+
+
+# Reference mapping
+## Transfer labels
+```{r}
+library(SeuratDisk)
+
+# load PBMC reference
+# an annotated PBMC reference dataset from Hao et al. (2020), available for download here: https://atlas.fredhutch.org/data/nygc/multimodal/pbmc_multimodal.h5seurat
+
+reference <- LoadH5Seurat(paste0(proj_dir,"PBMC_multi-omics_10X/datasets/pbmc_multimodal.h5seurat"))
+
+DefaultAssay(pbmc_rna) <- "SCT"
+
+# transfer cell type labels from reference to query
+transfer_anchors <- FindTransferAnchors(
+  reference = reference,
+  query = pbmc_rna,
+  normalization.method = "SCT",
+  reference.reduction = "spca",
+  recompute.residuals = FALSE,
+  dims = 1:50
+)
+
+predictions <- TransferData(
+  anchorset = transfer_anchors, 
+  refdata = reference$celltype.l2,
+  weight.reduction = pbmc_rna[['pca']],
+  dims = 1:50
+)
+
+pbmc_rna <- AddMetaData(
+  object = pbmc_rna,
+  metadata = predictions
+)
+
+```
+
+## Evaluation
+```{r,fig.keep='all',message=FALSE,warning = FALSE}
+pbmc_rna <- AddMetaData(object = pbmc_rna, 
+                     metadata = MappingScore(transfer_anchors,ndim=50), 
+                     col.name = "mapping.score")
+
+plot3 <- FeaturePlot(pbmc_rna,features = "mapping.score", combine = FALSE)
+plot4 <- FeaturePlot(pbmc_rna,features = "prediction.score.max", combine = FALSE)
+
+fix.sc <- scale_color_gradientn( colours = c('lightgrey', 'blue'),  limits = c(0, 1))
+plot3 <- lapply(plot3, function (x) x + fix.sc)
+plot3 <- CombinePlots(plot3)
+
+plot4 <- lapply(plot4, function (x) x + fix.sc)
+plot4 <- CombinePlots(plot4)
+
+plot3
+plot4
+```
+
+
+
+## Extract cell QC information
+```{r}
+df_QC["QC"] <- "filtered_out_in_QC"
+df_QC[rownames(df_QC) %in% pbmc_rna$gex_barcode,"QC"] <- "filtered_out_in_mapping"
+colnames(df_QC)[1] <- "cell_id"
+```
+
+## Remove unmapped cells
+```{r}
+saveRDS(pbmc_rna, file = "pbmc_rna1_after_reference_mapping.rds")
+
+pbmc_rna <- subset(
+  x = pbmc_rna,
+  subset = mapping.score > 0.6 &
+    prediction.score.max > 0.6
+)
+```
+
+```{r}
+df_QC[rownames(df_QC) %in% pbmc_rna$gex_barcode,"QC"] <- "doublets"
+```
+
+```{r,fig.keep='all',message=FALSE,warning = FALSE}
+plot5 <- FeaturePlot(pbmc_rna,features = "mapping.score", combine = FALSE) 
+plot6 <- FeaturePlot(pbmc_rna,features = "prediction.score.max", combine = FALSE)
+
+fix.sc <- scale_color_gradientn( colours = c('lightgrey', 'blue'),  limits = c(0, 1))
+plot5 <- lapply(plot5, function (x) x + fix.sc)
+plot5 <- CombinePlots(plot5)
+
+plot6 <- lapply(plot6, function (x) x + fix.sc)
+plot6 <- CombinePlots(plot6)
+
+plot5
+plot6
+```
+
+
+```{r}
+plot7 <- DimPlot(pbmc_rna, reduction = "umap",label = T, repel=T, group.by = "predicted.id",cols="polychrome")  + ggtitle("Query transfered labels") 
+plot7
+```
+
+
+```{r}
+plot8 <- DimPlot(pbmc_rna, reduction = "umap",label = T, repel=T, group.by = "rna_clusters_r0.8",cols="polychrome")  + ggtitle("Clustering using RNA")
+plot8
+```
+
+
+## Save the RNA object, output RNA label
+```{r}
+saveRDS(pbmc_rna, file = "pbmc_rna2_with_high_quality_map.rds")
+```
+
+# Doublet detection 
+## Cluster-based {.tabset}
+```{r}
+df_count <- rename(dplyr::count(pbmc_rna[[c("rna_clusters_r0.8","predicted.id")]], rna_clusters_r0.8, predicted.id), Freq = n) %>% arrange(rna_clusters_r0.8, -Freq)
+df_count
+```
+
+```{r}
+set.seed(10010101)
+pbmc.sce <- as.SingleCellExperiment(pbmc_rna)
+clusters <- pbmc_rna$rna_clusters_r0.8
+dbl.out <- findDoubletClusters(pbmc.sce, clusters)
+head(dbl.out,n=10)
+```
+
+Check cluster 5,3,17,11,15
+
+### Cluster 15
+```{r, fig.keep='all',message=FALSE,warning = FALSE}
+pbmc_15 <- subset(x=pbmc_rna,subset=rna_clusters_r0.8 %in% c(12,13,15,1))
+c15.markers <- FindAllMarkers(pbmc_15)
+
+c15.markers[c15.markers$cluster==15,] %>%
+    group_by(cluster) %>%
+    top_n(n = 20, wt = avg_log2FC) -> top20
+
+top20 # the fold change is large, but not actually DE ??? 
+DoHeatmap(pbmc_15, features = c15.markers$gene)
+
+pbmc_15 <- subset(x=pbmc_rna,subset=rna_clusters_r0.8 %in% c(15,0))
+c15.markers <- FindMarkers(pbmc_15, ident.1 = 15, ident.2 = 0)
+c15.markers %>%
+    top_n(n = 20, wt = avg_log2FC) -> top20
+top20
+DoHeatmap(pbmc_15, features = rownames(c15.markers)) 
+```
+
+### Cluster 5
+```{r,message=FALSE,warning = FALSE}
+pbmc_5 <- subset(x=pbmc_rna,subset=rna_clusters_r0.8 %in% c(12,5))
+c5.markers <- FindAllMarkers(pbmc_5)
+
+c5.markers[c5.markers$cluster==5,] %>%
+    group_by(cluster) %>%
+    top_n(n = 20, wt = avg_log2FC) -> top20
+
+top20 # the fold change is large, but not actually DE ??? 
+DoHeatmap(pbmc_5, features = c5.markers$gene)
+```
+
+### Cluster 3
+```{r,message=FALSE,warning = FALSE}
+pbmc_3 <- subset(x=pbmc_rna,subset=rna_clusters_r0.8 %in% c(3,5,15))
+c3.markers <- FindAllMarkers(pbmc_3)
+
+c3.markers[c3.markers$cluster==3,] %>%
+    group_by(cluster) %>%
+    top_n(n = 20, wt = avg_log2FC) -> top20
+
+top20 
+DoHeatmap(pbmc_3, features = c3.markers$gene)
+```
+
+### Cluster 11
+```{r,message=FALSE,warning = FALSE}
+pbmc_11 <- subset(x=pbmc_rna,subset=rna_clusters_r0.8 %in% c(2,1,11))
+c11.markers <- FindAllMarkers(pbmc_11)
+
+c11.markers[c11.markers$cluster==11,] %>%
+    group_by(cluster) %>%
+    top_n(n = 20, wt = avg_log2FC) -> top20
+
+top20 # the fold change is large, but not actually DE ??? 
+DoHeatmap(pbmc_11, features = c11.markers$gene) 
+```
+
+### Cluster 17
+```{r,message=FALSE,warning = FALSE}
+pbmc_17 <- subset(x=pbmc_rna,subset=rna_clusters_r0.8 %in% c(17,13,1))
+
+c17.markers <- FindAllMarkers(pbmc_17)
+c17.markers[c17.markers$cluster==17,] %>%
+    group_by(cluster) %>%
+    top_n(n = 20, wt = avg_log2FC) -> top20
+top20 # the fold change is large, but not actually DE ??? 
+DoHeatmap(pbmc_17, features = c17.markers$gene) 
+
+c17.markers <- FindMarkers(pbmc_17, ident.1 = 17, ident.2 = 13)
+c17.markers %>%
+    top_n(n = 20, wt = avg_log2FC) -> top20
+top20
+DoHeatmap(pbmc_17, features = rownames(c17.markers)) 
+
+```
+Keep cluster 3, because it is large (much larger than c5, c15), so it is unlikely to be the mixture of c5 and c15.
+
+Not sure for cluster 5, cluster 15.
+
+Remove cluster 17, because it is a very small set, and from reference mapping, there's no novel cell types. Cluster 13 contains the same cell type, and from DE marker between c17 and c13, c17 seems to ensemble c13.
+
+Remove cluster 11, because it has the same label with c1,c2, and doesn't seem to have new marker against c1,c2.
+
+
+```{r}
+pbmc_rna <- subset(pbmc_rna, subset= rna_clusters_r0.8 != 11 & rna_clusters_r0.8 != 17)
+```
+
+## Simulation-based
+```{r}
+pbmc.sce <- as.SingleCellExperiment(pbmc_rna)
+dbl.dens <- computeDoubletDensity(pbmc.sce)
+summary(dbl.dens)
+```
+
+```{r,message=FALSE,warning = FALSE}
+pbmc.sce$DoubletScore <- dbl.dens
+
+pbmc.sce <- runUMAP(pbmc.sce)
+plotUMAP(pbmc.sce, colour_by="DoubletScore", point_size=0.2, point_alpha=0.5)
+```
+
+```{r}
+dbl.calls <- doubletThresholding(data.frame(score=dbl.dens),
+    method="griffiths", returnType="call")
+summary(dbl.calls)
+
+plotColData(pbmc.sce, x="rna_clusters_r0.8", y="DoubletScore", colour_by=I(dbl.calls))
+```
+
+## Classifier-based
+```{r}
+set.seed(10010101)
+pbmc.sce <- scDblFinder(pbmc.sce, clusters=pbmc_rna$rna_clusters_r0.8)
+plotUMAP(pbmc.sce, colour_by="scDblFinder.score")
+```
+```{r}
+table(pbmc.sce$scDblFinder.class)
+```
+
+## Remove doublets based on the classifier method. 
+```{r}
+barcode_singlet <- colnames(pbmc.sce)[pbmc.sce$scDblFinder.class == "singlet"]
+pbmc_rna <- subset(x=pbmc_rna, cells=barcode_singlet)
+
+pbmc.sce <- as.SingleCellExperiment(pbmc_rna)
+dbl.dens <- computeDoubletDensity(pbmc.sce)
+pbmc.sce$DoubletScore <- dbl.dens
+dbl.calls <- doubletThresholding(data.frame(score=dbl.dens),
+    method="griffiths", returnType="call")
+plotColData(pbmc.sce, x="rna_clusters_r0.8", y="DoubletScore", colour_by=I(dbl.calls))
+```
+
+```{r}
+saveRDS(pbmc_rna, "pbmc_rna_preprocessed.rds")
+```

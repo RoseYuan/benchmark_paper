@@ -1,0 +1,44 @@
+WORKDIR="/home/siluo/public/SiyuanLuo/projects/benchmark/raw_data/Buenrostro_2018"
+cell_sample=["Buenrostro_2018"]
+
+rule all:
+    input:
+        expand(WORKDIR + "/{sample}.bam.bai", sample=cell_sample),
+        expand(WORKDIR + "/{sample}.fragment.bed", sample=cell_sample),
+        expand(WORKDIR + "/{sample}.fragment.sorted.bed", sample=cell_sample),
+        expand(WORKDIR + "/{sample}.fragment.sorted.bed.gz", sample=cell_sample),
+        expand(WORKDIR + "/{sample}.fragment.sorted.bed.gz.tbi", sample=cell_sample)
+
+
+rule index_bam:
+    input:
+        "{WORKDIR}/{sample}.bam"
+    output:
+        "{WORKDIR}/{sample}.bam.bai"
+    shell:
+        "samtools index {input}"
+
+
+rule bam_to_frag:
+    input:
+        bam = "{WORKDIR}/{sample}.bam",
+        bai = "{WORKDIR}/{sample}.bam.bai"
+    output:
+        bed = "{WORKDIR}/{sample}.fragment.bed"
+    shell:  
+        "sinto fragments --bam {input.bam} --fragments {output.bed} --nproc 3 --barcodetag RG --collapse_within"
+
+
+rule frag_processing:
+    input:
+        bed = "{WORKDIR}/{sample}.fragment.bed"
+    output:
+        bed = "{WORKDIR}/{sample}.fragment.sorted.bed",
+        gz = "{WORKDIR}/{sample}.fragment.sorted.bed.gz",
+        tbi = "{WORKDIR}/{sample}.fragment.sorted.bed.gz.tbi"
+    shell:
+        """
+        sort -k 1,1 -k2,2n {input.bed} > {output.bed} && \
+        bgzip {output.bed} && \
+        tabix -p bed {output.gz}
+        """
