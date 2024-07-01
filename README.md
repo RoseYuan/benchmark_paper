@@ -8,3 +8,4 @@ For generating the visualizations in our benchmark paper, see `./analysis` and `
 
 For the reusable snakemake pipeline, see the repository: [sc_chromatin_benchmark](https://github.com/RoseYuan/sc_chromatin_benchmark).
 
+[![DOI](https://zenodo.org/badge/674374498.svg)](https://zenodo.org/doi/10.5281/zenodo.12607316)
