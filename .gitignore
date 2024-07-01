@@ -1,7 +1,8 @@
 # data and results
 .DS_Store
 ._.DS_Store
-
+'analysis/Plot_metrics copy.ipynb'
+.Rprofile
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
