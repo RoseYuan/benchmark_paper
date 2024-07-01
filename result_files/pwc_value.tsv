@@ -1,0 +1,193 @@
+dataset	long_method	ndim	metric	value
+1	Cell line	aggregation	15	avg_connectivity_snn	0.00154946261067946
+2	Cell line	aggregation	30	avg_connectivity_snn	0.00150410544168899
+3	Cell line	aggregation	50	avg_connectivity_snn	0.00148004201100375
+4	Cell line	aggregation	100	avg_connectivity_snn	0.0010685632365666
+5	Cell line	SnapATAC2_cosine	15	avg_connectivity_snn	0.0102441244627846
+6	Cell line	SnapATAC2_cosine	30	avg_connectivity_snn	0.0184410036452048
+7	Cell line	SnapATAC2_cosine	50	avg_connectivity_snn	0.0277638215924165
+8	Cell line	SnapATAC2_cosine	100	avg_connectivity_snn	0.0510731275639576
+9	Cell line	SnapATAC2_jaccard	15	avg_connectivity_snn	0.00765260283038042
+10	Cell line	SnapATAC2_jaccard	30	avg_connectivity_snn	0.0114670746757651
+11	Cell line	SnapATAC2_jaccard	50	avg_connectivity_snn	0.0154564183263973
+12	Cell line	SnapATAC2_jaccard	100	avg_connectivity_snn	0.0344107700351294
+13	Cell line	SnapATAC1	15	avg_connectivity_snn	0.0111415636416185
+14	Cell line	SnapATAC1	30	avg_connectivity_snn	0.0150653535149846
+15	Cell line	SnapATAC1	50	avg_connectivity_snn	0.0182411657466478
+16	Cell line	SnapATAC1	100	avg_connectivity_snn	0.030820879601157
+17	Cell line	Signac_by_cluster_peaks	15	avg_connectivity_snn	0.00556208809629145
+18	Cell line	Signac_by_cluster_peaks	30	avg_connectivity_snn	0.00687681099979965
+19	Cell line	Signac_by_cluster_peaks	50	avg_connectivity_snn	0.00876088402326557
+20	Cell line	Signac_by_cluster_peaks	100	avg_connectivity_snn	0.0128415471996659
+21	Cell line	Signac_all_cell_peaks	15	avg_connectivity_snn	0.00499043393438705
+22	Cell line	Signac_all_cell_peaks	30	avg_connectivity_snn	0.00723328860064241
+23	Cell line	Signac_all_cell_peaks	50	avg_connectivity_snn	0.00913645618960185
+24	Cell line	Signac_all_cell_peaks	100	avg_connectivity_snn	0.0143386829158756
+25	Cell line	ArchR_peaks	15	avg_connectivity_snn	0.00171415572399438
+26	Cell line	ArchR_peaks	30	avg_connectivity_snn	0.0022508164619376
+27	Cell line	ArchR_peaks	50	avg_connectivity_snn	0.00309412177747638
+28	Cell line	ArchR_peaks	100	avg_connectivity_snn	0.00579328491555967
+29	Cell line	ArchR_tiles	15	avg_connectivity_snn	0.00143162913775937
+30	Cell line	ArchR_tiles	30	avg_connectivity_snn	0.0020721519457259
+31	Cell line	ArchR_tiles	50	avg_connectivity_snn	0.00268811350278474
+32	Cell line	ArchR_tiles	100	avg_connectivity_snn	0.00993720075351789
+33	Atlas1	aggregation	15	avg_connectivity_snn	0.00354791047225125
+34	Atlas1	aggregation	30	avg_connectivity_snn	0.00506897221887388
+35	Atlas1	aggregation	50	avg_connectivity_snn	0.00486682511005308
+36	Atlas1	aggregation	100	avg_connectivity_snn	0.00374183431085274
+37	Atlas1	SnapATAC2_cosine	15	avg_connectivity_snn	0.00330064653463413
+38	Atlas1	SnapATAC2_cosine	30	avg_connectivity_snn	0.00527540966106225
+39	Atlas1	SnapATAC2_cosine	50	avg_connectivity_snn	0.00966596557769627
+40	Atlas1	SnapATAC2_cosine	100	avg_connectivity_snn	0.0309382845659626
+41	Atlas1	SnapATAC2_jaccard	15	avg_connectivity_snn	0.00861012731787534
+42	Atlas1	SnapATAC2_jaccard	30	avg_connectivity_snn	0.0146037358523938
+43	Atlas1	SnapATAC2_jaccard	50	avg_connectivity_snn	0.0173800397948353
+44	Atlas1	SnapATAC2_jaccard	100	avg_connectivity_snn	0.0271698785123249
+45	Atlas1	SnapATAC1	15	avg_connectivity_snn	0.00272516738231866
+46	Atlas1	SnapATAC1	30	avg_connectivity_snn	0.00658432474385049
+47	Atlas1	SnapATAC1	50	avg_connectivity_snn	0.0145465620842704
+48	Atlas1	SnapATAC1	100	avg_connectivity_snn	0.0401444325574711
+49	Atlas1	Signac_by_cluster_peaks	15	avg_connectivity_snn	0.00389833550942292
+50	Atlas1	Signac_by_cluster_peaks	30	avg_connectivity_snn	0.00252446923251801
+51	Atlas1	Signac_by_cluster_peaks	50	avg_connectivity_snn	0.00430445231020532
+52	Atlas1	Signac_by_cluster_peaks	100	avg_connectivity_snn	0.0108700148773724
+53	Atlas1	Signac_all_cell_peaks	15	avg_connectivity_snn	0.00452416261731155
+54	Atlas1	Signac_all_cell_peaks	30	avg_connectivity_snn	0.00340290169509385
+55	Atlas1	Signac_all_cell_peaks	50	avg_connectivity_snn	0.0063023816257651
+56	Atlas1	Signac_all_cell_peaks	100	avg_connectivity_snn	0.017974018537476
+57	Atlas1	ArchR_peaks	15	avg_connectivity_snn	0.0132161575772811
+58	Atlas1	ArchR_peaks	30	avg_connectivity_snn	0.00841910763033812
+59	Atlas1	ArchR_peaks	50	avg_connectivity_snn	0.0146560395748135
+60	Atlas1	ArchR_peaks	100	avg_connectivity_snn	0.0219449289866482
+61	Atlas1	ArchR_tiles	15	avg_connectivity_snn	0.0174614898061318
+62	Atlas1	ArchR_tiles	30	avg_connectivity_snn	0.0148105911604352
+63	Atlas1	ArchR_tiles	50	avg_connectivity_snn	0.0175698177982542
+64	Atlas1	ArchR_tiles	100	avg_connectivity_snn	0.0316749846418378
+65	Atlas2	aggregation	15	avg_connectivity_snn	0.00558824211249778
+66	Atlas2	aggregation	30	avg_connectivity_snn	0.00406149272996279
+67	Atlas2	aggregation	50	avg_connectivity_snn	0.00514924491996941
+68	Atlas2	aggregation	100	avg_connectivity_snn	0.00542582701862751
+69	Atlas2	SnapATAC2_cosine	15	avg_connectivity_snn	0.00297588308677381
+70	Atlas2	SnapATAC2_cosine	30	avg_connectivity_snn	0.0118645704941142
+71	Atlas2	SnapATAC2_cosine	50	avg_connectivity_snn	0.0192790053117556
+72	Atlas2	SnapATAC2_cosine	100	avg_connectivity_snn	0.0471149115895685
+73	Atlas2	SnapATAC2_jaccard	15	avg_connectivity_snn	0.00345969431230898
+74	Atlas2	SnapATAC2_jaccard	30	avg_connectivity_snn	0.0111285505534693
+75	Atlas2	SnapATAC2_jaccard	50	avg_connectivity_snn	0.0175432026555715
+76	Atlas2	SnapATAC2_jaccard	100	avg_connectivity_snn	0.0351173784283922
+77	Atlas2	SnapATAC1	15	avg_connectivity_snn	0.00402263906441408
+78	Atlas2	SnapATAC1	30	avg_connectivity_snn	0.0167193504278264
+79	Atlas2	SnapATAC1	50	avg_connectivity_snn	0.0346427317077067
+80	Atlas2	SnapATAC1	100	avg_connectivity_snn	0.0631913307830875
+81	Atlas2	Signac_by_cluster_peaks	15	avg_connectivity_snn	0.00300502743805135
+82	Atlas2	Signac_by_cluster_peaks	30	avg_connectivity_snn	0.00663326500061078
+83	Atlas2	Signac_by_cluster_peaks	50	avg_connectivity_snn	0.011330982230352
+84	Atlas2	Signac_by_cluster_peaks	100	avg_connectivity_snn	0.0361514074760356
+85	Atlas2	Signac_all_cell_peaks	15	avg_connectivity_snn	0.00366517313567
+86	Atlas2	Signac_all_cell_peaks	30	avg_connectivity_snn	0.00934150454623228
+87	Atlas2	Signac_all_cell_peaks	50	avg_connectivity_snn	0.0182819995217827
+88	Atlas2	Signac_all_cell_peaks	100	avg_connectivity_snn	0.0584884729138256
+89	Atlas2	ArchR_peaks	15	avg_connectivity_snn	0.0279328312871923
+90	Atlas2	ArchR_peaks	30	avg_connectivity_snn	0.0356605790149361
+91	Atlas2	ArchR_peaks	50	avg_connectivity_snn	0.0438941765551631
+92	Atlas2	ArchR_peaks	100	avg_connectivity_snn	0.0503001857926566
+93	Atlas2	ArchR_tiles	15	avg_connectivity_snn	0.0400240308526496
+94	Atlas2	ArchR_tiles	30	avg_connectivity_snn	0.0536739922515013
+95	Atlas2	ArchR_tiles	50	avg_connectivity_snn	0.0558247512793844
+96	Atlas2	ArchR_tiles	100	avg_connectivity_snn	0.0682558675737694
+97	Buenrostro2018	aggregation	15	avg_connectivity_snn	0.177247049002148
+98	Buenrostro2018	aggregation	30	avg_connectivity_snn	0.172460256976623
+99	Buenrostro2018	aggregation	50	avg_connectivity_snn	0.178930271192873
+100	Buenrostro2018	aggregation	100	avg_connectivity_snn	0.171113410726967
+101	Buenrostro2018	SnapATAC2_cosine	15	avg_connectivity_snn	0.183303356967362
+102	Buenrostro2018	SnapATAC2_cosine	30	avg_connectivity_snn	0.191430485800051
+103	Buenrostro2018	SnapATAC2_cosine	50	avg_connectivity_snn	0.213230457403004
+104	Buenrostro2018	SnapATAC2_cosine	100	avg_connectivity_snn	0.331303919248725
+105	Buenrostro2018	SnapATAC2_jaccard	15	avg_connectivity_snn	0.178577847772552
+106	Buenrostro2018	SnapATAC2_jaccard	30	avg_connectivity_snn	0.184693800114327
+107	Buenrostro2018	SnapATAC2_jaccard	50	avg_connectivity_snn	0.194143887799627
+108	Buenrostro2018	SnapATAC2_jaccard	100	avg_connectivity_snn	0.263092675496175
+109	Buenrostro2018	SnapATAC1	15	avg_connectivity_snn	0.157167273868279
+110	Buenrostro2018	SnapATAC1	30	avg_connectivity_snn	0.165924038113359
+111	Buenrostro2018	SnapATAC1	50	avg_connectivity_snn	0.166732237320236
+112	Buenrostro2018	SnapATAC1	100	avg_connectivity_snn	0.240565038880473
+113	Buenrostro2018	Signac_by_cluster_peaks	15	avg_connectivity_snn	0.201019397423481
+114	Buenrostro2018	Signac_by_cluster_peaks	30	avg_connectivity_snn	0.220953863964647
+115	Buenrostro2018	Signac_by_cluster_peaks	50	avg_connectivity_snn	0.235911559786483
+116	Buenrostro2018	Signac_by_cluster_peaks	100	avg_connectivity_snn	0.321843037446499
+117	Buenrostro2018	Signac_all_cell_peaks	15	avg_connectivity_snn	0.200158425483585
+118	Buenrostro2018	Signac_all_cell_peaks	30	avg_connectivity_snn	0.215017229386112
+119	Buenrostro2018	Signac_all_cell_peaks	50	avg_connectivity_snn	0.229002447161555
+120	Buenrostro2018	Signac_all_cell_peaks	100	avg_connectivity_snn	0.317506043892609
+121	Buenrostro2018	ArchR_peaks	15	avg_connectivity_snn	0.201177740523509
+122	Buenrostro2018	ArchR_peaks	30	avg_connectivity_snn	0.204111116090866
+123	Buenrostro2018	ArchR_peaks	50	avg_connectivity_snn	0.225534101462771
+124	Buenrostro2018	ArchR_peaks	100	avg_connectivity_snn	0.287542479870401
+125	Buenrostro2018	ArchR_tiles	15	avg_connectivity_snn	0.197685119122191
+126	Buenrostro2018	ArchR_tiles	30	avg_connectivity_snn	0.224283218567966
+127	Buenrostro2018	ArchR_tiles	50	avg_connectivity_snn	0.249808237294963
+128	Buenrostro2018	ArchR_tiles	100	avg_connectivity_snn	0.303434002486687
+129	Chen2019	aggregation	15	avg_connectivity_snn	0.499940002203663
+130	Chen2019	aggregation	30	avg_connectivity_snn	0.539314425950567
+131	Chen2019	aggregation	50	avg_connectivity_snn	0.55553862892691
+132	Chen2019	aggregation	100	avg_connectivity_snn	0.562556404727133
+133	Chen2019	SnapATAC2_cosine	15	avg_connectivity_snn	0.502951659763214
+134	Chen2019	SnapATAC2_cosine	30	avg_connectivity_snn	0.500359462876999
+135	Chen2019	SnapATAC2_cosine	50	avg_connectivity_snn	0.508646815689929
+136	Chen2019	SnapATAC2_cosine	100	avg_connectivity_snn	0.679621013584063
+137	Chen2019	SnapATAC2_jaccard	15	avg_connectivity_snn	0.51412050562288
+138	Chen2019	SnapATAC2_jaccard	30	avg_connectivity_snn	0.547473549196776
+139	Chen2019	SnapATAC2_jaccard	50	avg_connectivity_snn	0.565721162438594
+140	Chen2019	SnapATAC2_jaccard	100	avg_connectivity_snn	0.6431431910653
+141	Chen2019	SnapATAC1	15	avg_connectivity_snn	0.391494707982894
+142	Chen2019	SnapATAC1	30	avg_connectivity_snn	0.408782048103861
+143	Chen2019	SnapATAC1	50	avg_connectivity_snn	0.425218933853368
+144	Chen2019	SnapATAC1	100	avg_connectivity_snn	0.560297081045764
+145	Chen2019	Signac_by_cluster_peaks	15	avg_connectivity_snn	0.575276330352016
+146	Chen2019	Signac_by_cluster_peaks	30	avg_connectivity_snn	0.601667541745541
+147	Chen2019	Signac_by_cluster_peaks	50	avg_connectivity_snn	0.615246662820454
+148	Chen2019	Signac_by_cluster_peaks	100	avg_connectivity_snn	0.660876175947116
+149	Chen2019	Signac_all_cell_peaks	15	avg_connectivity_snn	0.563973410716099
+150	Chen2019	Signac_all_cell_peaks	30	avg_connectivity_snn	0.584722375214429
+151	Chen2019	Signac_all_cell_peaks	50	avg_connectivity_snn	0.603421330184965
+152	Chen2019	Signac_all_cell_peaks	100	avg_connectivity_snn	0.639020889685194
+153	Chen2019	ArchR_peaks	15	avg_connectivity_snn	0.60678970875206
+154	Chen2019	ArchR_peaks	30	avg_connectivity_snn	0.656254478037026
+155	Chen2019	ArchR_peaks	50	avg_connectivity_snn	0.742690396870532
+156	Chen2019	ArchR_peaks	100	avg_connectivity_snn	0.794306368177876
+157	Chen2019	ArchR_tiles	15	avg_connectivity_snn	0.66053568298832
+158	Chen2019	ArchR_tiles	30	avg_connectivity_snn	0.701993366286498
+159	Chen2019	ArchR_tiles	50	avg_connectivity_snn	0.726743781492232
+160	Chen2019	ArchR_tiles	100	avg_connectivity_snn	0.785751451165876
+161	10XPBMC	aggregation	15	avg_connectivity_snn	0.245597932138543
+162	10XPBMC	aggregation	30	avg_connectivity_snn	0.307915029255769
+163	10XPBMC	aggregation	50	avg_connectivity_snn	0.29670452614014
+164	10XPBMC	aggregation	100	avg_connectivity_snn	0.33161563145423
+165	10XPBMC	SnapATAC2_cosine	15	avg_connectivity_snn	0.183174787822009
+166	10XPBMC	SnapATAC2_cosine	30	avg_connectivity_snn	0.172233631695096
+167	10XPBMC	SnapATAC2_cosine	50	avg_connectivity_snn	0.185370998496903
+168	10XPBMC	SnapATAC2_cosine	100	avg_connectivity_snn	0.20687125380294
+169	10XPBMC	SnapATAC2_jaccard	15	avg_connectivity_snn	0.221764041046087
+170	10XPBMC	SnapATAC2_jaccard	30	avg_connectivity_snn	0.252938157041618
+171	10XPBMC	SnapATAC2_jaccard	50	avg_connectivity_snn	0.256969025535485
+172	10XPBMC	SnapATAC2_jaccard	100	avg_connectivity_snn	0.273548685305407
+173	10XPBMC	SnapATAC1	15	avg_connectivity_snn	0.195614737277124
+174	10XPBMC	SnapATAC1	30	avg_connectivity_snn	0.213504523243256
+175	10XPBMC	SnapATAC1	50	avg_connectivity_snn	0.221018552692904
+176	10XPBMC	SnapATAC1	100	avg_connectivity_snn	0.225714243740782
+177	10XPBMC	Signac_by_cluster_peaks	15	avg_connectivity_snn	0.196037513076016
+178	10XPBMC	Signac_by_cluster_peaks	30	avg_connectivity_snn	0.174773296999206
+179	10XPBMC	Signac_by_cluster_peaks	50	avg_connectivity_snn	0.1846919384493
+180	10XPBMC	Signac_by_cluster_peaks	100	avg_connectivity_snn	0.233386740918364
+181	10XPBMC	Signac_all_cell_peaks	15	avg_connectivity_snn	0.195766902917892
+182	10XPBMC	Signac_all_cell_peaks	30	avg_connectivity_snn	0.174714012028943
+183	10XPBMC	Signac_all_cell_peaks	50	avg_connectivity_snn	0.184409251543598
+184	10XPBMC	Signac_all_cell_peaks	100	avg_connectivity_snn	0.226378238530085
+185	10XPBMC	ArchR_peaks	15	avg_connectivity_snn	0.207033061396964
+186	10XPBMC	ArchR_peaks	30	avg_connectivity_snn	0.18724330304377
+187	10XPBMC	ArchR_peaks	50	avg_connectivity_snn	0.204154276097174
+188	10XPBMC	ArchR_peaks	100	avg_connectivity_snn	0.251424396658891
+189	10XPBMC	ArchR_tiles	15	avg_connectivity_snn	0.213307597749644
+190	10XPBMC	ArchR_tiles	30	avg_connectivity_snn	0.196878818004073
+191	10XPBMC	ArchR_tiles	50	avg_connectivity_snn	0.211163671720714
+192	10XPBMC	ArchR_tiles	100	avg_connectivity_snn	0.262596249272262

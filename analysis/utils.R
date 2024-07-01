@@ -23,6 +23,19 @@ my_col_m2 <- brewer.pal(10, "Paired")[c(1,7,3:6,9:10)]
 my_col_m3 <- brewer.pal(10, "Paired")[c(2,7,3:6,9:10)]
 my_col_d <- brewer.pal(12, "Set3")
 
+# The palette from: https://jfly.uni-koeln.de/color/#pallet
+okabeito_colors <- c(
+  `green` = "#009E73",
+  `black` = "#000000",
+  `yellow` = "#F0E442",
+  `orange` = "#E69F00",
+  `light blue` = "#56B4E9",
+  `blue` = "#0072B2",
+  `red` = "#D55E00",
+  `purple` = "#CC79A7",
+  `grey` = "#999999"
+#   `dark yellow` = "#F5C710"
+)
 cross_table_plot <- function(ground_truth, clusterings, a=1.3, b=5.7, c=2, m=0, n=0.2){
     x <- unique(ground_truth)
     y <- as.factor(unique(clusterings))
